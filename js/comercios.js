@@ -25,17 +25,22 @@ fetch('../assets/comercios.json')
             }
 
         } else {
+            let disclaimer = document.createElement('p')
+            disclaimer.classList = 'comAsist'
+            disclaimer.innerText = '*El presente listado corresponde a comercios los cuales Pósitron tiene conocimiento que trabajan asiduamente la marca. Los mismos no son comercios oficiales, autorizados y/o sucursales, ya que la marca no posee dicho tipo de comercios'
+            mainTable.append(disclaimer)
             let titulo = document.createElement('h2')
             titulo.classList = 'comAsist'
-            titulo.innerText = 'DISTRIBUIDORES'
+            titulo.innerText = 'COMERCIOS INSTALADORES'
             mainTable.append(titulo)
             for (let n of data) {
                 let elemento = document.createElement('div')
                 elemento.classList = "distTabla"
-                elemento.innerHTML = `
-                    <h4><img class="flag" src="../img/iconos/${n.bandera}" alt="imagen bandera">${n.nombre}</h4>
-                    <p>Tel: ${n.tel}</p>
-                    <p>Mail: <a href="mailto:${n.email}">${n.email}</a></p>
+                elemento.innerHTML = `                    
+                    <h4>${n.nombre}</h4>
+                    <p><a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i>${n.direccion}</a></p>
+                    <p><i class="fa fa-phone" aria-hidden="true"></i>${n.tel}</p>
+                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:${n.email}">${n.email}</a></p>
                     `
                 mainTable.append(elemento)
             }
@@ -62,17 +67,22 @@ fetch('../assets/comercios.json')
                 }
 
             } else {
+                let disclaimer = document.createElement('p')
+                disclaimer.classList = 'comAsist'
+                disclaimer.innerText = '*El presente listado corresponde a comercios los cuales Pósitron tiene conocimiento que trabajan asiduamente la marca. Los mismos no son comercios oficiales, autorizados y/o sucursales, ya que la marca no posee dicho tipo de comercios'
+                mainTable.append(disclaimer)
                 let titulo = document.createElement('h2')
                 titulo.classList = 'comAsist'
-                titulo.innerText = 'DISTRIBUIDORES'
+                titulo.innerText = 'COMERCIOS INSTALADORES'
                 mainTable.append(titulo)
                 for (let n of data) {
                     let elemento = document.createElement('div')
                     elemento.classList = "distTabla"
                     elemento.innerHTML = `
-                    <h4><img class="flag" src="../img/iconos/${n.bandera}" alt="imagen bandera">${n.nombre}</h4>
-                    <p>Tel: ${n.tel}</p>
-                    <p>Mail: <a href="mailto:${n.email}">${n.email}</a></p>
+                    <h4>${n.nombre}</h4>
+                    <p><a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i>${n.direccion}</a></p>
+                    <p><i class="fa fa-phone" aria-hidden="true"></i>${n.tel}</p>
+                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:${n.email}">${n.email}</a></p>
                     `
                     mainTable.append(elemento)
                 }

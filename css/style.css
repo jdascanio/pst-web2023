@@ -558,8 +558,16 @@ textarea {
 }
 .fa-map-marker{
     font-size: 26px;
-    margin-left: 15px;
+    margin: 0px 15px;
     color: red;
+}
+.fa-phone{
+    font-size: 20px;
+    margin-right: 15px;
+}
+.fa-envelope-o{
+    font-size: 20px;
+    margin-right: 15px;
 }
 
 .FAQ {
@@ -951,6 +959,10 @@ img.flag {
 
     .comAsist {
         text-align: center;
+        margin: 30px auto;
+    }
+    .comAsist h2{
+        text-align: center;
     }
 
     .contQS {
@@ -973,7 +985,11 @@ img.flag {
 
     .comAsist {
         text-align: center;
+        width: 80%;
+        align-items: center;
+        margin: 30px auto;
     }
+   
 
     .contQS {
         flex-direction: column;
