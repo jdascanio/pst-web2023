@@ -1,0 +1,3218 @@
+[
+    {
+        {
+            "Name": "Auto ACC ",
+            "direccion": "AV. libertador 6514, Belgrano, Capital Federal",
+            "Tel": "4782-1144",
+            "cel": "116483-0754",
+            "obs": "No trabaja Audio Positron",
+            "mail": "autoaccagenda@gmail.com",
+            "lat":"-34.552008",
+            "lon":"-58.451871"
+        },
+    },
+    {
+        {
+            "Name": "PUNTA WARNES",
+            "direccion": "Av Warnes 1402, Villa Crespo, Capital Federal, Tel: 4586-0402, Cel: 1556573333, mail: puntawarnes@fibertel.com.ar. Solo alarmas vehiculares y audio (especialmente multimedia). Solo ventas - RECLAMOS NO.",
+            "Tel": "4586-0402",
+            "cel": "115657-3333",
+            "obs": "Solo alarmas vehiculares y audio (especialmente multimedia). Solo ventas - Revisiones No.",
+            "mail": "puntawarnes@fibertel.com.ar",
+            "lat":"-34.5978893",
+            "lon":"-58.4557409"
+        }
+    },
+    {
+        {
+            "Name": "CAR MUSIC",
+            "direccion": "Av. Garcia Martinez 130, Córdoba, Cordoba, Tel:0351-4813838, Cel: 0351-2767670, mail: ramiroferre@hotmail.com. Toda la línea de productos menos Audio, moto y home. Contacto: Ramiro Ferre",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.228435,
+                -31.387421,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "GR EQUIPAMIENTOS",
+            "direccion": "Av 13 N°88 entre 33 y 34, La Plata, Buenos Aires, Tel: 0221-482-1137, Cel: 221-463-8243, mail: grequipamiento@hotmail.com. Toda la linea de productos Menos Home.. Contacto:",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.974553,
+                -34.905079,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "SPL TEAM",
+            "direccion": "Av Juan Bautista Alberdi 7188, Mataderos, Capital Federal, Tel: 4686-2819, Cel: , mail: autoradiospl@yahoo.com.ar. Toda la línea de productos, menos home y audio.. Contacto: Fabian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.514729,
+                -34.660569,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUDIO CAR",
+            "direccion": "Av Emilio Castro 6862, Liniers, Capital Federal, Tel: 4687-5274, Cel: 11 5874 8778, mail: audiocarschioppa@gmail.com. toda la linea menos home. Contacto: Adrian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5161447,
+                -34.6521324,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CLAXON",
+            "direccion": "Moliere 2903, Villa Devoto, Capital Federal, Tel: 4567-0333, Cel: , mail: claxonautoradio@yahoo.com.ar. Toda la linea de productos, menos audio y home. Contacto: Pablo Janeiro",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.527689,
+                -34.6154092,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "SOLO AUTOCAR",
+            "direccion": null,
+            "Tel": "4441-0942, Cel: 1135670993, mail: mariafernandaponce@hotmail.com. Toda la línea de productos, menos home.",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.571205,
+                -34.682629,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTO FILMS",
+            "direccion": "Av Bartolomé Mitre 148, Villa Martelli, Buenos Aires, Tel: 4730-0636, Cel: 2291547462, mail: giannicuf@gmail.com. audio y sensor de estacionamiento no. Contacto: gianni",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.500223,
+                -34.54787,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "REPETTO CRISTALES",
+            "direccion": "Av Pres. Teniente General Juan Domingo Perón 3555, Victoria, Buenos Aires, Tel: 4744-2698, Cel: , mail: repettocristales@hotmailcom.ar. Toda la línea de productos, menos moto,home y audio.. Contacto: Lucio",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.535929,
+                -34.455651,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "GH ALARMAS",
+            "direccion": "ROCA 2156, NEUQUEN CAPITAL, Neuquen, Tel: (0299) 4480097, Cel: (299) 5328787, mail: alarmas.gh@gmail.com. Toda la línea de productos.. Contacto: Juaquin\/SSOTELO GABRIEL",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.089142,
+                -38.951733,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "TECNOALARMA",
+            "direccion": "Brandsen 561, Bahía Blanca, Buenos Aires, Tel: (0291) 4534581, Cel: (0291) 15 4776765, mail: ferchu_shell@hotmail.com). Toda la línea de productos. menos audio y home. Contacto: Fernando",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62.263641,
+                -38.711233,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MELLY MEGA CARS",
+            "direccion": "Bv. Gesell 456, Villa Gesell, Buenos Aires, Tel: 02255-453717, Cel: 2267 40-4500, mail: mellymegacars@hotmail.com. Toda la línea de productos, menos home. Contacto: Melly",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -56.968231,
+                -37.256839,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "HOLZER",
+            "direccion": "9 de Julio 427, Villa Mercedes, San Luis, Tel: (02657) 429850, Cel: (02657) 15642498, mail: estebanhierholzer@yahoo.com. Toda la línea de productos menos moto y home. Contacto: Esteban",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.440063,
+                -33.674069,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "RDM ALARMAS (Autoradio Salon)",
+            "direccion": "Europa 877, San Luis, San Luis, , Cel: Tel: (0266) 15 4555158, mail: rdmsanluisalarmas@gmail.com. Toda la línea de productos menos Home - Moto poco. Contacto:",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -66.30249,
+                -33.28462,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "NICO SHOPPING",
+            "direccion": "Correa 8 y Ozamis J. A. 1600, Maipú, Mendoza, Tel: 0261-4459000, Cel: , mail: info@nicoshopping.com.ar. Toda la línea de productos, menos audio y home. Contacto: Claudia",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.784714,
+                -32.971804,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CARROS",
+            "direccion": "Av Mitre 265, San Miguel de Tucumán, Tucuman, Tel: 0381-4305548, Cel: (0381) 4794110, mail: carrosmilman@tucbbs.com.ar. Toda la línea de productos, menos home y audio.. Contacto: Gustavo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.21553,
+                -26.819781,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "JIMROD",
+            "direccion": "Jujuy 898, Salta, Salta, , Cel: 0387-15-6831147, mail: . Toda la linea de productos Menos Home.. Contacto: Jimenez",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.440063,
+                -24.806681,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "TAURUS SH",
+            "direccion": "JUANA MANUELA GORRITI 590, San Salvador de Jujuy, Jujuy, Tel: (0388) 4020289, Cel: (0388)15 4741626, mail: tauruspadilla@gmail.com. Toda la línea de productos, menos audio y home.. Contacto: Viviana",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.297928,
+                -24.193111,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "HFB POLARIZADOS",
+            "direccion": "MALVINAS 2077, El Dorado, Misiones, Tel: 03751-421236, Cel: 03751 15 661299, mail: hectorborjaa@hotmail.com. toda la línea de productos. menos home. Contacto: Hector",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -54.624023,
+                -26.39187,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CERRAJERIA KATO",
+            "direccion": "General Paz 399, Villa Carlos Paz, Cordoba, Tel: 03541-425194, Cel: , mail: cerrajeriakato@yahoo.com.ar. Toda la línea de productos, menos home. Contacto: kato",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.484253,
+                -31.409912,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CRAZY PILAR",
+            "direccion": "Pedro Lagrave 73, Pilar, Buenos Aires, Tel: 0230-4420329, Cel: 112458-9775, mail: crazypilar@gmail.com. Alarmas, cierres y alzas.. Contacto: Diego\/Cristian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.9163308,
+                -34.4600035,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRONICA OSKY",
+            "direccion": "11 de Septiembre 185, Pilar, Buenos Aires, Buenos Aires, Tel: 0230-4428032, Cel: 15 5028-1248, mail: oskyelectronicapilar@gmail.com. Toda la línea de productos, menos moto y home. Recomendado para revisiones y\/o reparaciones. Contacto: Oscar",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.9165226,
+                -34.4535268,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Atomo Repuestos S.R.L.",
+            "direccion": "Av. General Savio 99, Río Tercero, Cordoba, Tel: (03571) 413333, Cel: , mail: atomorepuestosrio3@gmail.com. Toda la línea de productos, menos home y audio.. Contacto: Fernanda\/carlos",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.135437,
+                -32.182586,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "X SOUND CAR",
+            "direccion": "Ameghino 520, Jesús María, Cordoba, Tel: 03525-426475, Cel: (03525) 15 575558, mail: xsoundcar04@gmail.com. Toda la línea de productos. menos home.. Contacto: Omar",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.110718,
+                -30.987028,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "STORE EVOLUTION",
+            "direccion": "Bv. Buenos Aires 828, Monte Grande, Buenos Aires, , Cel: 15 5429 6198, mail: store_evolution@hotmail.com. TODA LA LÍNEA DE PRODUCTOS,MENOS HOME. Repara audio. Contacto: Lucas",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.458595,
+                -34.814931,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "SUN SONIC",
+            "direccion": "Av Gral. José de San Martin1675, Florencio Varela, Buenos Aires, Tel: 4287-7676, Cel: , mail: sunsonicarg@hotmail.com. ALARMAS, CIERRES Y ALZAS (Solo Autos). Contacto: Lucas",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.279037,
+                -34.794634,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MAR-CARS",
+            "direccion": "Calle 14 3333, Berazategui, Buenos Aires, Tel: 4356-2820, Cel: 15 6198 6844, mail: marcarstuning@outlook.com. TODA LA LÍNEA DE PRODUCTOS MENOS HOME.. Contacto: Mario",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.224106,
+                -34.771512,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Auto Store",
+            "direccion": "Rep. de Portugal 2999, Isidro Casanova, Buenos Aires, , Cel: 15 5240 7690, mail: autoradiocasanova@gmail.com. Toda la línea de productos, menos Home. Contacto: Javier",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5810331,
+                -34.7011005,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "DARKNESS (DKS)",
+            "direccion": "Av 101 (EX R8) 1650, Villa Lynch, San Martin, GBA Norte, Tel: 4753-2171, Cel: 15 3638 4143, mail: dkscero@yahoo.com.ar. Toda la línea de productos menos home.. Contacto: Mario",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.538504,
+                -34.583687,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AR Autoradio",
+            "direccion": "José Giribone 908, Piñeiro, Buenos Aires, , Tel: Cel: 1160004575, mail: autoradioar@yahoo.com.ar. TODA LA LÍNEA DE PRODUCTOS, MENOS HOME y moto. Contacto: Alejandro",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.382678,
+                -34.665899,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AVANT MOTOS\n",
+            "direccion": null,
+            "Tel": "(011) 4961-8947, Cel: , mail: repuestos@avantmotos.com.ar. Solo Motos Honda. Taller: 4961-3844 (Boulogne Sur Mer 930)",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.403492,
+                -34.597465,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CORDOBA CAR AUDIO",
+            "direccion": "Duarte quiroz esquina Misiones, Córdoba, Cordoba, Tel: (0351) 4220907, Cel: (0351) 15 6841200, mail: cordobacaudio@hotmail.com. Toda la línea de productos, menos home.. Contacto: Marcos Minuete",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.156723,
+                -31.427491,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Rodri sound System",
+            "direccion": "Castelli 1669, Curuzu Cuatia, Corrientes, Tel: (03774) 423172, Cel: 03774 15 63-7358, mail: rodrysoundsystem@gmail.com. Toda la línea de productos, menos home.. Contacto: Rodrigo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.0692243,
+                -29.7855349,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Quain ",
+            "direccion": null,
+            "Tel": "(0362) 4413700, Cel: 03624 384289, mail: supervisor.electronica@quain.com. Solo Venta - derivan instalacion a tecnico externo recomendado",
+            "Contacto": "esteban o fabio\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.96843,
+                -27.47538,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "PARABRISAS CRISTALES OSTI",
+            "direccion": "Avenida Hipólito Yrigoyen 1460, Avellaneda, Buenos Aires, Tel: (0)11 4218 1676, Cel: 11 35419163, mail: parabrisasosti@yahoo.com.ar. Tola la linea de producto menos Home. NO RECOMENDAR PARA INSTALAR PRODUCTOS QUE NO SEAN ADQUIRIDOS EN SU LOCAL. Contacto: daniel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.382034,
+                -34.673806,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO DEL PINO",
+            "direccion": "Riobamba 1522, Don Torcuato, Buenos Aires, Tel: 4846-1130, Cel: 11 6097-5008, mail: autorradiodelpino@hotmail.com. Toda la línea de productos, menos home. Audio por pedido.. Contacto: Ariel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.619002,
+                -34.487997,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Electro Dalle Rive",
+            "direccion": "Bv. Paraguay 1440, Pergamino, Buenos Aires, Tel: (02477) 410929, Cel: 02477 15 56 7320, mail: electrodallerive1@gmail.com. CARLOS\/MARCELA. TODA LA LÍNEA MENOS HOME. Contacto: Carlos",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.567627,
+                -33.872696,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EQUIPAR ALARMAS",
+            "direccion": "Suipacha 763, Concepción del Uruguay, Entre Rios, Tel: (03442)-423391, Cel: , mail: arielpeveri@hotmail.com. Toda la línea menos Home.. Contacto: Ariel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.232163,
+                -32.490543,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EXPO MOTO",
+            "direccion": "Lima 133, CABA, Capital Federal, Tel: 4383 0323 \/ 4389, Cel: 1155775035, mail: . Solo Motos Honda y Yamaha. Celular con linea whatsapp. Contacto: Martin",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.381927,
+                -34.610182,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO ZONIC",
+            "direccion": "Av. Hipolito Yrigoyen 18094, Longchamps, Buenos Aires, Tel:4233 2507, Cel: 11 60458233\/11 6391 5950, mail: autoradiozonic@hotmail.com. TODA LA LÍNEA DE PRODUCTOS menos home. Contacto: andres",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.390177,
+                -34.859216,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "GUIAR",
+            "direccion": "Calle 34 695, La Plata, Buenos Aires, Tel: (0221) 482 2625, Cel: Cel: (0221) 156424438, mail: ventas.guiar@gmail.com. TODA LA LÍNEA DE PRODUCTOS MENOS HOME. Contacto: Ariel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.968974,
+                -34.904411,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUDIO CONTROL",
+            "direccion": "F. D. Roosevelt 4402, Villa Urquiza, Capital Federal, Tel: 4544-4780, Cel: 15 3441 0487, mail: salustio_matias@hotmail.com. Toda la línea de productos menos audio y home.. Contacto: Matias",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.479967,
+                -34.569129,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "HONDA PLANET",
+            "direccion": "Av. Mitre 451 (Av. Balbín), San Miguel, GBA Norte, Tel: 4664-1815, Cel: 1133072116, mail: planetsanmiguel@gmail.com. Solo motos. (solo cilindrada 125 o superior, todas las marcas de moto) Contacto: daniel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.7059602,
+                -34.5361868,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "HONDA PLANET",
+            "direccion": "Av. Tratado del Pilar 165, Pilar, GBA Norte, Tel: 0230 4424115 \/ 1533, Cel: 11 2228 5133, mail: ngonzalez@planethonda.com.ar. Solo motos. (solo cilindrada 125 o superior, todas las marcas de moto) Tel venta whatsapp 1124415585 cintia. Contacto: Cintia\/Daniel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.907919,
+                -34.452643,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOLINA CAR AUDIO",
+            "direccion": "Belgrano 368 oeste, San juan, San Juan, Tel: (0264) 4201375, Cel: (0264)5220978, mail: electronicamolina@live.com.ar. Toda la línea de productos menos home.. Contacto: jose o maxi",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.530655,
+                -31.545479,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ERNESTO LEVIT ALARMAS",
+            "direccion": "Pje José Garibaldi 25, S.M. de Tucumán, Tucuman, Tel: (0381) 4231981, Cel: (0381) 6817041, mail: elevitalarmas@yahoo.com.ar. Toda la línea de productos menos audio. Moto quizas linea nueva (quiere tiempo menor a 1 min). Contacto: Ernesto",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.2429963,
+                -26.827441,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Audio Center",
+            "direccion": "Belgrano 976, San Miguel, , Tel: 4664-3520, Cel: , mail: marcos.menegozzi@yahoo.com.ar. Toda la línea de productos, menos home.. Contacto: marcos",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.708963,
+                -34.541419,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO DRG",
+            "direccion": "Cañada de Gomez 4772, Villa Lugano, Capital Federal, , Cel: 1133609503, mail: autoradio-alberdi@hotmail.com. TODA LA LÍNEA DE PRODUCTOS, MENOS HOME. Contacto: Damian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.475311,
+                -34.685028,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRÓNICA VALENCIA",
+            "direccion": "JUJUY 78, NEUQUENCAPITAL, Neuquen, Tel: (0299) 4432542, Cel: 0299-4053403, mail: electronicavalencia@speedy.com.ar. Solo Audio. INSTALADOR SR JULIO. Contacto: Ester \/ Omar Perez",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.067561,
+                -38.954432,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO CLAUDIO",
+            "direccion": "Av. Rivadavia 24116 pte peron, San Antonio de Padua, Buenos Aires, Tel: (0220)485 0334, Cel: 1149159630, mail: autoradioclaudio@hotmail.com. Toda la línea de productos, menos audio y home.. Contacto: Claudio",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.736944,
+                -34.663217,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "TECAIR\n",
+            "direccion": "SOLO VENTA DE PRODUCTOS-GREMIO Y PUBLICOAv. Warnes 596. Buenos Aires, Ciudad Autónoma de Buenos Aires.                                                            Tel\/Fax: 011 4856 0631\/0602\/ 6238\/ 0728",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4497731,
+                -34.5995462,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTO STORE (la Rioja)",
+            "direccion": "Av. Juan F. Quiroga 358, La Rioja, La Rioja, , Cel: (0380) 4466754, mail: autostore-larioja@hotmail.com. Toda la línea de productos en particular audio.. Contacto: Fabian \/ Mercedes",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -66.852504,
+                -29.420358,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EMR AUDIO CAR",
+            "direccion": "Av. Juan F. Quiroga 845, La Rioja, La Rioja, , Cel: (0380) 15-4200077, mail: er3241@hotmail.com. Toda la linea de productos Menos Home.. Contacto: Ernesto Ramallo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -66.857085,
+                -29.42189,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Autoradio Fleming",
+            "direccion": "Av Flemming 892, Martinez, GBA Norte, Tel: 4793-7340, Cel: 152596 2265, mail: robertodefleming@hotmail.com. Toda la línea de productos menos home.. Contacto: Roberto",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5238274,
+                -34.4909612,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTOPARTES EL TANO",
+            "direccion": "Rodriguez Peña 595, Tres Arroyos, Buenos Aires, , Cel: (02983) 566085, mail: andres_tomalino@hotmail.com. Todo menos Moto y Home. Contacto: Andrés",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.286414,
+                -38.377765,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO FEDERICO",
+            "direccion": "Moreno 3874, Mar del Plata, Buenos Aires, Tel: (0223) 494-4326, Cel: (0223) 15 5198352, mail: federicocaraudio@gmail.com. Toda la línea de productos, menos Home.. Contacto: Federico",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.561707,
+                -37.995343,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "IMA SHOP (MC Racing)",
+            "direccion": "Savio 206 esq. Solis, Mar del Plata, Buenos Aires, Tel: (0223) 6805405, Cel: (0223) 15 414924, mail: imashop@hotmail.com. Toda la línea de productos menos Home.. Contacto: claudio",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.564246,
+                -38.0256739,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "DCT",
+            "direccion": "estrada 3362, Saladillo, Buenos Aires, Tel: (02345) 457035, Cel: (02345) 15457035, mail: cesarmesidoro@hotmail.com. Toda la línea de productos (cesar mesidoro). Contacto: Cesar",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.7791,
+                -35.637,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "STREET SOUND",
+            "direccion": "General paz 340, Bell Ville, Cordoba, Tel: (03537) 414107, Cel: (03537) 15 447233, mail: tinchov_03@hotmail.com, Toda la línea de productos menos home ni audio pst.",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62.692537,
+                -32.620364,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRICIDAD ALCALDE",
+            "direccion": "Zamenhoff 795, General Alvear, Mendoza, Tel: 02625 427848, Cel: 2625 403950, mail: electricidadalcalde@hotmail.com. Toda la línea de productos audio por pedido.. Contacto: Enrique",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -67.686682,
+                -34.973681,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "BOUTIQUE CAR\n",
+            "direccion": "Av Victorica 1086, Moreno, Buenos Aires, Tel: 0237 4631770, Cel: , mail: boutique_car@hotmail.com. Toda la línea de productos menos home.. Contacto: sebastian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.7921869,
+                -34.6358596,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRORESISTENCIA",
+            "direccion": null,
+            "Tel": "(0362) 4411960, Cel: 0362 154916275, mail: electroresistencia@gmail.com. Toda la línea de productos",
+            "Contacto": "SZLAPSKI WALDEMAR,",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.9725494,
+                -27.4452202,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "JN MOTOS",
+            "direccion": null,
+            "Tel": "(02477) 413314, Cel: 02477 687555, mail: jnmotospergamino@hotmail.com.",
+            "Contacto": "juan\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.5717468,
+                -33.897777,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Car Work",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": "roberto\"",
+            "Cel": "1561839461, mail: cabaniacostapalmera@gmail.com. Toda la línea de productos inclusive home.",
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.7190781,
+                -34.5367036,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "TECNOSOL",
+            "direccion": "Mitre 1878, Rio Cuarto, la Carlota, Cordoba, Tel: (0358) 4630025, Cel: (0358) 15 4013785, mail: tecnosol.sas@gmail.com, actualmente estan haciendo alarmas de auto principalmente",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.3475246,
+                -33.119294,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO CG\n",
+            "direccion": "Av. Pres. Domingo Perón 4464, San Martin, GBA Norte, Tel: 4752-6240, Cel: , mail: cgaudio11@gmail.com. Toda la línea de productos menos home. Atiende Pablo y Kevin.. Contacto: Christian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5491467,
+                -34.577009,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTROMECANICA FGC",
+            "direccion": "Mitre 282, Azul, Buenos Aires, , Cel: (02281) 15588413, mail: rhpauluzzi@hotmail.com. Toda la línea, menos Home. Contacto: ricardo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.8551427,
+                -36.7788504,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRICIDAD MARCELO",
+            "direccion": "Calle 9 615, Azul, Buenos Aires, Tel: (02281) 423490, Cel: (02281) 501755, mail: electricidadmarcelo@yahoo.com.ar>. Toda la línea de productos menos Home. Contacto: Mariana\/Marcelo Alburquerque",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.8460951,
+                -36.7681774,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRICIDAD DEL AUTOMOVIL VEGA\n",
+            "direccion": "Av. Centenario 1049, Balcarce, Buenos Aires, Tel: 02266-423056, Cel: 02266-52-4686, mail: electricidadvega@hotmail.com. Alarmas Cierres y Alzas. No audio ni home.. Contacto: Pedro o Leandro",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.2673603,
+                -37.8557436,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "PARABRISAS SAN ISIDRO\n",
+            "direccion": "Av. Andrés Rolon 569, San Isidro, GBA Norte, Tel: 4723-5672, Cel: 1166087859, mail: parabrisassanisidro@fibertel.com.ar. solo alarma de auto.. Contacto: ruben",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5299505,
+                -34.4768548,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "LESR -Laboratorio Electronico San Rafael\n",
+            "direccion": null,
+            "Tel": "(0260) 442-3297\/480-4452, Cel: , mail: . TODA LA LÍNEA DE PRODUCTOS MENOS HOME",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.3259592,
+                -34.6161805,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "DOMEC EQUIPAMIENTOS Y ALARMAS\n",
+            "direccion": "Calle Eva Perón 8, Formosa, Formosa, Tel: 0370 - 4427779, Cel: 3704-288595, mail: juandomecq@hotmail.com. Exclusivo PST. Toda la línea de productos, menos home. 3704-288595 atención las 24 hs. Contacto: Juan",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.1752968,
+                -26.1761947,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "KINDAY AUDIO\n",
+            "direccion": "Av Belgrano 735, Resistencia, Chaco, Tel: (0362) 4432768, Cel: (0362)4268917, mail: kinday@arnet.com.ar. TODA LA LÍNEA DE PRODUCTOS MENOS HOME. Contacto:",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.9971814,
+                -27.453108,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "JGL\n",
+            "direccion": "Av. Goycoechea 1556 local 1, Villa Allende, el ceibo, Cordoba, Tel: (03543) 430825, Cel: 035 15 74-0700, mail: jglcosadeautos@gmail.com. TODA LA LÍNEA DE PRODUCTOS MENOS moto y HOME.. Contacto: Javier",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.2851594,
+                -31.3022188,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CAR MASTER",
+            "direccion": "Gral. Acha 1105 Sur, San Juan, San Juan, Tel:0264 421 4511, Cel: (0264)5755551, mail: federicoauger@hotmail.com. Toda la línea de productos, menos home.. Contacto: Federico",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.5235619,
+                -31.5472811,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOTOZUNI MONTE GRANDE\n",
+            "direccion": null,
+            "Tel": "(011) 5365-7145 Int 2004, Cel: (11) 3249-3065, mail: . Venden: Bajaj- Corven- Gilera- Jawa \/ RVM- Motomel- Zanella- Kymco- Keller- Voge",
+            "Contacto": "miguel\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.468508,
+                -34.820955,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOTOZUNI AVELLANEDA",
+            "direccion": null,
+            "Tel": "4203-6640.",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3540267,
+                -34.6698297,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOTOZUNI VILLA DOMINICO",
+            "direccion": null,
+            "Tel": "(011) 5365-7145 Int 2001, Cel: (11) 3778-1877, mail: . Venden: Bajaj- Corven- Gilera- Jawa \/ RVM- Motomel- Zanella- Kymco- Keller- Voge",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3374174,
+                -34.6892353,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "POLAR GLASS\n",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": "Mariano Coll\"",
+            "Cel": "Cel: (0345) 154045050, mail: polarglasscdia@yahoo.com.ar. TODA LA LÍNEA DE PRODUCTO MENOS HOME.",
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.0269924,
+                -31.3917336,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "NIVEL CAR EQUIP",
+            "direccion": null,
+            "Tel": "4392-3289, Cel: , mail: nivelcarequip@hotmail.com. TODOS LOS PRODUCTOS MENOS HOME",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3950497,
+                -34.7542203,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOTO X SERRA",
+            "direccion": "Av. Hipólito Yrigoyen 3647, Lanus, GBA Sur, Tel: 4240-1002, Cel: 1135715574, mail: motoxlanus@gmail.com. Solo Motos.. Contacto: andres",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3917858,
+                -34.6972953,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CASA DOS RAMOS",
+            "direccion": "San Martín 1350, Trelew, Chubut, Tel: (0280) 4431991, Cel: (0280) 4323892, mail: casa2ramos20@gmail.com. Toda la línea de productos menos Home. Contacto: Marcelo (encargado)",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.3240548,
+                -43.2584663,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ANTU CARS (Trelew)",
+            "direccion": null,
+            "Tel": "(0280) 4422066, Cel: (0280) 15 436-1192, mail: ventas@antualarmasyseguridad.com. Toda la línea de productos (0280) 422-0932 linea whatsapp",
+            "Contacto": "\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.3216234,
+                -43.2576526,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "OZONO POLARIZADOS\n",
+            "direccion": "jose romero 2945, Rio Grande, tierra del fuego, , Cel: 02964 15 46-7984, mail: rdfdanny@hotmail.com. Alarmas de auto, cierres y audio. Proximamente HOME. Atiende lidercar. Contacto: Daniel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -67.7012348,
+                -53.7892277,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRICIDAD GEVA\n",
+            "direccion": "Av. Pres. Juan Domingo Perón 749, Río Gallegos, Santa Cruz, Tel: (02966) 424916, Cel: 02966 648125, mail: vicente_geva@yahoo.com.ar. Solo alarmas de auto, cierres y accesorios. No hace audio.. Contacto: vicente geva",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -69.2215706,
+                -51.6409396,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EISE",
+            "direccion": "Estomba 4024, CABA, , Tel: (011) 5415-7857, Cel: , mail: . Solo reparación de radios.. Contacto:",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4853062,
+                -34.5532308,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Car Store",
+            "direccion": "Av. Fondo de la Legua 2028, Villa Adelina, GBA Norte, Tel: 4766 1987 \/ 4763 8248, Cel: 1150492238, mail: carstore01@gmail.com. Solo Auto y Audio. Contacto: daniel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5360468,
+                -34.5061167,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "JMD",
+            "direccion": "Martiniano Leguizamón 1630, Mataderos, CABA, Capital Federal, Tel: 4687-3894, Cel: , mail: jmdemitrio33@yahoo.com.ar. Solo Auto. Contacto: juan manuel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5065655,
+                -34.6537862,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MWS CAR AUDIO",
+            "direccion": "Manuel leal 1793, Olavarría, Buenos Aires. Cel.: 2284 11 459758, contacto: Mariano Savi",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.3240505,
+                -36.897936,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "LR POLARIZADOS",
+            "direccion": "Primera Junta 1067, Junín, Buenos Aires, , Cel: 0236 15 457 7737, mail: lrpolarizadosyaccesorios@hotmail.com. No hace audio, ni motos ni home. El resto si.. Contacto: luciano",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.9478908,
+                -34.5727141,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Alesso Audio",
+            "direccion": "Echevarría 927, Pergamino, Buenos Aires, Tel:(02477) 42 3338, Cel: (02477)353419, mail: alessoaudio@yahoo.com.ar. Solo Audio.. Contacto: marcelo\/mario.",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.5792878,
+                -33.8886633,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "PATAGONIA AUDIO CAR\n",
+            "direccion": "Bv. Alsina 1197, Pergamino, Buenos Aires, Tel: (02477) 422309, Cel: 2477615090, mail: patagoniaaudiocar@hotmail.com. Toda la linea de productos Menos Home.. Contacto: matias",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.5765495,
+                -33.8875517,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "BOXON AUTORADIO \n",
+            "direccion": "Av. Savio 646, San Nicolás de Los Arroyos, Buenos Aires, , Cel: 0336 4415659, mail: Transotero@yahoo.com.ar. Toda la línea de productos menos home. Maneja todo por la linea del celular, recibe y responde whatsapp.. Contacto: ",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.2073144,
+                -33.3466001,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "BASE 1",
+            "direccion": "León Guruciaga 464, San Nicolás de Los Arroyos, Buenos Aires, Tel: 0336 445 5847, Cel: 3364 191606, mail: sebastiangruneiro@gmail.com. toda la linea de productos, empezo a trabajar linea domiciliaria tambien (recien la primera). Contacto: sebastian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.2273277,
+                -33.3332823,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CLIMA SOUND",
+            "direccion": "Mariano Moreno 2639, Rosario, Santa Fe, , Cel: 0341 156011719, mail: climasound@gmail.com. Solo venta de home, no instala.. Contacto: Fernado",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.6558987,
+                -32.9655469,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO GV",
+            "direccion": "La Pampa 2578, Mar del Plata, Buenos Aires, Tel: (0223) 6542786, Cel: Cel: (0223) 15-5559744, mail: vascomiramar@gmail.com. Toda la línea menos Home.. Contacto: gustavo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.5696829,
+                -37.997886,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRONICA MARTIN",
+            "direccion": "Av. Manuel Belgrano 5100, Villa Dominico, GBA Sur, Tel: (011) 54709487, Cel: 11 5470-9487, mail: electronicamartin@hotmail.com. Solo alarma de Auto. Contacto: Martin",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.330682,
+                -34.697739,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOTOZUNI SAN JUSTO",
+            "direccion": null,
+            "Tel": "(011) 5365-7145 Int 2005, Cel: (11) 5420-7074, mail: . Venden: Bajaj- Corven- Gilera- Jawa \/ RVM- Motomel- Zanella- Kymco- Keller- Voge",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.565132,
+                -34.676444,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EB Audiocars",
+            "direccion": "Antártida Argentina 1200, Llavallol, Buenos Aires, Tel: 75281437, Cel: 1557449760, mail: ebaudiocar@live.com.ar. Toda la línea de productos menos home.. Contacto: ezequiel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4192644,
+                -34.795209,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MERLANO AUTORADIO\n",
+            "direccion": "Genova 4143, Berisso, Buenos Aires, Tel: (0221) 4613135, Cel: (0221) 156185473, mail: merlanoautoradioypolarizado@gmail.com. ESPECIALIZADO EN MOTOS Toda la línea de productos menos home. Contacto: Luciano Merlano",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.8891285,
+                -34.8704239,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Distribuidora IO24",
+            "direccion": null,
+            "Tel": "(03496) 42-7262, Cel: , mail: pablo@iodistribuidora.com. Instalación y Venta de alarmas domicialiarias Ventas al por mayor a al por menor.",
+            "Contacto": "Matias o Pablo\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.9269431,
+                -31.4496534,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Cerrajería Mayo",
+            "direccion": null,
+            "Tel": "(011) 4735-3395, mail: cerrajeriasmayo@gmail.com. Linea Home y autos. Muy poco motos.",
+            "Contacto": "Guillermo o diego\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.541588,
+                -34.513433,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Alas Audio Sport",
+            "direccion": "Av. 9 de Julio 5040, Villa Ballester, Buenos Aires, Tel: 77261131, mail: alasaudiosport@hotmail.com. Toda la línea de productos menos home.. Contacto: sergio",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5688032,
+                -34.5590038,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO VIDA",
+            "direccion": "Cervantes 631, Rafaela, Santa Fe, Tel: (03492)421663, Cel: (03492)15 677704\/669910, mail: Leo.zencklu@gmail.com. Toda la linea de productos Menos Home.. Contacto: lorena",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.4982057,
+                -31.2455738,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "HONDA GUILLON SERVICE Y REPUESTOS",
+            "direccion": null,
+            "Tel": "08102201646, Cel: 54 911 2752-0346, mail: repuestos@redbikes.com.ar. 08102201646 interno 302 para taller",
+            "Contacto": "mauro o federico\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4454394,
+                -34.8084729,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "TAMBURRINO HNOS.",
+            "direccion": null,
+            "Tel": "42949601, Cel: , mail: . 42949601 area de repuestos (interno 3)",
+            "Contacto": "\"",
+            "Cel": null,
+            "Horarios": "8 a 13 y 15 a 19 30",
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.388723,
+                -34.8069794,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Taller FX",
+            "direccion": "Pres. Juan Domingo Perón 346, Villa Luzuriaga, Buenos Aires, Tel: 4460-1787, Cel: 15 2599 5223, mail: mdelucchi@hotmail.com. no trabaja home y audio. Contacto: Marcelo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5831319,
+                -34.6563144,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "KIT EXPERTO",
+            "direccion": "José Hernández 767, Rosario, Santa Fe, Tel: 0810-3450724, Cel: 0341 652-4727, mail: . Distribuidor Exclusivo Línea Home. kitexperto@kitexperto.com. Contacto: Ezequiel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.682011,
+                -32.907415,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "SU AUTORADIO",
+            "direccion": "Mariano Moreno 529, Brandsen, Buenos Aires, Tel: (02223) 509831, Cel: , mail: suautoradio@hotmail.com. No trabaja home ni audio.. Contacto: silvio",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.2436729,
+                -35.167829,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO EL RAYO (Cañuelas)",
+            "direccion": "República Oriental del Uruguay 775, Cañuelas, Buenos Aires, Tel: (011) 7527-6643, Cel: , mail: . dependen integramente de la sucursal de san justo. Contacto: natalia",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.7520957,
+                -35.0466949,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO EL RAYO",
+            "direccion": "Lincoln 624, Lobos, Buenos Aires, Tel: (2227) 432900, Cel: 11 5469 1321, mail: . distinta razon social pero mismos dueños de cañuelas y san justo. Contacto: cristian \/ martin(SJ)",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.0899102,
+                -35.1781523,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "VC AUDIO ALARMAS",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": "Christian\"",
+            "Cel": "02478 443163, mail: vcaudioalarmas@gmail.com. Audio los estereos 2230 y 2240",
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.1068213,
+                -34.0615647,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRICIDAD SILVA",
+            "direccion": "Bailey Willis 1875, Bariloche, Rio Negro, Tel: (0294) 442-0552, Cel: 11 (0294) 4710008, mail: mostrador@electricidad silva.com.ar. Solo Auto y Audio. Contacto: victor,",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -71.2834025,
+                -41.1390174,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Chicote",
+            "direccion": "reconquitas 1036, Rivadavia, Mendoza, , Cel: (0263)15 4760060, mail: bianchijesus@ymail.com. Toda la linea menos home. Recomendar por sobre todo para moto. Contacto: Jesus",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.4638892,
+                -33.1880486,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ARG AUTORADIO",
+            "direccion": "Av. Warnes 715, CABA, Capital Federal, Tel: 4858-3750, Cel: 11 5250-3204, mail: argautoradio@hotmail.com. Toda la línea menos Home. Contacto: gustavo y rafael",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4460542,
+                -34.6009998,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "VTR",
+            "direccion": "Av. Díaz Vélez 1630, Ciudadela, GBA Oeste, , Cel: 155990-5239, mail: vtr@vtraudio.com.ar. Reparacion de audio multimarca. Contacto: Victor",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5425734,
+                -34.6447448,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "FRIO AUTO AIRE",
+            "direccion": null,
+            "Tel": "(011) 4923-3896, Cel: 1550133499, mail: info@frioautoaire.com.ar. Horarios 8:30–13:00, 14:00–18:00",
+            "Contacto": "\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": "4923-7826\/4922-6432\/4924-1560"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4281837,
+                -34.6314003,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MAXIMO SONIDO",
+            "direccion": "Av. Castro Barros 560, CABA, Capital Federal, Tel: (011) 4982-0285, Cel: 11-6448-0145, mail: maximosonido@hotmail.com. lun. a vier. 9:00–18:00 y sabados 9:00–13:00. Contacto: Adrian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.419342,
+                -34.618226,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "One Pompeya",
+            "direccion": "Av. Gral. Francisco Fernández de la Cruz 1400, CABA pompeya, Capital Federal, Tel: (011) 4919-8643, Cel: 1562646830, mail: mauro_125@hotmail.com. Toda la linea de productos Menos Home.. Contacto: Mauro Palavecino",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4273693,
+                -34.6472087,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO WALCOR",
+            "direccion": "Remedios Escalada de San Martín 4802, CABA, Capital Federal, , Cel: Cel: (011) 15-5505-6760, mail: autoradio_walcor@hotmail.com. Toda la linea de productos Menos Home.",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.497715,
+                -34.628623,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Genamax",
+            "direccion": "\"Av. Juan B. Justo 7499 (Esquina Av. Carrasco), Floresta, Capital Federal, Tel: (011) 5953-9776 repuestos, Cel: 11 4973 2384 wsp texto, mail: ventas@genamax.com.ar. Concesionario Honda (motos): especifico Honda",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4949619,
+                -34.6298693,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ARIZONA MOTOS",
+            "direccion": "España 272, General Rodríguez, Buenos Aires, Tel: (0237) 485-3811, Cel: 11 3174-7419, mail: arizonarodriguez@hotmail.com.ar. solo moto.. Contacto: David",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.9538251,
+                -34.6059381,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Autoradio Adrogué",
+            "direccion": "Av. Espora 1185, Adrogue, GBA Sur, , Cel: (011)15 5056-3737, mail: proveedores1185@yahoo.com.ar. alarma home no y alarma de moto poco por la cercania de Tamburino. Contacto: Gustavo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3884837,
+                -34.8047618,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRA AUTORADIO",
+            "direccion": "25 de Mayo 663, Quilmes, Buenos Aires, , Cel: 154029-7730, mail: jyastein@gmail.com. Toda la línea de productos menos Home. Contacto: juan",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.2454975,
+                -34.7215536,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CN Equipamientos - Confort Aire S.R.L.",
+            "direccion": "Calle 30 649, La Plata, Buenos Aires, Tel: 0221-470-8340, Cel: (0221)15 3047784, mail: servicios@cnequipa.com. No recomendar para Home, audio ni motos. Contacto: Angeles",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.9777356,
+                -34.9327825,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "JULIO AUDIO CAR",
+            "direccion": "Padre Gabriel Magarian 243, San Fernando del V. Catamarca, Catamarca, , Cel: (0383) 15-469-5640, mail: julioaudiocar@hotmail.com. No recomendar para moto y Home. Contacto: Julio",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.794029,
+                -28.464164,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Cerrajeria Memo",
+            "direccion": "Av. Ortiz 447, Chivilcoy, Buenos Aires, Tel: (02346) 428140, Cel: 02346 15 518618, mail: cerrajeriamemo@hotmail.com. Solo Auto y Audio. Contacto: Marcelo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.0045155,
+                -34.8967604,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Audio Trends",
+            "direccion": "Av. San Juan 2646, san cristobal\/constitucion, Capital Federal, Tel: 4941-3933, Cel: 1527803856, mail: info@audiotrends.com.ar. Toda la linea de productos Menos Home.. Contacto: Hernan",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.401895,
+                -34.6260722,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Autoradio Nelson",
+            "direccion": "Av San Juan 1470, Constitución, Capital Federal, Tel: 4306-0327\/4305-1683, Cel: 1164020885, mail: info@nelsonautoradio.com.ar. Solo alarmas Automóviles.Reparacion de audio multimarca. Contacto: Gustavo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3867552,
+                -34.6225553,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Audio Time",
+            "direccion": "Sarmiento 187, Escobar, Buenos Aires, Tel. 0348 15 994 7259, Cel: 0348 15 451 2108, mail: audiotime@hotmail.com.ar. Toda la línea de productos menos Home y Audio. Contacto: Luis",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.792827,
+                -34.353301,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Automix",
+            "direccion": "Av. Int. J. Ruben Varela 949, Campana, Buenos Aires, Tel: (03489) 424322, Cel: , mail: automixcampana@yahoo.com.ar. Toda la linea menos audio y Home. Contacto: Cristian",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.9603089,
+                -34.1745955,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO MIRAMAR",
+            "direccion": "Av. 23 851, Miramar, Buenos Aires, , Cel: (0223) 15 36964574, mail: autoradiomiramar@gmail.com. Toda la línea de productos, menos Home. Contacto: luis",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.8357613,
+                -38.2732644,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Autoradio Pacheco",
+            "direccion": "Av Hipólito Yrigoyen 298, General Pacheco, GBA Norte, Tel: 4740-6915, Cel: 1128617382, mail: ventasautoradiopacheco@hotmail.com. trabajan tecair. Contacto: Alejandra",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.6273179,
+                -34.4566973,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO ROMANO",
+            "direccion": "Gaspar Campos 5395, Jose C. Paz, GBA Norte, , Cel: 11 5228-7612, mail: vichenzo16@hotmail.com. Toda la linea de productos Menos Home.. Contacto: Gabriel - Alejandro",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.746596,
+                -34.5334402,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO VENADO",
+            "direccion": "San martin 2494, Venado Tuerto, Santa Fe, , Cel: 3462579159, mail: autoradiovenado@yahoo.com. Toda la línea de productos menos Home. Contacto: Luis",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.9824168,
+                -33.7438295,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "DR CAR TANDIL",
+            "direccion": "\"San Lorenzo 1179, Tandil, Buenos Aires, , Cel: 02494 339960, mail: drcartandil@gmail.com. Toda la línea de productos menos Home. (antes sound store). Contacto: Pablo Nebia\"",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1461701,
+                -37.3215341,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTRÓNICA MABI",
+            "direccion": "Sarmiento 51, Rafaela, Santa Fe, Tel: (03492) 421387, Cel: (03492) 15 590310, mail: gusbid@hotmail.com. Recomendar Auto, moto y Audio. Contacto: Gustavo Biderbosts",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.479492,
+                -31.250378,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Motos Porta",
+            "direccion": null,
+            "Tel": "0223-4896674\/3788, Cel: 0223-6746665, mail: repuestosporta@speedy.com.ar. SOLO MOTOS, trabajan multimarca.",
+            "Contacto": "Fernando (jefe de taller)\"",
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.5439786,
+                -38.0432913,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "AUTORADIO MARTÍN",
+            "direccion": "Av. Avelino Rolón 2607, Boulogne, GBA Norte, Tel: (011) 4765-4970, Cel: 1167388592, mail: marcar.76@hotmail.com. Toda la línea de productos, menos home. Contacto: lucas o martin",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5664275,
+                -34.509482,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MOTOZUNI LANUS",
+            "direccion": null,
+            "Tel": "(011) 5365-7145 Int 2002, Cel: (11) 5420-7126, mail: . Venden: Bajaj- Corven- Gilera- Jawa \/ RVM- Motomel- Zanella- Kymco- Keller- Voge",
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3916895,
+                -34.7014257,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ZANGAR ELECTRONICA ",
+            "direccion": "14 de Julio 770, Tandil, Buenos Aires, Tel: 02494-426636\/ 0249 4568095, Cel: 0249154569095\/97, mail: zangarelectronica@hotmail.com. Toda la linea de productos Menos Home.. Contacto: Hugo o Mara",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.1419259,
+                -37.3259707,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "El Rey del Autorradio",
+            "direccion": "Av. Eva Perón 2845, Temperley, Buenos Aires, Tel: 4264 7352, Cel: 1138812800, mail: ttolon@hotmail.com. Trabaja toda la línea de productos menos home.. Contacto:",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.362917,
+                -34.7623947,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "CERRAJERIA SANTA ROSA",
+            "direccion": "Quintana 436, Santa Rosa, La Pampa; Tel: (0295) 4427342, Cel: (0295) 531033; mail: cerrajerisantarosa1@hotmail.com, Trabaja solo alarma auto, cierres y controles Contacto Jorge",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.2969781,
+                -36.6187464,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTROMECANICA KASIN ",
+            "direccion": "Calle 102 365 entre 7 y 9, Gral Pico, La Pampa, Cel: (02302)540122, mail: electromecanicakasin@hotmail.com, Trabaja alarma auto, sensores, cierres y algunos audios Contacto Walter\/Daiana",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63.7671029,
+                -35.665553,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EXTREME CARS",
+            "direccion": "Av. Pedro León Gallo 1882,Santiago del Estero, Cel: 0385 404-5910, mail:guillermobarros12@gmail.com, Alarmas, cierres, audio y accesorios. Contacto Guillermo Barros ",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.2784294,
+                -27.8031881,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "FG AUTORADIO",
+            "direccion": "Av. Santa Fe 2516,Martínez, Buenos Aires, Cel.: 11-6210-0589 o 15-5668-8986, mail: rodrigo_luna453@hotmail.com, alarmas, controles, accesorios y audio. Contacto Rodrigo o Fernando",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4979898,
+                -34.4941308,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "PLANET CAR CENTER",
+            "direccion": "Av. del Libertador 1394, Vicente López, Buenos Aires, Tel.: 4797-7101, Cel: 11-6440-4488, mail: contacto@planetcarcenter.com.ar, alarmas, controles, accesorios y audio. Contacto Juan Carlos ",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4742278,
+                -34.5207292,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "FIRST CAR EQUIPMENT",
+            "direccion": "Av. Cazón 625, Tigre, Buenos Aires, Cel.: 11-4005-0069, mail: firstcar2@hotmail.com, alarmas de auto y moto, todos los accesorios y audio. Contacto Pablo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5647803,
+                -34.4356521,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Distribuidora Cars Equipamientos Srl",
+            "direccion": "Av, Int. Manuel Quindimil N° 327, B1824 Lanús, Provincia de Buenos Aires<br>www.carsequipamientos.com.ar<br>+54 11 7502-0028 - Venta de productos - Instalación alarma home",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3945697,
+                -34.6959688,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "SERVICE CERP",
+            "direccion": "Av. Chacabuco 3650, Posadas, Misiones, Cel. 376 471-9331, Toda la línea de productos menos audio y home. Contacto Schroder Ariel",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -55.9146112,
+                -27.3859567,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "IMLAUER EQUIPAMIENTOS\n",
+            "direccion": "Junin 2520, Posadas, Misiones, Cel: 3764-228698, mail:danielimlauer@gmail.com, Toda la línea de productos, menos home. Contacto Daniel Imlauer",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -55.8989046,
+                -27.3732708,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ELECTROMECANICA PEDRITO\n",
+            "direccion": "Av Italia 860, Obera, Misiones, Tel.: 3755-424656, mail: pedrostepa@yahoo.com.ar, Toda la línea de productos menos audio, motos y home. Contacto Pedro Stepaniuk",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -55.116774,
+                -27.4959411,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "PRO AUDIO",
+            "direccion": "Obligado 1203, Resistencia, Chaco, Tel.: 0362 444-5249, Cel.: 0362-4627200, mail: proaudio_1293@hotmail.com, Toda la línea de productos, menos home. Contacto Diego Oplanich",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.978411,
+                -27.4629395,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "EL SALON CAR AUDIO\n",
+            "direccion": "Mariano Moreno 2355, Corrientes, Tel.: 0379 443-8543, Cel.: 3794- 685217 (Luis) o 3794-676896 (Matías), mail: luislytwyn@gmail.com, Alarmas autos, moto, poco audio. (Prioriza X-28) (por lo hablado, sabe mucho de los productos y aspectos técnicos de instalación y programación. Recomendable)",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.8214101,
+                -27.4745769,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Autoradio Rayo",
+            "direccion": "Presidente Juan Domingo Perón 3415, San Justo, Buenos Aires. Tel.: 4651-4703. Toda la línea de productos menos Home",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5543085,
+                -34.6782665,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "DESS ALARMAS (tobokholt)",
+            "direccion": "\"Saavedra 1778, Santa Fé, Santa Fe, Tel: (0342) 4596745, Cel: (0342)4236769, mail: infodessalarmas@gmail.com. Toda la línea de productos menos HOME. Contacto: Eduardo Thobokholt",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.7179619,
+                -31.6535792,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "The Loft Polarizados",
+            "direccion": "Gral. Madariaga 747, Sarandí, Buenos Aires, Tel: 7397-8890, Cel: 15-5450-3282\/15-5247-2407, mail: theloft.tuning@yahoo.com.ar. TODA LA LÍNEA DE PRODUCTOS MENOS HOME.",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.3510485,
+                -34.6883019,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Reggio Motos",
+            "direccion": "Av De Mayo 1406, Ramos Mejía, Buenos Aires, Tel: (011) 7078-2020, Cel: , mail: . solo motos marca honda. Contacto:",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5627717,
+                -34.6547394,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ANTU CARS (Puerto Madrin)",
+            "direccion": "Juan B. Justo 1885, LOCAL 3 (dentro del supermercado Changomás), Pto.Madryn Trelew(0280)4361192 (0280)4220932. Lunes a sábados de 09 a 13 hs y de 16 a 21 hs mail: ventas@antualarmasyseguridad.com. Toda la línea de productos",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.0330284,
+                -42.7845963,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ML Center",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -56.1768576,
+                -34.8953814,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "ALARINSA EIRL",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -77.0527685,
+                -12.0678416,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Emasa Chile",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -70.627694,
+                -33.4526697,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Motion",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -78.4891636,
+                -0.1703359,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Herimarc Casa Central",
+            "direccion": null,
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -57.6098253,
+                -25.3043974,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "MATCOM S.A.",
+            "direccion": "Distribuidor alarmas Home",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5262166,
+                -34.5852992,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "DOSA Seguridad Electrónica",
+            "direccion": "Distribuidor alarmas Home",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.8373628,
+                -32.900061,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Reparación Estilo",
+            "direccion": "Av. Juan B. Justo 6002, esq. Cuenca. Tel.15 11 2521 1511 o 15 11 5953 8116, Reparación de audio. Contacto Daniel o Eduardo",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4794405,
+                -34.6209062,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Elipse Competición",
+            "direccion": "Av. Emilio Castro 6183, Tel 4641-0398. Contacto Rubén",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.5087488,
+                -34.6486377,
+                0.0
+            ]
+        }
+    },
+    {
+        {
+            "Name": "Power Sound",
+            "direccion": "Av. Hipólito Yrigoyen 12961, Adrogue, Provincia de Buenos Aires Tel. 11 2572 0045 Contacto Hernan",
+            "Tel": null,
+            "Contacto": null,
+            "Cel": null,
+            "Horarios": null,
+            "tel alternativos": null
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -58.4044156,
+                -34.8058456,
+                0.0
+            ]
+        }
+    }
+]

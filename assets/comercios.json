@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Auto ACC",
+        "direccion": "AV. libertador 6514, Belgrano<br>Capital Federal",
+        "tel": "4782-1144",
+        "cel": "116483-0754",
+        "obs": "No trabaja Audio Positron",
+        "email": "autoaccagenda@gmail.com",
+        "lat": "-34.552008",
+        "lon": "-58.451871"
+    },
+    {
+        "nombre": "PUNTA WARNES",
+        "direccion": "Av Warnes 1402, Villa Crespo<br>Capital Federal",
+        "tel": "4586-0402",
+        "cel": "115657-3333",
+        "obs": "Solo alarmas vehiculares y audio (especialmente multimedia)<br>Solo ventas - Revisiones No.",
+        "email": "puntawarnes@fibertel.com.ar",
+        "lat": "-34.5978893",
+        "lon": "-58.4557409"
+    }
+]

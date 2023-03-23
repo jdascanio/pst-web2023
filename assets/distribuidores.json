@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Antyca Protecciones",
+        "email": "antycaprotecciones@antyca.com.ar",
+        "telefono":"(0351) 473-1322/1307",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Macar's S.R.L",
+        "email": "ventas@macars.com.ar",
+        "telefono":"(011) 4924-2650/2651/0420",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Nucleo Encendido (Bs.As)",
+        "email": "ventasbsas@nucleoencendido.com",
+        "telefono":"(011) 4014-7300/7302",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Nucleo Encendido (Córdoba)",
+        "email": "info@nucleoencendido.com",
+        "telefono":"(0351) 589-0300",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Nucleo Encendido (Mendoza)",
+        "email": "info@nucleoencendido.com",
+        "telefono":"(0261) 431-6328/6332",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Nucleo Encendido (Tucumán)",
+        "email": "admintuc@nucleoencendido.com",
+        "telefono":"(0381) 433-1399",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "ROBRA S.R.L.",
+        "email": "ventas2@robra.com.ar",
+        "telefono":"(0341) 454-6444",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Lidercar S.A.",
+        "email": "ventas@lidercar.com.ar",
+        "telefono":"(011) 4454-5013/14/15",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Tec Air S.A.",
+        "email": "info@tecair.com.ar",
+        "telefono":"(011) 4856-0631/0602",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Distrimar",
+        "email": "info@distrimar.com.ar",
+        "telefono":"(011) 4856-3928/4854-9909",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Cars Equipamientos",
+        "email": "info@carsequipamientos.com",
+        "telefono":"(011) 7502-0028",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Cartronic S.A.",
+        "email": "ventas@cartronicsa.com.ar",
+        "telefono":"(011) 4924-7799/8111",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Kit Experto (Alm. Residencial)",
+        "email": "kitexperto@kitexperto.com",
+        "telefono":"(0341)652-4727",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Matcom (Alm. Residencial)",
+        "email": "kitexperto@kitexperto.com",
+        "telefono":"(011) 2120-7030",
+        "bandera":"flag-for-argentina.svg"
+    },
+    {
+        "nombre": "Alarinsa",
+        "email": "hesquivel@alarinsa.com",
+        "telefono":"(+51 1) 330-7738/330-6490",
+        "bandera":"flag-for-peru.svg"
+    },
+    {
+        "nombre": "Full Protection",
+        "email": "info@fullprotectionperu.com",
+        "telefono":"(+51 1) 986023351/991110836",
+        "bandera":"flag-for-peru.svg"
+    },
+    {
+        "nombre": "Emasa",
+        "email": "contactos@emasa.cl",
+        "telefono":"(+56 22) 520-3100",
+        "bandera":"flag-for-chile.svg"
+    },
+    {
+        "nombre": "Herimarc",
+        "email": "eduardosequera@herimarc.com.py",
+        "telefono":"(+595 21) 220129",
+        "bandera":"flag-for-paraguay.svg"
+    },
+    {
+        "nombre": "Mecanus S.A.",
+        "email": "info@ml.com.uy",
+        "telefono":"(+598) 2402-3423",
+        "bandera":"flag-for-uruguay.svg"
+    },
+    {
+        "nombre": "Motion",
+        "email": "ventas@motion.ec",
+        "telefono":"(+593 2) 457506 / (+593 3) 316831",
+        "bandera":"flag-for-ecuador.svg"
+    }
+]
