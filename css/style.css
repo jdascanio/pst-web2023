@@ -108,7 +108,7 @@ main {
 }
 
 .contMainFeature {
-    height: 100vh;
+    height: calc(100vh - 140px);
     display: flex;
     background-image: url('../img/bg_rastreamento.png');
     background-repeat: no-repeat;
@@ -118,6 +118,7 @@ main {
 }
 
 .contSecondFeature {
+    box-sizing: border-box;
     height: calc(100vh - 140px);
     display: flex;
     justify-content: center;
@@ -128,17 +129,20 @@ main {
 
 
 .contInfoSecondFeature {
+    box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .contenedor-Img-2nd {
+    box-sizing: border-box;
     width: 50%;
     padding: 20px;
 }
 
 .contenedor-Texto-2nd {
+    box-sizing: border-box;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -425,11 +429,12 @@ button {
 
 .image-mask-banner {
     /* position: relative; */
+    height: calc(100vh - 140px);
     display: flex;
     justify-content: center;
     align-items: flex-end;
     width: 60vw;
-    clip-path: polygon(0 13.5%, 100% 13.5%, 75% 100%, 0% 100%);
+    clip-path: polygon(0 0%, 100% 0%, 75% 100%, 0% 100%);
     background: transparent;
     background-image: url(../img/img_rastreamento-1.png);
     background-repeat: no-repeat;
@@ -438,7 +443,10 @@ button {
 }
 
 .imgAudio {
-    height: calc(100vh - 160px);
+    z-index: 5;
+    max-height: 491px;
+    max-width: 491px;
+    width: 40vw;
     ;
 }
 
@@ -453,7 +461,7 @@ button {
 }
 
 .forma {
-    width: 50vw;
+    /* width: 50vw; */
     height: calc(100vh - 140px);
 }
 
@@ -941,10 +949,56 @@ img.flag {
     .navItem {
         font-size: 9px;
     }
+    .imgAudio{
+        width: 45vw;
+    }
 }
 
 @media (max-width: 500px) {
+    .contSecondFeature{
+        background-image: none;
+    }
+    .contMainFeature{
+        flex-direction: column;
+        height: auto;        
+    }
+    .contInfoSecondFeature{
+        flex-direction: column;
+        height:auto;
+        box-sizing: border-box;        
+        background-image: url(../img/bg-som.jpg);
+        background-position: center center;
+    }
+    .contThirdFeature{
+        flex-direction: column;
+        height: auto;
+    }
+    .contenedor-Texto-2nd{
+        z-index: 3;
+        width: 100%;
+        padding: 5px;
+    }
+    .contenedor-Texto-2nd h2 {
+        font-size: 25px;
+    }
+    
+    .contenedor-Texto-2nd h3 {
+        font-size: 14px;
+    }
+    
+    .contenedor-Texto-2nd p {
+        font-size: 11px;
+    }
 
+
+
+
+    .homeButton{
+        margin-bottom: 10px
+    }
+    .instaladores{
+        display: none;
+    }
     .distTabla {
         text-align: center;
     }
@@ -974,6 +1028,10 @@ img.flag {
     .iconNews {
         width: 40%;
     }
+    .image-mask-banner{
+        width: 100vw;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 0% 75%);
+    }
 
     .quienesSomos {
         display: block;
@@ -981,7 +1039,51 @@ img.flag {
 }
 
 @media (min-width: 500px) and (max-width: 800px) {
-
+    .contSecondFeature{
+        background-image: none;
+    }
+    
+    .instaladores{
+        display: none;
+    }
+    .imgAudio {
+        z-index: 5;
+        max-height: 491px;
+        max-width: 491px;
+        width: 30vw;
+        ;
+    }
+    .contMainFeature{
+        flex-direction: column;
+        height: auto;
+    }
+    .contInfoSecondFeature{
+        flex-direction: column;
+        height:auto;
+        box-sizing: border-box;        
+        background-image: url(../img/bg-som.jpg);
+        background-position: center center;
+    }
+    .contenedor-Img-2nd{
+        z-index: 5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        padding: 5px;
+    }
+    .contenedor-Texto-2nd{
+        z-index: 3;
+        width: 100%;
+        padding: 5px;
+    }
+    .homeButton{
+        margin-bottom: 10px
+    }
+    .image-mask-banner{
+        width: 100vw;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 0% 75%);
+    }
 
     .comAsist {
         text-align: center;
