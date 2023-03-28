@@ -7,7 +7,9 @@
         "obs": "No trabaja Audio Positron",
         "email": "autoaccagenda@gmail.com",
         "lat": "-34.552008",
-        "lon": "-58.451871"
+        "lon": "-58.451871",
+        "autos": "si",
+        "motos": "si"
     },
     {
         "nombre": "PUNTA WARNES",

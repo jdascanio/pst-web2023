@@ -15,15 +15,21 @@ fetch('../assets/comercios.json')
             for (let n of data) {
                 let elemento = document.createElement('tr')
                 elemento.innerHTML = `
-                <td>${n.nombre} <a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
+                <td>${n.nombre}<a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a><span id="iconCont"></span></td>
                 <td>${n.direccion}</td>
                 <td>${n.tel}</td>
                 <td><a href="mailto:${n.email}">${n.email}</a></td>
                 <td>${n.obs}</td>
                 `
                 seccion.append(elemento)
+                if (n.autos == "si"){
+                    iconoAuto()
+                }
+                if (n.motos == "si"){
+                    iconoMoto()
+                }
             }
-
+        
         } else {
             let disclaimer = document.createElement('p')
             disclaimer.classList = 'comAsist'
@@ -115,4 +121,16 @@ function constTabla() {
     return (tabla)
 }
 
+function iconoAuto(){
+    let contenedor = document.getElementById('iconCont')
+    let icono = document.createElement('i')
+    icono.classList = 'fa-solid fa-car setIconos'
+    contenedor.appendChild(icono)
+}
+function iconoMoto(){
+    let contenedor = document.getElementById('iconCont')
+    let icono = document.createElement('i')
+    icono.classList = 'fa-solid fa-motorcycle setIconos'
+    contenedor.appendChild(icono)
+}
 

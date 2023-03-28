@@ -565,7 +565,7 @@ textarea {
     color: #25d366;
 }
 .fa-map-marker{
-    font-size: 26px;
+    font-size: 22px;
     margin: 0px 15px;
     color: red;
 }
@@ -793,6 +793,10 @@ textarea {
     background-repeat: no-repeat;
     background-size: contain;
 }
+.setIconos{
+    font-size: 18px;
+    margin: 0px 2px
+}
 
 .sm-icon {
     width: 30px;
@@ -952,11 +956,50 @@ img.flag {
     .imgAudio{
         width: 45vw;
     }
+    form.formulario{
+        width: auto;
+    }
+    .input-one, .input-two, .formButton{
+        width: 90vw;
+    }
+    .contAlarmas, .contAccesorios{
+        width: 100vw;
+    }
+    .QS-L{
+        width: auto;
+        align-items: center;
+    }
+    .QS-R{
+        text-align: justify;
+    }
+    .contAskAQuestion {
+        height: auto;       
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .formOne,.formTwo{
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 @media (max-width: 500px) {
+    .imgAudio {
+        margin: auto;
+        /* z-index: 5; */
+        max-height: 491px;
+        max-width: 491px;
+        width: 70vw;
+        ;
+    }
+    .contAlarmas, .contAccesorios{
+        width: 100vw;
+    }
     .contSecondFeature{
-        background-image: none;
+        height: 45vh;
+        align-items: flex-start;
+        background-position-x: 35%;
     }
     .contMainFeature{
         flex-direction: column;
@@ -964,19 +1007,22 @@ img.flag {
     }
     .contInfoSecondFeature{
         flex-direction: column;
-        height:auto;
-        box-sizing: border-box;        
-        background-image: url(../img/bg-som.jpg);
-        background-position: center center;
+        height:20vh;
+        box-sizing: border-box;    
     }
     .contThirdFeature{
         flex-direction: column;
         height: auto;
     }
+    .contenedor-Img-2nd{
+        text-align: center;
+        width: 100%;
+        padding: 10px;
+    }
     .contenedor-Texto-2nd{
         z-index: 3;
         width: 100%;
-        padding: 5px;
+        padding: 15px;
     }
     .contenedor-Texto-2nd h2 {
         font-size: 25px;
@@ -989,15 +1035,25 @@ img.flag {
     .contenedor-Texto-2nd p {
         font-size: 11px;
     }
-
-
-
+    .formOne,.formTwo{
+        flex-direction: column;
+        align-items: center;
+    }
+    form.formulario{
+        width: auto;
+    }
 
     .homeButton{
-        margin-bottom: 10px
+        margin-bottom: 10px;
+        width: 80px;
+        height: 40px;
+        font-size: 12px;
     }
     .instaladores{
         display: none;
+    }
+    .input-one, .input-two, .formButton{
+        width: 90vw;
     }
     .distTabla {
         text-align: center;
@@ -1021,12 +1077,26 @@ img.flag {
 
     .contQS {
         flex-direction: column;
+        align-items: center;
+        margin: auto;
+    }
+    .contAskAQuestion {
+        height: auto;      
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
     }
     .footer{
         display: none;
     }
     .iconNews {
-        width: 40%;
+        margin: 15px auto;
+        width: 60%;
+    }
+    .imageContainer{
+        margin-top: 25px;
+        display: flex;
+        justify-content: center;
     }
     .image-mask-banner{
         width: 100vw;
@@ -1035,22 +1105,49 @@ img.flag {
 
     .quienesSomos {
         display: block;
+        height: auto;
+    }
+    .QS-L{
+        width: auto;
+        align-items: center;
+    }
+    .QS-R{
+        text-align: justify;
+    }
+    .QS-redes {
+        flex-direction: column;
+        align-items: center;
     }
 }
 
 @media (min-width: 500px) and (max-width: 800px) {
+    .contAlarmas, .contAccesorios{
+        width: 100vw;
+    }
     .contSecondFeature{
-        background-image: none;
+        height: 45vh;
+        align-items: flex-start;
+        background-position-x: 35%;
+    }
+    .formOne,.formTwo{
+        flex-direction: column;
+        align-items: center;
+    }
+    form.formulario{
+        width: auto;
     }
     
     .instaladores{
         display: none;
     }
+    .input-one, .input-two, .formButton{
+        width: 80vw;
+    }
     .imgAudio {
         z-index: 5;
         max-height: 491px;
         max-width: 491px;
-        width: 30vw;
+        width: 50vw;
         ;
     }
     .contMainFeature{
@@ -1059,23 +1156,24 @@ img.flag {
     }
     .contInfoSecondFeature{
         flex-direction: column;
-        height:auto;
-        box-sizing: border-box;        
-        background-image: url(../img/bg-som.jpg);
-        background-position: center center;
+        height:20vh;
+        box-sizing: border-box;     
     }
     .contenedor-Img-2nd{
-        z-index: 5;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        text-align: center;
         width: 100%;
-        padding: 5px;
+        padding: 10px;
     }
     .contenedor-Texto-2nd{
         z-index: 3;
         width: 100%;
         padding: 5px;
+    }
+    .contAskAQuestion {
+        height: auto;       
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
     }
     .homeButton{
         margin-bottom: 10px
@@ -1095,15 +1193,34 @@ img.flag {
 
     .contQS {
         flex-direction: column;
+        align-items: center;
+        margin: auto;
     }
     .footer{
         display: none;
     }
     .iconNews {
-        width: 40%;
+        margin: 15px auto;
+        width: 60%;
+    }
+    .imageContainer{
+        margin-top: 25px;
+        display: flex;
+        justify-content: center;
     }
 
     .quienesSomos {
         display: block;
+        height: auto;
+    }
+    .QS-L{
+        width: auto;
+        align-items: center;
+    }
+    .QS-R{
+        text-align: justify;
+    }
+    .QS-redes {
+        flex-direction: column;
     }
 }
