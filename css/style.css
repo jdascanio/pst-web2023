@@ -10,10 +10,28 @@
 a {
     color: #fafafa;
 }
+br{
+    margin: 24px 0px;
+}
 
 main {
     position: relative;
     top: 140px;
+}
+.blue{
+    color:#005E9A
+}
+.orange{
+    color:orange
+}
+.purple{
+    color:purple
+}
+.green{
+    color: green
+}
+.turquoise{
+    color: #11b5da 
 }
 
 .degrade {
@@ -49,6 +67,7 @@ main {
     background: #fafafa;
     height: 200px;
     width: 100vw;
+    opacity: 95%;
 }
 
 .bannerDinamico {
@@ -288,6 +307,35 @@ button {
 #a:hover #b {
     visibility: visible;
 }
+#iconCont{
+    margin-top: 8px;
+}
+.imgSmallMenu{
+    width: 100px;
+}
+.prodMenuDetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.masMenuDetail{
+    height: 150px;
+    width: 130px;
+    background-color: #e8e8e8;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #bcbcbc;
+}
+.fa-circle-plus{
+    font-size: 50px;
+}
+.masMenuDetail p{
+    font-size: 12px;
+    color: #111111;
+}
 
 .itemList1 {
     border-left: 1 px solid grey;
@@ -301,11 +349,11 @@ button {
 
 }
 
-.itemList1 a {
+.itemList1 a, .motolist a, .prodMenuDetail a{
     color: #111111;
 }
 
-.itemList1 a:hover {
+.itemList1 a:hover, .motolist a:hover, .prodMenuDetail a:hover {
     font-weight: 800;
     color: rgb(0, 66, 137);
 }
@@ -401,6 +449,12 @@ button {
 .listItems ul {
     visibility: hidden;
 }
+.listProducts li a{
+    color: #111111;
+    font-size: 14px;
+    font-style: italic;
+    text-transform: uppercase; 
+}
 
 .listProducts li:hover {
     transition: 300ms;
@@ -420,6 +474,9 @@ button {
 
 .chevron-down:hover {
     filter: invert(100%) sepia(54%) saturate(0%) hue-rotate(289deg) brightness(105%) contrast(100%);
+}
+.fa-chevron-right{
+    margin-left: 10px;
 }
 
 .contenedor-lista {
@@ -565,9 +622,9 @@ textarea {
     color: #25d366;
 }
 .fa-map-marker{
-    font-size: 22px;
+    font-size: 20px;
     margin: 0px 15px;
-    color: red;
+    color: #ff0066;
 }
 .fa-phone{
     font-size: 20px;
@@ -794,8 +851,14 @@ textarea {
     background-size: contain;
 }
 .setIconos{
-    font-size: 18px;
-    margin: 0px 2px
+    font-size: 15px;
+    margin: 0px 5px 0px 0px;
+    vertical-align: baseline;
+}
+.setIconosSvg{
+    height: 22px;
+    margin: 0px 3px;
+    vertical-align: text-bottom;
 }
 
 .sm-icon {

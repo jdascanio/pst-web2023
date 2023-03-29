@@ -13,23 +13,24 @@ alarmMenu.addEventListener('click', () => {
                         </div>
                         <div class="banAlmRight" id="banAlmRight">
                             <ul class="listProducts">
-                                <li class="listItems" id="item1"> Alarma de Auto</li>
-                                <li class="listItems" id="item2">Alarma de Moto</li>
-                                <li>Donde Comprar</li>
+                                <li class="listItems" id="item1"> Alarma de Auto <i class="fa fa-chevron-right "></i></li>
+                                <li class="listItems" id="item2">Alarma de Moto <i class="fa fa-chevron-right"></i></li>
+                                <li><a href="/comercios.html">Donde Instalar</a></li>
                             </ul>
                         </div>
                         <div class="itemList1 oculto" id="itemList1">
                             <ul class="lista">
-                                <li>PX360 Starter</li>
-                                <li><a href="productos/alarma-fx360.html">FX360 DPN</a></li>
-                                <li>Keyless</li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-px360.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PX360" /></a><a href="productos/alarma-px360.html">PX360 Starter</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-fx360.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma FX360" /></a><a href="productos/alarma-fx360.html">FX360 DPN</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-keyless360-volumetrica.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma keyless 360" /></a><a href="productos/alarma-keyless360-volumetrica.html">Keyless 360 US</a></li>
+                                <li class="masMenuDetail"><i class="fa-solid fa-circle-plus"></i><p>Ver Mas</p></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
                             <ul class="lista">
-                                <li>DB PX350 G8</li>
-                                <li>DB FX350 G8</li>
-                                <li>DB PRO350 G8</li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-px350.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PX350" /></a><a href="productos/alarma-moto-duoblock-px350.html">Duoblock PX350</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-fx350.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma FX350" /></a><a href="productos/alarma-moto-duoblock-fx350.html">Duoblock FX350</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-pro350.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PRO350" /></a><a href="productos/alarma-moto-duoblock-pro350.html">Duoblock PX350</a></li>
                             </ul>
                         </div>`
 
@@ -75,9 +76,10 @@ audioMenu.addEventListener('click', () => {
                         </div>
                         <div class="banAlmRight" id="banAlmRight">
                             <ul class="listProducts">
-                                <li class="listItems" id="item1">Multimedia</li>
-                                <li class="listItems" id="item2">In-Dash</li>
-                                <li>Donde Comprar</li>
+                                <li class="listItems" id="item1">Central Multimedia<i class="fa fa-chevron-right"></i></li>
+                                <li class="listItems" id="item2">Pantalla retráctil<i class="fa fa-chevron-right"></i></li>
+                                <li class="listItems" id="item3">MP3 Player<i class="fa fa-chevron-right"></i></li>
+                                <li><a href="/comercios.html">Donde Instalar</a></li>
                             </ul>
                         </div>
                         <div class="itemList1 oculto" id="itemList1">
@@ -93,6 +95,13 @@ audioMenu.addEventListener('click', () => {
                                 <li>SP6730</li>
                                 <li>SP6330</li>
                             </ul>
+                        </div>
+                        <div class="itemList3 oculto" id="itemList3">
+                            <ul class="lista">
+                                <li>SP2230</li>
+                                <li>SP2240</li>
+                                <li>SP2250</li>
+                            </ul>
                         </div>`
 
         let banner = document.getElementById('banner');
@@ -103,12 +112,14 @@ audioMenu.addEventListener('click', () => {
             banner.append(elemento)
             cars()
             motos()
+            item3()
         } else if (!banner.classList.contains('visible') && banner.classList.contains('audio')) {
             banner.classList.add('visible')
             banner.innerHTML = ""
             banner.append(elemento)
             cars()
             motos()
+            item3()
 
         } else {
             banner.classList.add = 'visible'
@@ -116,6 +127,7 @@ audioMenu.addEventListener('click', () => {
             banner.append(elemento)
             cars()
             motos()
+            item3()
         }
     }
 
@@ -288,16 +300,16 @@ resMenu.addEventListener('click', () => {
 // })
 
 function cars() {
-    let listaAlarmasAuto = document.getElementById('item1')
-    listaAlarmasAuto.addEventListener('click', () => {
-        console.log('click en cars')
+    let listaItemsUno = document.getElementById('item1')
+    listaItemsUno.addEventListener('click', () => {
         let autos = document.querySelector('.itemList1')
         let motos = document.querySelector('.motoList')
+        let itemlist3 = document.querySelector('.itemList3')
         if (autos.classList.contains('oculto')) {
             console.log(autos.classList.contains('oculto'))
             autos.classList.remove('oculto')
             motos.classList.add('oculto')
-            console.log(autos)
+            itemlist3.classList.add('oculto')            
         } else {
             autos.classList.add('oculto')
         }
@@ -306,16 +318,35 @@ function cars() {
 }
 
 function motos() {
-    let listaAlarmasMoto = document.getElementById('item2')
-    listaAlarmasMoto.addEventListener('click', () => {
-        console.log('click en motos')
+    let listaItemsDos = document.getElementById('item2')
+    listaItemsDos.addEventListener('click', () => {
         let motos = document.querySelector('.motoList')
         let autos = document.querySelector('.itemList1')
+        let itemlist3 = document.querySelector('.itemList3')
         if (motos.classList.contains('oculto')) {
             motos.classList.remove('oculto')
             autos.classList.add('oculto')
+            itemlist3.classList.add('oculto')
         } else {
             motos.classList.add('oculto')
+        }
+
+    })
+
+}
+
+function item3() {
+    let listaItemsTres = document.getElementById('item3')
+    listaItemsTres.addEventListener('click', () => {
+        let itemlist3 = document.querySelector('.itemList3')
+        let autos = document.querySelector('.itemList1')
+        let motos = document.querySelector('.motoList')
+        if (itemlist3.classList.contains('oculto')) {
+            itemlist3.classList.remove('oculto')
+            autos.classList.add('oculto')
+            motos.classList.add('oculto')
+        } else {
+            itemlist3.classList.add('oculto')
         }
 
     })
@@ -330,7 +361,7 @@ cuerpo.addEventListener('click', () => {
     let autos = document.querySelector('.carList')
     if (clase_alarma.classList.contains('visible')) {
         clase_alarma.classList = ""
-        clase_alarma.classList.add ('banner-alarma')
+        clase_alarma.classList.add('banner-alarma')
         // clase_alarma.classList.remove('visible')
         // autos.classList.add('oculto')
         // motos.classList.add('oculto')

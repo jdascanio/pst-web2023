@@ -9,7 +9,11 @@
         "lat": "-34.552008",
         "lon": "-58.451871",
         "autos": "si",
-        "motos": "si"
+        "motos": "si",
+        "acc": "si",
+        "audio": "si",
+        "home": "si",
+        "rev": "si"
     },
     {
         "nombre": "PUNTA WARNES",

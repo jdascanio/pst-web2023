@@ -15,8 +15,8 @@ fetch('../assets/comercios.json')
             for (let n of data) {
                 let elemento = document.createElement('tr')
                 elemento.innerHTML = `
-                <td>${n.nombre}<a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a><span id="iconCont"></span></td>
-                <td>${n.direccion}</td>
+                <td>${n.nombre}<br><span id="iconCont"></span></td>
+                <td>${n.direccion} <a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
                 <td>${n.tel}</td>
                 <td><a href="mailto:${n.email}">${n.email}</a></td>
                 <td>${n.obs}</td>
@@ -27,6 +27,18 @@ fetch('../assets/comercios.json')
                 }
                 if (n.motos == "si"){
                     iconoMoto()
+                }
+                if (n.acc == "si"){
+                    iconoAcc()
+                }
+                if (n.home == "si"){
+                    iconoHome()
+                }
+                if (n.audio == "si"){
+                    iconoAudio()
+                }
+                if (n.rev == "si"){
+                    iconoRev()
                 }
             }
         
@@ -43,12 +55,30 @@ fetch('../assets/comercios.json')
                 let elemento = document.createElement('div')
                 elemento.classList = "distTabla"
                 elemento.innerHTML = `                    
-                    <h4>${n.nombre}</h4>
+                    <h4>${n.nombre}<br><span id="iconCont"></span></h4>
                     <p><a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i>${n.direccion}</a></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i>${n.tel}</p>
                     <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:${n.email}">${n.email}</a></p>
                     `
                 mainTable.append(elemento)
+                if (n.autos == "si"){
+                    iconoAuto()
+                }
+                if (n.motos == "si"){
+                    iconoMoto()
+                }
+                if (n.acc == "si"){
+                    iconoAcc()
+                }
+                if (n.home == "si"){
+                    iconoHome()
+                }
+                if (n.audio == "si"){
+                    iconoAudio()
+                }
+                if (n.rev == "si"){
+                    iconoRev()
+                }
             }
         }
 
@@ -63,13 +93,31 @@ fetch('../assets/comercios.json')
                 for (let n of data) {
                     let elemento = document.createElement('tr')
                     elemento.innerHTML = `
-                    <td>${n.nombre} <a href="http://www.google.com/maps/place/${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
-                    <td>${n.direccion}</td>
-                    <td>${n.tel}</td>
-                    <td><a href="mailto:${n.email}">${n.email}</a></td>
-                    <td>${n.obs}</td>
+                    <td>${n.nombre}<br><span id="iconCont"></span></td>
+                <td>${n.direccion} <a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
+                <td>${n.tel}</td>
+                <td><a href="mailto:${n.email}">${n.email}</a></td>
+                <td>${n.obs}</td>
                     `
                     seccion.append(elemento)
+                    if (n.autos == "si"){
+                        iconoAuto()
+                    }
+                    if (n.motos == "si"){
+                        iconoMoto()
+                    }
+                    if (n.acc == "si"){
+                        iconoAcc()
+                    }
+                    if (n.home == "si"){
+                        iconoHome()
+                    }
+                    if (n.audio == "si"){
+                        iconoAudio()
+                    }
+                    if (n.rev == "si"){
+                        iconoRev()
+                    }
                 }
 
             } else {
@@ -85,12 +133,30 @@ fetch('../assets/comercios.json')
                     let elemento = document.createElement('div')
                     elemento.classList = "distTabla"
                     elemento.innerHTML = `
-                    <h4>${n.nombre}</h4>
+                    <h4>${n.nombre}<br><span id="iconCont"></span></h4>
                     <p><a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i>${n.direccion}</a></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i>${n.tel}</p>
                     <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:${n.email}">${n.email}</a></p>
                     `
                     mainTable.append(elemento)
+                    if (n.autos == "si"){
+                        iconoAuto()
+                    }
+                    if (n.motos == "si"){
+                        iconoMoto()
+                    }
+                    if (n.acc == "si"){
+                        iconoAcc()
+                    }
+                    if (n.home == "si"){
+                        iconoHome()
+                    }
+                    if (n.audio == "si"){
+                        iconoAudio()
+                    }
+                    if (n.rev == "si"){
+                        iconoRev()
+                    }
                 }
             }
 
@@ -103,6 +169,16 @@ function constTabla() {
     tabla.innerHTML = `<thead>
                         <tr>
                             <th colspan="5" class="comAsist"><p>*El presente listado corresponde a comercios los cuales Pósitron tiene conocimiento que trabajan asiduamente la marca. Los mismos no son comercios oficiales, autorizados y/o sucursales, ya que la marca no posee dicho tipo de comercios</p></th>                            
+                        </tr>
+                        <tr id="comTitle">
+                            <td><i class="fa-solid fa-car setIconos"></i>Alarmas de Auto</td>                          
+                            <td><i class="fa-solid fa-motorcycle setIconos blue"></i>Alarmas de Moto</td>                          
+                            <td><i class="fa-solid fa-house setIconos purple"></i>Alarma Residencial</td>                          
+                            <td><i class="fa-solid fa-music setIconos orange"></i>Audio Positron</td>                          
+                            <td><i class="fa-solid fa-gear setIconos green"></i>Venta accesorios</td>                          
+                        </tr>
+                        <tr id="comTitle">
+                            <td><i class="fa-solid fa-wrench setIconos turquoise"></i>Revisiones de productos</td>                          
                         </tr>
                         <tr id="comTitle">
                             <th colspan="2" class="comAsist"><h2>COMERCIOS INSTALADORES</h2></th>                            
@@ -130,7 +206,31 @@ function iconoAuto(){
 function iconoMoto(){
     let contenedor = document.getElementById('iconCont')
     let icono = document.createElement('i')
-    icono.classList = 'fa-solid fa-motorcycle setIconos'
+    icono.classList = 'fa-solid fa-motorcycle setIconos blue'
+    contenedor.appendChild(icono)
+}
+function iconoAcc(){
+    let contenedor = document.getElementById('iconCont')
+    let icono = document.createElement('i')
+    icono.innerHTML = `<i class="fa-solid fa-gear setIconos green"></i>`
+    contenedor.appendChild(icono)
+}
+function iconoAudio(){
+    let contenedor = document.getElementById('iconCont')
+    let icono = document.createElement('i')
+    icono.classList = 'fa-solid fa-music setIconos orange'
+    contenedor.appendChild(icono)
+}
+function iconoHome(){
+    let contenedor = document.getElementById('iconCont')
+    let icono = document.createElement('i')
+    icono.classList = 'fa-solid fa-house setIconos purple'
+    contenedor.appendChild(icono)
+}
+function iconoRev(){
+    let contenedor = document.getElementById('iconCont')
+    let icono = document.createElement('i')
+    icono.classList = 'fa-solid fa-wrench setIconos turquoise'
     contenedor.appendChild(icono)
 }
 
