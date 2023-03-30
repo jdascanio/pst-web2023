@@ -79,28 +79,37 @@ audioMenu.addEventListener('click', () => {
                                 <li class="listItems" id="item1">Central Multimedia<i class="fa fa-chevron-right"></i></li>
                                 <li class="listItems" id="item2">Pantalla retráctil<i class="fa fa-chevron-right"></i></li>
                                 <li class="listItems" id="item3">MP3 Player<i class="fa fa-chevron-right"></i></li>
+                                <li class="listItems" id="item4">Parlantes<i class="fa fa-chevron-right"></i></li>
                                 <li><a href="/comercios.html">Donde Instalar</a></li>
                             </ul>
                         </div>
                         <div class="itemList1 oculto" id="itemList1">
                             <ul class="lista">
-                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9010.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP9010" /></a><a href="productos/estereo-para-auto-sp9010.html">SP9010</a></li>
-                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9090.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP9090" /></a><a href="productos/estereo-para-auto-sp9090.html">SP9090</a></li>
-                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp8340.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP8340" /></a><a href="productos/estereo-para-auto-sp8340.html">SP8340</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9010.html"><img class="imgSmallMenu" src="../img/audio/sp9010.webp" alt="SP9010" /></a><a href="productos/estereo-para-auto-sp9010.html">SP9010</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9090.html"><img class="imgSmallMenu" src="../img/audio/sp9090.webp" alt="SP9090" /></a><a href="productos/estereo-para-auto-sp9090.html">SP9090</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp8340.html"><img class="imgSmallMenu" src="../img/audio/sp8340.webp" alt="SP8340" /></a><a href="productos/estereo-para-auto-sp8340.html">SP8340</a></li>
                                 <li class="masMenuDetail"><i class="fa-solid fa-circle-plus"></i><p>Ver Mas</p></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
                             <ul class="lista">
-                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp6730.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP6730" /></a><a href="productos/estereo-para-auto-sp6730.html">SP6730</a></li>
-                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp6330.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP6330" /></a><a href="productos/estereo-para-auto-sp6330.html">SP6330</a></li>                                
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp6730.html"><img class="imgSmallMenu" src="../img/audio/sp6730.webp" alt="SP6730" /></a><a href="productos/estereo-para-auto-sp6730.html">SP6730</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp6330.html"><img class="imgSmallMenu" src="../img/audio/sp6330.webp" alt="SP6330" /></a><a href="productos/estereo-para-auto-sp6330.html">SP6330</a></li>                                
                             </ul>
                         </div>
                         <div class="itemList3 oculto" id="itemList3">
                             <ul class="lista">
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2230.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP2230" /></a><a href="productos/estereo-para-auto-sp2230.html">SP2230</a></li>
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2240.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP2240" /></a><a href="productos/estereo-para-auto-sp2240.html">SP2240</a></li>
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">SP2250</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2230.html"><img class="imgSmallMenu" src="../img/audio/sp2230.webp" alt="SP2230" /></a><a href="productos/estereo-para-auto-sp2230.html">SP2230</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2240.html"><img class="imgSmallMenu" src="../img/audio/sp2240.webp" alt="SP2240" /></a><a href="productos/estereo-para-auto-sp2240.html">SP2240</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/audio/sp2250.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">SP2250</a></li>
+                            </ul>
+                        </div>
+                        <div class="itemList4 oculto" id="itemList4">
+                            <ul class="lista">
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2230.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2230" /></a><a href="productos/estereo-para-auto-sp2230.html">Parlante 4 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2240.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2240" /></a><a href="productos/estereo-para-auto-sp2240.html">Parlante 5 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">Parlante 6 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">Parlante 6x9 pulgadas</a></li>
                             </ul>
                         </div>`
 
@@ -113,6 +122,7 @@ audioMenu.addEventListener('click', () => {
             cars()
             motos()
             item3()
+            item4()
         } else if (!banner.classList.contains('visible') && banner.classList.contains('audio')) {
             banner.classList.add('visible')
             banner.innerHTML = ""
@@ -120,6 +130,7 @@ audioMenu.addEventListener('click', () => {
             cars()
             motos()
             item3()
+            item4()
 
         } else {
             banner.classList.add = 'visible'
@@ -128,6 +139,7 @@ audioMenu.addEventListener('click', () => {
             cars()
             motos()
             item3()
+            item4()
         }
     }
 
@@ -305,11 +317,13 @@ function cars() {
         let autos = document.querySelector('.itemList1')
         let motos = document.querySelector('.motoList')
         let itemlist3 = document.querySelector('.itemList3')
+        let itemlist4 = document.querySelector('.itemList4')
         if (autos.classList.contains('oculto')) {
             console.log(autos.classList.contains('oculto'))
             autos.classList.remove('oculto')
             motos.classList.add('oculto')
-            itemlist3.classList.add('oculto')            
+            itemlist3.classList.add('oculto')
+            itemlist4.classList.add('oculto')            
         } else {
             autos.classList.add('oculto')
         }
@@ -323,10 +337,12 @@ function motos() {
         let motos = document.querySelector('.motoList')
         let autos = document.querySelector('.itemList1')
         let itemlist3 = document.querySelector('.itemList3')
+        let itemlist4 = document.querySelector('.itemList4')
         if (motos.classList.contains('oculto')) {
             motos.classList.remove('oculto')
             autos.classList.add('oculto')
             itemlist3.classList.add('oculto')
+            itemlist4.classList.add('oculto')
         } else {
             motos.classList.add('oculto')
         }
@@ -339,14 +355,36 @@ function item3() {
     let listaItemsTres = document.getElementById('item3')
     listaItemsTres.addEventListener('click', () => {
         let itemlist3 = document.querySelector('.itemList3')
+        let itemlist4 = document.querySelector('.itemList4')
         let autos = document.querySelector('.itemList1')
         let motos = document.querySelector('.motoList')
         if (itemlist3.classList.contains('oculto')) {
             itemlist3.classList.remove('oculto')
+            itemlist4.classList.add('oculto')
             autos.classList.add('oculto')
             motos.classList.add('oculto')
         } else {
             itemlist3.classList.add('oculto')
+        }
+
+    })
+
+}
+
+function item4() {
+    let listaItemsCuatro = document.getElementById('item4')
+    listaItemsCuatro.addEventListener('click', () => {
+        let itemlist4 = document.querySelector('.itemList4')
+        let itemlist3 = document.querySelector('.itemList3')
+        let autos = document.querySelector('.itemList1')
+        let motos = document.querySelector('.motoList')
+        if (itemlist4.classList.contains('oculto')) {
+            itemlist4.classList.remove('oculto')
+            itemlist3.classList.add('oculto')
+            autos.classList.add('oculto')
+            motos.classList.add('oculto')
+        } else {
+            itemlist4.classList.add('oculto')
         }
 
     })

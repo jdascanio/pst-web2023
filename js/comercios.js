@@ -55,29 +55,29 @@ fetch('../assets/comercios.json')
                 let elemento = document.createElement('div')
                 elemento.classList = "distTabla"
                 elemento.innerHTML = `                    
-                    <h4>${n.nombre}<br><span id="iconCont"></span></h4>
+                    <h4>${n.nombre}<br><span class="iconCont" id="iconCont${n.id}"></span></h4>
                     <p><a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i>${n.direccion}</a></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i>${n.tel}</p>
                     <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:${n.email}">${n.email}</a></p>
                     `
                 mainTable.append(elemento)
                 if (n.autos == "si"){
-                    iconoAuto()
+                    iconoAuto(n.id)
                 }
                 if (n.motos == "si"){
-                    iconoMoto()
+                    iconoMoto(n.id)
                 }
                 if (n.acc == "si"){
-                    iconoAcc()
+                    iconoAcc(n.id)
                 }
                 if (n.home == "si"){
-                    iconoHome()
+                    iconoHome(n.id)
                 }
                 if (n.audio == "si"){
-                    iconoAudio()
+                    iconoAudio(n.id)
                 }
                 if (n.rev == "si"){
-                    iconoRev()
+                    iconoRev(n.id)
                 }
             }
         }
@@ -93,7 +93,7 @@ fetch('../assets/comercios.json')
                 for (let n of data) {
                     let elemento = document.createElement('tr')
                     elemento.innerHTML = `
-                    <td>${n.nombre}<br><span id="iconCont"></span></td>
+                    <td>${n.nombre}<br><span class="iconCont" id="iconCont${n.id}"></span></td>
                 <td>${n.direccion} <a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
                 <td>${n.tel}</td>
                 <td><a href="mailto:${n.email}">${n.email}</a></td>
@@ -101,22 +101,22 @@ fetch('../assets/comercios.json')
                     `
                     seccion.append(elemento)
                     if (n.autos == "si"){
-                        iconoAuto()
+                        iconoAuto(n.id)
                     }
                     if (n.motos == "si"){
-                        iconoMoto()
+                        iconoMoto(n.id)
                     }
                     if (n.acc == "si"){
-                        iconoAcc()
+                        iconoAcc(n.id)
                     }
                     if (n.home == "si"){
-                        iconoHome()
+                        iconoHome(n.id)
                     }
                     if (n.audio == "si"){
-                        iconoAudio()
+                        iconoAudio(n.id)
                     }
                     if (n.rev == "si"){
-                        iconoRev()
+                        iconoRev(n.id)
                     }
                 }
 
@@ -134,29 +134,29 @@ fetch('../assets/comercios.json')
                     let elemento = document.createElement('div')
                     elemento.classList = "distTabla"
                     elemento.innerHTML = `
-                    <h4>${n.nombre}<br><span id="iconCont"></span></h4>
+                    <h4>${n.nombre}<br><span class="iconCont" id="iconCont${n.id}"></span></h4>
                     <p><a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i>${n.direccion}</a></p>
                     <p><i class="fa fa-phone" aria-hidden="true"></i>${n.tel}</p>
                     <p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:${n.email}">${n.email}</a></p>
                     `
                     mainTable.append(elemento)
                     if (n.autos == "si"){
-                        iconoAuto()
+                        iconoAuto(n.id)
                     }
                     if (n.motos == "si"){
-                        iconoMoto()
+                        iconoMoto(n.id)
                     }
                     if (n.acc == "si"){
-                        iconoAcc()
+                        iconoAcc(n.id)
                     }
                     if (n.home == "si"){
-                        iconoHome()
+                        iconoHome(n.id)
                     }
                     if (n.audio == "si"){
-                        iconoAudio()
+                        iconoAudio(n.id)
                     }
                     if (n.rev == "si"){
-                        iconoRev()
+                        iconoRev(n.id)
                     }
                 }
             }

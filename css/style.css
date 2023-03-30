@@ -18,6 +18,9 @@ main {
     position: relative;
     top: 140px;
 }
+/* img{
+    pointer-events: none;
+} */
 .blue{
     color:#005E9A
 }
