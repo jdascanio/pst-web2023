@@ -15,7 +15,7 @@ fetch('../assets/comercios.json')
             for (let n of data) {
                 let elemento = document.createElement('tr')
                 elemento.innerHTML = `
-                <td>${n.nombre}<br><span id="iconCont"></span></td>
+                <td>${n.nombre}<br><span class="iconCont" id="iconCont${n.id}"></span></td>
                 <td>${n.direccion} <a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
                 <td>${n.tel}</td>
                 <td><a href="mailto:${n.email}">${n.email}</a></td>
@@ -23,22 +23,22 @@ fetch('../assets/comercios.json')
                 `
                 seccion.append(elemento)
                 if (n.autos == "si"){
-                    iconoAuto()
+                    iconoAuto(n.id)
                 }
                 if (n.motos == "si"){
-                    iconoMoto()
+                    iconoMoto(n.id)
                 }
                 if (n.acc == "si"){
-                    iconoAcc()
+                    iconoAcc(n.id)
                 }
                 if (n.home == "si"){
-                    iconoHome()
+                    iconoHome(n.id)
                 }
                 if (n.audio == "si"){
-                    iconoAudio()
+                    iconoAudio(n.id)
                 }
                 if (n.rev == "si"){
-                    iconoRev()
+                    iconoRev(n.id)
                 }
             }
         
@@ -130,6 +130,7 @@ fetch('../assets/comercios.json')
                 titulo.innerText = 'COMERCIOS INSTALADORES'
                 mainTable.append(titulo)
                 for (let n of data) {
+                    
                     let elemento = document.createElement('div')
                     elemento.classList = "distTabla"
                     elemento.innerHTML = `
@@ -197,38 +198,45 @@ function constTabla() {
     return (tabla)
 }
 
-function iconoAuto(){
-    let contenedor = document.getElementById('iconCont')
+function iconoAuto(id){
+    let idNumber = 'iconCont' + id
+    let contenedor = document.getElementById(idNumber)
+    console.log (idNumber)
     let icono = document.createElement('i')
     icono.classList = 'fa-solid fa-car setIconos'
     contenedor.appendChild(icono)
 }
-function iconoMoto(){
-    let contenedor = document.getElementById('iconCont')
+function iconoMoto(id){
+    let idNumber = 'iconCont' + id
+    let contenedor = document.getElementById(idNumber)
     let icono = document.createElement('i')
     icono.classList = 'fa-solid fa-motorcycle setIconos blue'
     contenedor.appendChild(icono)
 }
-function iconoAcc(){
-    let contenedor = document.getElementById('iconCont')
+function iconoAcc(id){
+    let idNumber = 'iconCont' + id
+    let contenedor = document.getElementById(idNumber)
     let icono = document.createElement('i')
     icono.innerHTML = `<i class="fa-solid fa-gear setIconos green"></i>`
     contenedor.appendChild(icono)
 }
-function iconoAudio(){
-    let contenedor = document.getElementById('iconCont')
+function iconoAudio(id){
+    let idNumber = 'iconCont' + id
+    let contenedor = document.getElementById(idNumber)
     let icono = document.createElement('i')
     icono.classList = 'fa-solid fa-music setIconos orange'
     contenedor.appendChild(icono)
 }
-function iconoHome(){
-    let contenedor = document.getElementById('iconCont')
+function iconoHome(id){
+    let idNumber = 'iconCont' + id
+    let contenedor = document.getElementById(idNumber)
     let icono = document.createElement('i')
     icono.classList = 'fa-solid fa-house setIconos purple'
     contenedor.appendChild(icono)
 }
-function iconoRev(){
-    let contenedor = document.getElementById('iconCont')
+function iconoRev(id){
+    let idNumber = 'iconCont' + id
+    let contenedor = document.getElementById(idNumber)
     let icono = document.createElement('i')
     icono.classList = 'fa-solid fa-wrench setIconos turquoise'
     contenedor.appendChild(icono)

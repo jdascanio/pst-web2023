@@ -21,16 +21,16 @@ alarmMenu.addEventListener('click', () => {
                         <div class="itemList1 oculto" id="itemList1">
                             <ul class="lista">
                                 <li class="prodMenuDetail"><a href="productos/alarma-px360.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PX360" /></a><a href="productos/alarma-px360.html">PX360 Starter</a></li>
-                                <li class="prodMenuDetail"><a href="productos/alarma-fx360.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma FX360" /></a><a href="productos/alarma-fx360.html">FX360 DPN</a></li>
-                                <li class="prodMenuDetail"><a href="productos/alarma-keyless360-volumetrica.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma keyless 360" /></a><a href="productos/alarma-keyless360-volumetrica.html">Keyless 360 US</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-fx360.html"><img class="imgSmallMenu" src="../img/alarmas/fx360dpn.webp" alt="alarma FX360" /></a><a href="productos/alarma-fx360.html">FX360 DPN</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-keyless360-volumetrica.html"><img class="imgSmallMenu" src="../img/alarmas/kl360us.webp" alt="alarma keyless 360" /></a><a href="productos/alarma-keyless360-volumetrica.html">Keyless 360 US</a></li>
                                 <li class="masMenuDetail"><i class="fa-solid fa-circle-plus"></i><p>Ver Mas</p></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
                             <ul class="lista">
-                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-px350.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PX350" /></a><a href="productos/alarma-moto-duoblock-px350.html">Duoblock PX350</a></li>
-                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-fx350.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma FX350" /></a><a href="productos/alarma-moto-duoblock-fx350.html">Duoblock FX350</a></li>
-                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-pro350.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PRO350" /></a><a href="productos/alarma-moto-duoblock-pro350.html">Duoblock PX350</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-px350.html"><img class="imgSmallMenu" src="../img/alarmas/dbpx350g8.webp" alt="alarma PX350" /></a><a href="productos/alarma-moto-duoblock-px350.html">Duoblock PX350</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-fx350.html"><img class="imgSmallMenu" src="../img/alarmas/dbfx350g8.webp" alt="alarma FX350" /></a><a href="productos/alarma-moto-duoblock-fx350.html">Duoblock FX350</a></li>
+                                <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-pro350.html"><img class="imgSmallMenu" src="../img/alarmas/dbpro350g8.webp" alt="alarma PRO350" /></a><a href="productos/alarma-moto-duoblock-pro350.html">Duoblock PX350</a></li>
                             </ul>
                         </div>`
 
@@ -84,23 +84,23 @@ audioMenu.addEventListener('click', () => {
                         </div>
                         <div class="itemList1 oculto" id="itemList1">
                             <ul class="lista">
-                                <li>SP8340</li>
-                                <li>SP9090</li>
-                                <li>SP9010</li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9010.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP9010" /></a><a href="productos/estereo-para-auto-sp9010.html">SP9010</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9090.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP9090" /></a><a href="productos/estereo-para-auto-sp9090.html">SP9090</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp8340.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP8340" /></a><a href="productos/estereo-para-auto-sp8340.html">SP8340</a></li>
+                                <li class="masMenuDetail"><i class="fa-solid fa-circle-plus"></i><p>Ver Mas</p></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
                             <ul class="lista">
-                                <li>SP6920</li>
-                                <li>SP6730</li>
-                                <li>SP6330</li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp6730.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP6730" /></a><a href="productos/estereo-para-auto-sp6730.html">SP6730</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp6330.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP6330" /></a><a href="productos/estereo-para-auto-sp6330.html">SP6330</a></li>                                
                             </ul>
                         </div>
                         <div class="itemList3 oculto" id="itemList3">
                             <ul class="lista">
-                                <li>SP2230</li>
-                                <li>SP2240</li>
-                                <li>SP2250</li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2230.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP2230" /></a><a href="productos/estereo-para-auto-sp2230.html">SP2230</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2240.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP2240" /></a><a href="productos/estereo-para-auto-sp2240.html">SP2240</a></li>
+                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">SP2250</a></li>
                             </ul>
                         </div>`
 

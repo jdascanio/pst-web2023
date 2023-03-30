@@ -1,5 +1,6 @@
 [
     {
+        "id": "00001",
         "nombre": "Auto ACC",
         "direccion": "AV. libertador 6514, Belgrano<br>Capital Federal",
         "tel": "4782-1144",
@@ -11,11 +12,12 @@
         "autos": "si",
         "motos": "si",
         "acc": "si",
-        "audio": "si",
-        "home": "si",
+        "audio": "no",
+        "home": "no",
         "rev": "si"
     },
     {
+        "id": "00002",
         "nombre": "PUNTA WARNES",
         "direccion": "Av Warnes 1402, Villa Crespo<br>Capital Federal",
         "tel": "4586-0402",
@@ -23,6 +25,12 @@
         "obs": "Solo alarmas vehiculares y audio (especialmente multimedia)<br>Solo ventas - Revisiones No.",
         "email": "puntawarnes@fibertel.com.ar",
         "lat": "-34.5978893",
-        "lon": "-58.4557409"
+        "lon": "-58.4557409",
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "si",
+        "home": "no",
+        "rev": "no"
     }
 ]
