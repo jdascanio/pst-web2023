@@ -106,10 +106,10 @@ audioMenu.addEventListener('click', () => {
                         </div>
                         <div class="itemList4 oculto" id="itemList4">
                             <ul class="lista">
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2230.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2230" /></a><a href="productos/estereo-para-auto-sp2230.html">Parlante 4 pulgadas</a></li>
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2240.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2240" /></a><a href="productos/estereo-para-auto-sp2240.html">Parlante 5 pulgadas</a></li>
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">Parlante 6 pulgadas</a></li>
-                            <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/audio/PX360-Starter.webp" alt="SP2250" /></a><a href="productos/estereo-para-auto-sp2250.html">Parlante 6x9 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/parlante-4-pulgadas-atp4030.html"><img class="imgSmallMenu" src="../img/audio/4-pulgadas-atp4030.webp" alt="parlante 4 pulgadas" /></a><a href="productos/parlante-4-pulgadas-atp4030.html">Parlante 4 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/parlante-5-pulgadas-atp5030.html"><img class="imgSmallMenu" src="../img/audio/5-pulgadas-atp5030.webp" alt="parlante 5 pulgadas" /></a><a href="productos/parlante-5-pulgadas-atp5030.html">Parlante 5 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/parlante-6-pulgadas-atp6030.html"><img class="imgSmallMenu" src="../img/audio/6-pulgadas-atp6030.webp" alt="parlante 6 pulgadas" /></a><a href="productos/parlante-6-pulgadas-atp6030.html">Parlante 6 pulgadas</a></li>
+                            <li class="prodMenuDetail"><a href="productos/parlante-6x9-pulgadas-acp6940.html"><img class="imgSmallMenu extra" src="../img/audio/6x9-pulgadas-acp6940.webp" alt="Parlante 6x9 pulgadas" /></a><a href="productos/parlante-6x9-pulgadas-acp6940.html">Parlante 6x9 pulgadas</a></li>
                             </ul>
                         </div>`
 
