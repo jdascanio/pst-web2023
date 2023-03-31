@@ -1,0 +1,24 @@
+[
+    {
+        "pn": "12871003",
+        "name": "Cyber FX360 DPN",
+        "description": "Alarma para autos Cyber FX360 DPN - con control de presencia",
+        "images": [
+            "../img/alarmas/fx360dpn.webp"
+        ],
+        "icons": [
+            "..img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg",
+            "..img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg",
+            "..img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg"
+        ],
+        "specs": [
+            "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
+            "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del mismo), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje",
+            "Encendido automático de luces bajas y de posición al encender el vehículo"
+        ],
+        "price": "$22.419",
+        "manual": "../uploads/pdf/manual-px-fx-ex-360.pdf"
+    }
+]

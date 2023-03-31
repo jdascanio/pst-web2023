@@ -25,7 +25,7 @@ img {
 }
 
 .blue {
-    color: #005E9A
+    color: #005E9A;    
 }
 
 .orange {
@@ -59,6 +59,9 @@ img {
     width: 100vw;
     position: fixed;
     top: 0px;
+}
+.horario{
+    font-size: 10px;
 }
 
 .preheader {
@@ -674,6 +677,26 @@ textarea {
 .FAQ {
     margin-top: 15px;
 }
+.productButton{
+    height: 50px;
+    cursor: pointer;
+    padding: 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: #fafafa;
+    font-size: 16px;
+    font-weight: 400;
+    border: 0px solid gray;
+}
+.productButton.blue{
+    background-color: #6C93A3;
+}
+.productButton.green{
+    background-color: #71C681;
+}
+.productButton.purple{
+    background-color: #A55C93;
+}
 
 .formButton {
     cursor: pointer;
@@ -736,34 +759,128 @@ textarea {
 }
 
 .contImageProduct {
+    background-color: #fafafa;
     width: 55vw;
-    background-color: yellow;
+    height: 500px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.productImage{
     height: 400px;
+}
+.iconsProduct{
+    height: 300px;
+    background-color: #F1F1F1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.iconProductSingle{
+    height: 150px;
+}
+
+.specsContainer{
+    box-sizing: border-box;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.specs{
+    width: 70%;
+}
+.specs h2, h3{
+    text-transform: uppercase;
+    color: #4F4F4F;
+}
+.specs h3{
+    padding: 10px 0px;
+    border-bottom: 2px solid #818181;
+}
+.specs li{
+    margin-left: 15px;
+    list-style: disc;
+}
+.supportContainer{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fa-headset, .fa-comments{
+    margin: 0px 15px;
+}
+
+.SAT{
+    margin: 15px 0px;
+    display: flex;
+    align-items: center;
+    color: #302B63;    
+}
+
+.SAT p{
+    margin: 0;
+    margin-bottom: 2px;
+    font-family: 'Fira', sans-serif;
+}
+.SAT i{
+    color: #302B63;
+}
+.SAT span{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.SAT h4{
+    margin: 0;
+    margin-bottom: 2px;
+    font-size: 22px;
+    font-family: 'Fira', sans-serif;
+}
+.svgIconProduct{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 }
 
 .contDescriptionProduct {
     width: 45vw;
-    height: 400px;
+    height: 500px;
     background-color: #fafafa;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.contDescriptionProduct h1, h6{
+    font-family: 'Fira Sans', sans-serif;
+    color: #4F4F4F;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+.contDescriptionProduct h6{
+    font-size: 12px;
+    font-weight: 400;
+}
 
-
+.contTextDescription p{
+    color: #4F4F4F;
+    font-size: 14px;
 }
 
 .contTextDescription {
     box-sizing: border-box;
     padding: 20px;
     width: 75%;
-    height: 350px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     border-radius: 8px;
     background: #fafafa;
     box-shadow: 5px 5px 9px #d5d5d5,
-        -9px -9px 18px white;
+        -5px -5px 9px #f1f1f1;
 }
 
 
