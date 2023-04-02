@@ -29,6 +29,24 @@ fetch('../assets/productos.json')
         manual.append(linkManual)
 
         
+        let listadoIconos = product.icons
+        listadoIconos.forEach((valor) => {
+            // let iconos = document.getElementById('iconsProduct')
+            let icono = document.createElement('div')
+            icono.classList = "svgIconProduct"
+            icono.innerHTML = `<img class="iconProductSingle" src=${valor.imagen} alt="icono"/><p>${valor.texto}</p>`
+            icons.append(icono)
+        });
+
+        name_b.innerText = `${product.name}`
+
+        let specs = product.specs
+        specs.forEach((valor) => {
+            let caracteristica = document.createElement('li')
+            caracteristica.innerText = `${valor}`
+            specsList.append(caracteristica)
+        })
+        
         // <img class="productImage" src="../img/alarmas/fx360dpn.webp" alt="cyber fx360 dpn">
 
 

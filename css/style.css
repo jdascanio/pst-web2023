@@ -361,6 +361,14 @@ button {
     cursor: pointer;
     color: #009a76;
 }
+.FAQ_SAT{
+    display: flex;
+    align-items: center;
+    color: #111111;
+}
+.FAQ_SAT:hover{
+color: orange;
+}
 
 .masMenuDetail p {
     font-size: 12px;
@@ -799,9 +807,18 @@ textarea {
     padding: 10px 0px;
     border-bottom: 2px solid #818181;
 }
+.specs h2{
+    font-size: 30px;
+}
+.specs h3{
+    font-size: 22px;
+}
 .specs li{
+    font-size: 18px;
+    text-align: justify;
     margin-left: 15px;
     list-style: disc;
+    margin-bottom: 5px;
 }
 .supportContainer{
     width: 70%;

@@ -7,15 +7,11 @@
             "../img/alarmas/fx360dpn.webp"
         ],
         "icons": [
-            "..img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg",
-            "..img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg",
-            "..img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg"
+            {"imagen":"../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg", "texto":"Sistema anticlonaje"},
+            {"imagen":"../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg", "texto":"otro texto"},
+            {"imagen":"../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg", "texto":"tercer texto"}
         ],
-        "iconsText":[
-            "Sistema anticlonaje",
-            "Otro Texto",
-            "tercer texto"
-        ],
+       
         "specs": [
             "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
             "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
