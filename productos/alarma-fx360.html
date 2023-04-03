@@ -2,6 +2,16 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JF4KF0PMJF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-JF4KF0PMJF');
+    </script>
+    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,50 +73,39 @@
             </div>
         </section>
         <section class="contMainProducts">
-            <div class="contImageProduct">
-                <img class="productImage" src="../img/alarmas/fx360dpn.webp" alt="cyber fx360 dpn">
+            <div class="contImageProduct" id="productImages">
             </div>
             <section class="contDescriptionProduct">
                 <div class="contTextDescription">
-                    <h1>
-                        Cyber FX360 DPN
+                    <h1 id="name">
                     </h1>
-                    <h6>P/N: 12871003</h6>
-                    <p>
-                        Alarma con funcion presencia
+                    <h6 id="pn">P/N: 12871003</h6>
+                    <p id="description">
                     </p>
                     <hr>
                     <button class="productButton blue">Comprar Online</button>
                     <button class="productButton green">Donde instalar</button>
-                    <button class="productButton purple">Descargar Manual</button>
+                    <button class="productButton purple" id="dwlManual"></button>
                 </div>
             </section>
         </section>
-        <section class="iconsProduct">
-            <div class="svgIconProduct"><img class="iconProductSingle" src="../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg" alt="icono" /><p>Sistema anticlonaje</p></div>
-            <div class="svgIconProduct"><img class="iconProductSingle" src="../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg" alt="icono" /><p>Sistema anticlonaje</p></div><div class="svgIconProduct"><img class="iconProductSingle" src="../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg" alt="icono" /><p>Sistema anticlonaje</p></div><div class="svgIconProduct"><img class="iconProductSingle" src="../img/iconos/Controle-remoto-com-sistema-anticlonagem-CYBER-PX-360-CYBER-FX-360-KEYLESS-360-E-EXACT-.svg" alt="icono" /><p>Sistema anticlonaje</p></div>
+        <section class="iconsProduct" id="iconsProduct">
+
         </section>
         <section class="specsContainer">
             <div class="specs">
-                <h2>Cyber FX360 DPN</h2>
+                <h2 id="name_b"></h2>
                 <h3>Especificaciones técnicas</h3>
-                <ul>
-                    <li>1</li>
-                    <li>2</li>
-                    <li>3</li>
-                    <li>4</li>
-                    <li>5</li>
-                    <li>6</li>
-                    <li>7</li>
-                    <li>8</li>
+                <ul id="specsList">
+
                 </ul>
             </div>
             <div class="specs">
-                <h3>Asistencia</h3>
+                <h3>Soporte Técnico</h3>
             </div>
             <section class="supportContainer">
                 <div class="SAT">
-                    <i class="fa-solid fa-headset fa-4x"></i>
+                    <i class="fa-solid fa-headset fa-5x"></i>
                     <span>
                         <p>Asistencia Telefónica</p>
                         <h4>0800-333-5389</h4>
@@ -114,8 +113,10 @@
                     </span>
                 </div>
                 <div class="SAT">
-                    <i class="fa-regular fa-comments fa-4x"></i>
-                    <p>Preguntas frecuentes</p>
+                    <a class="FAQ_SAT"href=""><i class="fa-regular fa-comments fa-5x"></i>
+                        <p>Preguntas frecuentes</p>
+                    </a>
+
                 </div>
             </section>
         </section>
@@ -220,5 +221,6 @@
     </footer>
 </body>
 <script src="../js/script.js"></script>
+<script src="../js/products.js"></script>
 
 </html>

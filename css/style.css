@@ -61,7 +61,7 @@ img {
     top: 0px;
 }
 .horario{
-    font-size: 10px;
+    font-size: 10px !important;
 }
 
 .preheader {
@@ -282,7 +282,7 @@ button {
 }
 
 .cont-alarmas-texto h3 {
-
+    color: #fafafa;
     font-size: 30px;
     font-weight: 800;
     font-style: italic;
@@ -364,11 +364,10 @@ button {
 .FAQ_SAT{
     display: flex;
     align-items: center;
-    color: #111111;
+    color: #fafafa;
+    transition: 250ms;
 }
-.FAQ_SAT:hover{
-color: orange;
-}
+
 
 .masMenuDetail p {
     font-size: 12px;
@@ -823,26 +822,40 @@ textarea {
 .supportContainer{
     width: 70%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .fa-headset, .fa-comments{
     margin: 0px 15px;
 }
 
 .SAT{
+    width: 48%;
+    height: 200px;
     margin: 15px 0px;
     display: flex;
+    justify-content: center;
     align-items: center;
-    color: #302B63;    
+    color: #fafafa;
+    background: linear-gradient(165deg, #12c2e9, #c471ed, #f64f59);
+    transition: 350ms;
+    
+}
+.SAT:hover{
+    width: 49%;
+    height: 202px;
+    box-shadow: 3px 3px 6px #aeaeae;
+    background: linear-gradient(35deg, #12c2e9, #c471ed, #f64f59);
 }
 
 .SAT p{
+    font-size: 22px;
     margin: 0;
     margin-bottom: 2px;
     font-family: 'Fira', sans-serif;
+
 }
 .SAT i{
-    color: #302B63;
+    color: #fafafa;
 }
 .SAT span{
     display: flex;
@@ -852,7 +865,7 @@ textarea {
 .SAT h4{
     margin: 0;
     margin-bottom: 2px;
-    font-size: 22px;
+    font-size: 26px;
     font-family: 'Fira', sans-serif;
 }
 .svgIconProduct{
