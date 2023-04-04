@@ -31,6 +31,49 @@ img {
 .orange {
     color: orange
 }
+.productList{
+    box-sizing: border-box;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.reverse{
+    flex-direction: row-reverse;
+}
+.product-list-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.productListImage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45vw;
+}
+.productListImage img{
+ height: 450px;
+ width: auto;
+}
+
+.productListText{height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30vw;
+}
+.productListText h2{
+    font-family: 'Fira', sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #C42D32;
+    border-bottom: 2px solid #FCB800;
+}
+.productListText p{
+    color: #7A7A7A;
+    font-family: 'Fira', sans-serif;
+}
 
 .purple {
     color: purple
@@ -135,7 +178,7 @@ img {
 .contMainBanner {
     width: 100%;
     height: calc(100vh - 140px);
-    object-fit: cover;
+    /* object-fit: cover; */
 
 }
 
@@ -331,6 +374,11 @@ button {
 
 .extra {
     width: 130px;
+}
+.extras-product{
+    font-size: 12px;
+    margin: 0;
+    margin-bottom: 5px;
 }
 
 .prodMenuDetail {
@@ -704,6 +752,21 @@ textarea {
 .productButton.purple{
     background-color: #A55C93;
 }
+.products-grey{
+    font-size: 12px !important;
+    height: 40px !important;
+    width: 48%;
+    color: #111111;
+    font-weight: 400;
+}
+.productButton.red-fade:hover{
+    color: #fafafa;
+    background: transparent linear-gradient(180deg,#f6444a 0%, #920004 100%);
+}
+.productButton.green-fade{
+    color: #fafafa;
+    background: transparent linear-gradient(0deg, #0A8F1B 0%, #00C31A 100%)
+}
 
 .formButton {
     cursor: pointer;
@@ -722,6 +785,41 @@ textarea {
 
 .formButton:hover {
     background-color: #24243E;
+}
+.alarmSection{
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url('../img/bg_header_alarmas_vehiculares.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.alarmSection h3, .alarmTitle h3{
+    margin-top: 50px;
+    font-size: 25px;
+    color: #707070;
+    font-weight: 400;
+}
+.alarmSection h1{
+    font-size: 70px;
+    color: #C42D32;
+    font-weight: 800;
+    font-style: italic;
+}
+.alarmTitle h2{
+    font-size: 50px;
+    color: #302B63;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.alarmTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .azul {
@@ -786,6 +884,13 @@ textarea {
 }
 .iconProductSingle{
     height: 150px;
+}
+sup{
+    vertical-align: super !important;
+}
+.slide-Container{
+    height: 200px;
+    background-color: #38ef7d;
 }
 
 .specsContainer{

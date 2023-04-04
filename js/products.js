@@ -11,16 +11,24 @@ fetch('../assets/productos.json')
         let manual = document.getElementById('dwlManual')
         let icons = document.getElementById('iconsProduct')
         let specsList = document.getElementById('specsList')
+        let online = document.getElementById('buyOnline')
 
         let imagen = document.createElement('img')
         imagen.classList = 'productImage'
         imagen.src = `${product.images[0]}`
-        imagen.alt = `${ product.name }`
+        imagen.alt = `${product.name}`
         images.append(imagen)
 
         name.innerText = `${product.name}`
         description.innerText = `${product.description}`
-        
+
+        let linkOnline = document.createElement('a')
+        linkOnline.href = `${product.linkOnline}`
+        linkOnline.rel = 'noopener noreferrer'
+        linkOnline.target = '_blank'
+        linkOnline.innerText = 'Comprar Online'
+        online.append(linkOnline)
+
         let linkManual = document.createElement('a')
         linkManual.href = `${product.manual}`
         linkManual.rel = 'noopener noreferrer'
@@ -28,7 +36,8 @@ fetch('../assets/productos.json')
         linkManual.innerText = 'Descargar Manual'
         manual.append(linkManual)
 
-        
+
+
         let listadoIconos = product.icons
         listadoIconos.forEach((valor) => {
             // let iconos = document.getElementById('iconsProduct')
@@ -43,11 +52,19 @@ fetch('../assets/productos.json')
         let specs = product.specs
         specs.forEach((valor) => {
             let caracteristica = document.createElement('li')
-            caracteristica.innerText = `${valor}`
+            caracteristica.innerHTML = `${valor}`
             specsList.append(caracteristica)
         })
-        
-        // <img class="productImage" src="../img/alarmas/fx360dpn.webp" alt="cyber fx360 dpn">
+
+        const extrasList = document.getElementsByClassName('specs')[0]
+        let extras = product.extras
+        extras.forEach ((valor) => {
+            let elemento = document.createElement('p')
+            elemento.classList = 'extras-product'
+            elemento.innerHTML = `${valor}`
+            extrasList.append(elemento)
+        })
+            // <img class="productImage" src="../img/alarmas/fx360dpn.webp" alt="cyber fx360 dpn">
 
 
-})
+    })
