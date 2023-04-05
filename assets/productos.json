@@ -8,7 +8,7 @@
         ],
         "icons": [
             {"imagen":"../img/iconos/anticlonage.svg", "texto":"Sistema anticlonaje"},
-            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>1</sup>"},
+            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>(1)</sup>"},
             {"imagen":"../img/iconos/presencia.svg", "texto":"Control por presencia"},
             {"imagen":"../img/iconos/corte.svg", "texto":"Bloqueo de motor"}
         ],
@@ -23,22 +23,105 @@
             "1 control remoto PXN72.",
             "1 control remoto de presencia DPN72.",
             "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
-            "Modo asalto por presencia<sup>2</sup>.",
+            "Modo asalto por presencia<sup>(2)</sup>.",
             "Control de sonido: Permite apagar/encender el equipo de sonido.",
             "Salida Auxiliar para apertura de baúl: Permite la apertura del baúl desde el control remoto.",
             "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
             "4 Modos asalto programables.",
-            "Permite monitorear puertas, capot, baúl e ignición<sup>3</sup>.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(3)</sup>.",
             "Bloqueo del motor.",
             "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
         ],
         "extras": [
-            "<sup>1</sup>Dependerá de las características de los cierres y alza cristales eléctricos instalados en el vehículo",
-            "<sup>2</sup>Modo asalto por presencia deshabilitado de fábrica",
-            "<sup>3</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales"
+            "<sup>(1)</sup>Dependerá de las características de los cierres y alza cristales eléctricos instalados en el vehículo",
+            "<sup>(2)</sup>Modo asalto por presencia deshabilitado de fábrica",
+            "<sup>(3)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales"
         ],
         "price": "$22.419",
         "manual": "../uploads/pdf/manual-px-fx-ex-360.pdf",
         "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-787746780-alarma-auto-pst-positron-fx360-volumetrica-nuevo-modelo-_JM"
+    },
+    {
+        "pn": "13169000",
+        "name": "Cyber PX360 Starter",
+        "description": "Alarma para autos Cyber PX360 Starter - Posibilita el arranque a distancia, conexión bluetooth con la alarma, incluye control de presencia",
+        "images": [
+            "../img/alarmas/px360-starter.webp"
+        ],
+        "icons": [
+            {"imagen":"../img/iconos/arranque.svg", "texto":"Posibilita arranque a distancia"},
+            {"imagen":"../img/iconos/px-bt.svg", "texto":"Conexión por Bluetooth"},
+            {"imagen":"../img/iconos/anticlonage.svg", "texto":"Sistema anticlonaje"},
+            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>(1)</sup>"},
+            {"imagen":"../img/iconos/presencia.svg", "texto":"Control por presencia"},
+            {"imagen":"../img/iconos/corte.svg", "texto":"Bloqueo de motor"}
+        ],
+       
+        "specs": [
+            "Posibilidad para poder comandar el arranque a distancia de su vehículo desde el control remoto de la alarma o desde la aplicación Positron en su celular<sup>(1)(2)</sup>",
+            "Conexión inalámbrica con la alarma (bluetooth). Permite vincular la alarma con su Smartphone y comandar las funciones de la misma desde el celular<sup>(2)</sup>",
+            "Nuevo Módulo: De tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Nuevos controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del control remoto), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje.",
+            "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
+            "Encendido automático de luces bajas y de posición al encender el vehículo.",
+            "Sirena SI700: Más potente, de tamaño reducido.",
+            "Control remoto DPN74 de presencia.",
+            "Control remoto PXN74.",
+            "Modo asalto por presencia.",
+            "Control de sonido: Permite apagar/encender el equipo de sonido.",
+            "Salida Auxiliar para apertura de baúl: Permite la apertura del baúl desde el control remoto.",
+            "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
+            "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
+            "4 Modos asalto programables.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(3)</sup>",
+            "Bloqueo del motor.",
+            "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
+        ],
+        "extras": [
+            "<sup>(1)</sup>Requiere adicionales no incluidos en con el producto – consulte compatibilidad de su vehículo.",
+            "<sup>(2)</sup>El producto debe estar dentro del rango de alcance del bluetooth del celular (40 metros libre de obstáculos aproximadamente) – consulte compatibilidad de su celular.",
+            "<sup>(3)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales"
+        ],
+        "price": "$25.770",
+        "manual": "../uploads/pdf/manual-px-fx-ex-360.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-787750268-alarma-auto-pst-positron-px360-bt-bluetooth-volumetrica-_JM"
+    },
+    {
+        "pn": "12872001",
+        "name": "Cyber EX360 volumétrica",
+        "description": "Alarma para autos Cyber EX360 volumétrica - Detección de movimientos dentro del habitáculo",
+        "images": [
+            "../img/alarmas/ex360us.webp"
+        ],
+        "icons": [            
+            {"imagen":"../img/iconos/anticlonage.svg", "texto":"Sistema anticlonaje"},
+            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>(1)</sup>"}
+        ],
+       
+        "specs": [
+            "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
+            "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del mismo), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje.",
+            "Encendido automático de luces bajas y de posición al encender el vehículo.",
+            "Sirena SI700: Más potente, de tamaño reducido.",
+            "2 controles remoto PXN62.",
+            "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
+            "Control de sonido: Permite apagar/encender el equipo de sonido.",
+            "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
+            "3 Modos asalto programables.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(2)</sup>.",
+            "Bloqueo del motor<sup>(3)</sup>.",
+            "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
+        ],
+        "extras": [
+            "<sup>(1)</sup>Requiere adicionales no incluidos en con el producto – consulte compatibilidad de su vehículo.",
+            "<sup>(2)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales",
+            "<sup>(3)</sup> Requiere relay adicional"
+        ],
+        "price": "$18.256",
+        "manual": "../uploads/pdf/manual-px-fx-ex-360.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-874519973-alarma-auto-pst-positron-exact-360-volumetrica-_JM"
     }
 ]

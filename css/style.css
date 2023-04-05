@@ -41,6 +41,13 @@ img {
 .reverse{
     flex-direction: row-reverse;
 }
+
+.hidden{
+    display: none;
+}
+.active{
+    display: block;
+}
 .product-list-buttons{
     display: flex;
     justify-content: space-between;
@@ -890,7 +897,23 @@ sup{
 }
 .slide-Container{
     height: 200px;
-    background-color: #38ef7d;
+    box-sizing: border-box;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slide img {
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 80%;
+}
+.slide {
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 200px;
+    text-align: center;
+    /* animation-duration: 1000ms; */
 }
 
 .specsContainer{
@@ -1343,6 +1366,15 @@ img.flag {
 .visible {
     visibility: visible;
 }
+.fade {
+    animation-name: fade;
+    animation-duration: 2000ms;
+  }
+
+@keyframes fade {
+    from {opacity: .25} 
+    to {opacity: 1}
+  }
 
 @media (max-width: 800px) {
     .header {
