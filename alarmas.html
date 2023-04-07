@@ -23,6 +23,10 @@
         rel="stylesheet">
     <script src="https://kit.fontawesome.com/a4f17918d6.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/js/swiffy-slider.min.js" crossorigin="anonymous"
+        defer></script>
+    <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet"
+        crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/style.css">
 </head>
@@ -76,15 +80,53 @@
             <h3>¿Cual es el producto Positron</h3>
             <h2>ideal para tu vehículo?</h2>
         </div>
-        <section>
+        <section id="seccion-productos">
             <div class="productList">
                 <div class="productListImage">
                     <img src="../img/alarmas/PX360-Starter.webp" alt="">
                 </div>
                 <div class="productListText">
                     <h2>Cyber PX360 Starter</h2>
-                    <p>Alarma para autos Cyber PX360 Start - Conexión por Bluetooth, arranque a distancia. Con control de presencia</p>
-                    <div class="slide-Container">
+                    <p>Alarma para autos Cyber PX360 Start - Conexión por Bluetooth, arranque a distancia. Con control
+                        de presencia</p>
+                    <div id="carrousel" class="swiffy-slider slider-item-nogap slider-nav-chevron slider-nav-autoplay">
+                        <ul class="slider-container slide-cont">
+                            <li>
+                                <div id="slide1" class="slide">
+                                    <img src="../img/iconos/anticlonage.svg" alt="icono">
+                                    <p>Sistema anticlonaje</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div id="slide2" class="slide">
+                                    <img src="../img/iconos/cierres-vidrios.svg" alt="">
+                                    <p>Permite comandar cierres y vidrios</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div id="slide3" class="slide">
+                                    <img src="../img/iconos/presencia.svg" alt="">
+                                    <p>Control por presencia</p>
+                                </div>
+                            </li>
+                        </ul>
+
+                        <button type="button" class="slider-nav"></button>
+                        <button type="button" class="slider-nav slider-nav-next"></button>
+
+                        <!-- <ul class="slider-indicators">
+                            <li class=""></li>
+                            <li class="active"></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul> -->
+                    </div>
+                    <!-- <div class="slide-Container">
                         <div class="slide fade">
                             <img src="../img/iconos/anticlonage.svg" alt="icono">
                             <p>Sistema anticlonaje</p>
@@ -97,9 +139,10 @@
                             <img src="../img/iconos/presencia.svg" alt="">
                             <p>Control por presencia</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="product-list-buttons">
-                        <button class="productButton products-grey red-fade">Mas detalles</button><button class="productButton products-grey green-fade">Comprar</button>
+                        <button class="productButton products-grey red-fade">Mas detalles</button>
+                        <button class="productButton products-grey green-fade">Comprar</button>
                     </div>
                 </div>
             </div>
@@ -114,12 +157,13 @@
                         carrousel
                     </div>
                     <div class="product-list-buttons">
-                        <button class="productButton products-grey red-fade">Mas detalles</button><button class="productButton products-grey green-fade">Comprar</button>
+                        <button class="productButton products-grey red-fade">Mas detalles</button><button
+                            class="productButton products-grey green-fade">Comprar</button>
                     </div>
                 </div>
             </div>
         </section>
-        
+
 
         <section class="quienesSomos">
             <div class="contQS">
@@ -221,6 +265,7 @@
     </footer>
 </body>
 <script src="../js/script.js"></script>
-<script src="../js/carrousel.js"></script>
+<script src="../js/alarmas.js"></script>
+<!-- <script src="../js/carrousel.js"></script> -->
 
 </html>

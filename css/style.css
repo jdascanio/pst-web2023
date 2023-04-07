@@ -406,6 +406,9 @@ button {
     color: #bcbcbc;
     transition: 300ms ease-in-out;
 }
+.masMenuDetail a, .masMenuDetail i{
+    color: #bcbcbc;
+}
 
 .fa-circle-plus {
     font-size: 50px;
@@ -895,7 +898,7 @@ textarea {
 sup{
     vertical-align: super !important;
 }
-.slide-Container{
+.slide-cont{
     height: 200px;
     box-sizing: border-box;
     overflow: hidden;

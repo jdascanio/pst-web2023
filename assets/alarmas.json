@@ -1,0 +1,188 @@
+[
+    {
+        "auto": [
+            {
+                "name": "Cyber PX360 Starter",
+                "description": "Alarma para autos Cyber PX360 Starter - Posibilita el arranque a distancia, conexión bluetooth con la alarma, incluye control de presencia",
+                "images": [
+                    "../img/alarmas/px360-starter.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/arranque.svg",
+                        "texto": "Posibilita arranque a distancia"
+                    },
+                    {
+                        "imagen": "../img/iconos/px-bt.svg",
+                        "texto": "Conexión por Bluetooth"
+                    },
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    },
+                    {
+                        "imagen": "../img/iconos/cierres-vidrios.svg",
+                        "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+                    },
+                    {
+                        "imagen": "../img/iconos/presencia.svg",
+                        "texto": "Control por presencia"
+                    },
+                    {
+                        "imagen": "../img/iconos/corte.svg",
+                        "texto": "Bloqueo de motor"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-787750268-alarma-auto-pst-positron-px360-bt-bluetooth-volumetrica-_JM"
+            },
+            {
+                "name": "Cyber FX360 DPN",
+                "description": "Alarma para autos Cyber FX360 DPN - con control de presencia",
+                "images": [
+                    "../img/alarmas/fx360dpn.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    },
+                    {
+                        "imagen": "../img/iconos/cierres-vidrios.svg",
+                        "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+                    },
+                    {
+                        "imagen": "../img/iconos/presencia.svg",
+                        "texto": "Control por presencia"
+                    },
+                    {
+                        "imagen": "../img/iconos/corte.svg",
+                        "texto": "Bloqueo de motor"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-787746780-alarma-auto-pst-positron-fx360-volumetrica-nuevo-modelo-_JM"
+            },            
+            {
+                "name": "Cyber EX360 volumétrica",
+                "description": "Alarma para autos Cyber EX360 volumétrica - Detección de movimientos dentro del habitáculo",
+                "images": [
+                    "../img/alarmas/ex360us.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/volumetrica.svg",
+                        "texto": "Detecta movimientos dentro del habitáculo"
+                    },
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    },
+                    {
+                        "imagen": "../img/iconos/cierres-vidrios.svg",
+                        "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-874519973-alarma-auto-pst-positron-exact-360-volumetrica-_JM"
+            },
+            {
+                "name": "Cyber EX360 impacto",
+                "description": "Alarma para autos Cyber EX360 impacto - Detección de golpes y movimentos al vehículo. ¡Ideal para disuadir el robo de ruedas!",
+                "images": [
+                    "../img/alarmas/ex360imp.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/impacto.svg",
+                        "texto": "Detecta golpes y movimientos al vehículo"
+                    },
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    },
+                    {
+                        "imagen": "../img/iconos/cierres-vidrios.svg",
+                        "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-680229361-alarma-auto-pst-positron-ex-360-impacto-nuevo-modelo-_JM"
+            },
+            {
+                "name": "Keyless KL360 impacto",
+                "description": "Alarma para autos Keyless KL360 impacto - Utilice el comando a distancia en la llave original del vehículo para comandar la alarma. Incluye control remoto de presencia",
+                "images": [
+                    "../img/alarmas/kl360imp.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/keyless.svg",
+                        "texto": "Activa o desactiva con control original del vehículo"
+                    },
+                    {
+                        "imagen": "../img/iconos/impacto.svg",
+                        "texto": "Detecta golpes y movimientos al vehículo"
+                    },
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    },
+                    {
+                        "imagen": "../img/iconos/cierres-vidrios.svg",
+                        "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-680229358-alarma-auto-pst-positron-keyless-360-impacto-_JM"
+            },
+            {
+                "name": "Keyless KL360 volumétrica",
+                "description": "Alarma para autos Keyless KL360 volumétrica - Utilice el comando a distancia en la llave original del vehículo para comandar la alarma. Incluye control remoto de presencia",
+                "images": [
+                    "../img/alarmas/kl360us.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/keyless.svg",
+                        "texto": "Activa o desactiva con control original del vehículo"
+                    },
+                    {
+                        "imagen": "../img/iconos/volumetrica.svg",
+                        "texto": "Detecta movimientos dentro del habitáculo"
+                    },
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    },
+                    {
+                        "imagen": "../img/iconos/cierres-vidrios.svg",
+                        "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-680229381-alarma-auto-pst-positron-keyless-360-control-original-_JM"
+            },
+            {
+                "name": "Cyber TX360 Bivolt",
+                "description": "Alarma para autos Cyber TX360 Bivolt - Alarma Bivolt (12V o 24V) para autos y camiones, con batería de respaldo",
+                "images": [
+                    "../img/alarmas/tx360.webp"
+                ],
+                "icons": [
+                    {
+                        "imagen": "../img/iconos/bivolt.svg",
+                        "texto": "12V o 24V"
+                    },
+                    {
+                        "imagen": "../img/iconos/bateria-backup.svg",
+                        "texto": "Batería de respaldo"
+                    },
+                    {
+                        "imagen": "../img/iconos/volumetrica.svg",
+                        "texto": "Detecta movimientos dentro del habitáculo"
+                    },
+                    {
+                        "imagen": "../img/iconos/anticlonage.svg",
+                        "texto": "Sistema anticlonaje"
+                    }
+                ],
+                "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-749566389-alarma-auto-pst-positron-tx360-autoalimentada-presencia-_JM"
+            }
+        ]
+    }
+]

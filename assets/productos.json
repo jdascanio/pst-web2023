@@ -7,12 +7,23 @@
             "../img/alarmas/fx360dpn.webp"
         ],
         "icons": [
-            {"imagen":"../img/iconos/anticlonage.svg", "texto":"Sistema anticlonaje"},
-            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>(1)</sup>"},
-            {"imagen":"../img/iconos/presencia.svg", "texto":"Control por presencia"},
-            {"imagen":"../img/iconos/corte.svg", "texto":"Bloqueo de motor"}
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            },
+            {
+                "imagen": "../img/iconos/cierres-vidrios.svg",
+                "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+            },
+            {
+                "imagen": "../img/iconos/presencia.svg",
+                "texto": "Control por presencia"
+            },
+            {
+                "imagen": "../img/iconos/corte.svg",
+                "texto": "Bloqueo de motor"
+            }
         ],
-       
         "specs": [
             "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
             "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
@@ -49,14 +60,31 @@
             "../img/alarmas/px360-starter.webp"
         ],
         "icons": [
-            {"imagen":"../img/iconos/arranque.svg", "texto":"Posibilita arranque a distancia"},
-            {"imagen":"../img/iconos/px-bt.svg", "texto":"Conexión por Bluetooth"},
-            {"imagen":"../img/iconos/anticlonage.svg", "texto":"Sistema anticlonaje"},
-            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>(1)</sup>"},
-            {"imagen":"../img/iconos/presencia.svg", "texto":"Control por presencia"},
-            {"imagen":"../img/iconos/corte.svg", "texto":"Bloqueo de motor"}
+            {
+                "imagen": "../img/iconos/arranque.svg",
+                "texto": "Posibilita arranque a distancia"
+            },
+            {
+                "imagen": "../img/iconos/px-bt.svg",
+                "texto": "Conexión por Bluetooth"
+            },
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            },
+            {
+                "imagen": "../img/iconos/cierres-vidrios.svg",
+                "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+            },
+            {
+                "imagen": "../img/iconos/presencia.svg",
+                "texto": "Control por presencia"
+            },
+            {
+                "imagen": "../img/iconos/corte.svg",
+                "texto": "Bloqueo de motor"
+            }
         ],
-       
         "specs": [
             "Posibilidad para poder comandar el arranque a distancia de su vehículo desde el control remoto de la alarma o desde la aplicación Positron en su celular<sup>(1)(2)</sup>",
             "Conexión inalámbrica con la alarma (bluetooth). Permite vincular la alarma con su Smartphone y comandar las funciones de la misma desde el celular<sup>(2)</sup>",
@@ -94,11 +122,20 @@
         "images": [
             "../img/alarmas/ex360us.webp"
         ],
-        "icons": [            
-            {"imagen":"../img/iconos/anticlonage.svg", "texto":"Sistema anticlonaje"},
-            {"imagen":"../img/iconos/cierres-vidrios.svg", "texto":"Permite comandar cierres y vidrios<sup>(1)</sup>"}
+        "icons": [
+            {
+                "imagen": "../img/iconos/volumetrica.svg",
+                "texto": "Detecta movimientos dentro del habitáculo"
+            },
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            },
+            {
+                "imagen": "../img/iconos/cierres-vidrios.svg",
+                "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+            }
         ],
-       
         "specs": [
             "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
             "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
@@ -118,10 +155,213 @@
         "extras": [
             "<sup>(1)</sup>Requiere adicionales no incluidos en con el producto – consulte compatibilidad de su vehículo.",
             "<sup>(2)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales",
-            "<sup>(3)</sup> Requiere relay adicional"
+            "<sup>(3)</sup>Requiere relay adicional no incluido con el producto"
         ],
         "price": "$18.256",
         "manual": "../uploads/pdf/manual-px-fx-ex-360.pdf",
         "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-874519973-alarma-auto-pst-positron-exact-360-volumetrica-_JM"
+    },
+    {
+        "pn": "12872002",
+        "name": "Cyber EX360 impacto",
+        "description": "Alarma para autos Cyber EX360 impacto - Detección de golpes y movimentos al vehículo. ¡Ideal para disuadir el robo de ruedas!",
+        "images": [
+            "../img/alarmas/ex360imp.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/impacto.svg",
+                "texto": "Detecta golpes y movimientos al vehículo"
+            },
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            },
+            {
+                "imagen": "../img/iconos/cierres-vidrios.svg",
+                "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+            }
+        ],
+        "specs": [
+            "Exclusivo sensor de impacto con acelerómetro de última generación – Detecta golpes y movimientos al vehículo - ¡IDEAL PARA DISUADIR EL ROBO DE RUEDAS!",
+            "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del mismo), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje.",
+            "Encendido automático de luces bajas y de posición al encender el vehículo.",
+            "Sirena SI700: Más potente, de tamaño reducido.",
+            "2 controles remoto PXN62.",
+            "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
+            "Control de sonido: Permite apagar/encender el equipo de sonido.",
+            "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
+            "3 Modos asalto programables.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(2)</sup>.",
+            "Bloqueo del motor<sup>(3)</sup>.",
+            "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
+        ],
+        "extras": [
+            "<sup>(1)</sup>Requiere adicionales no incluidos en con el producto – consulte compatibilidad de su vehículo.",
+            "<sup>(2)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales",
+            "<sup>(3)</sup>Requiere relay adicional no incluido con el producto"
+        ],
+        "price": "$17.760",
+        "manual": "../uploads/pdf/manual-px-fx-ex-360.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-680229361-alarma-auto-pst-positron-ex-360-impacto-nuevo-modelo-_JM"
+    },
+    {
+        "pn": "12873002",
+        "name": "Keyless KL360 impacto",
+        "description": "Alarma para autos Keyless KL360 impacto - Utilice el comando a distancia en la llave original del vehículo para comandar la alarma. Incluye control remoto de presencia",
+        "images": [
+            "../img/alarmas/kl360imp.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/keyless.svg",
+                "texto": "Activa o desactiva con control original del vehículo"
+            },
+            {
+                "imagen": "../img/iconos/impacto.svg",
+                "texto": "Detecta golpes y movimientos al vehículo"
+            },
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            },
+            {
+                "imagen": "../img/iconos/cierres-vidrios.svg",
+                "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+            }
+        ],
+        "specs": [
+            "La alarma puede ser activada y desactivada a través del comando original del vehículo y/o el control remoto DPN72",
+            "Exclusivo sensor de impacto con acelerómetro de última generación – Detecta golpes y movimientos al vehículo - ¡IDEAL PARA DISUADIR EL ROBO DE RUEDAS!",
+            "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del mismo), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje.",
+            "Encendido automático de luces bajas y de posición al encender el vehículo.",
+            "Sirena SI700: Más potente, de tamaño reducido.",
+            "1 control remoto de presencia DPN72.",
+            "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
+            "Control de sonido: Permite apagar/encender el equipo de sonido.",
+            "Salida Auxiliar para apertura de baúl: Permite la apertura del baúl desde el control remoto.",
+            "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
+            "4 Modos asalto programables.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(2)</sup>.",
+            "Bloqueo del motor<sup>(3)</sup>.",
+            "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
+        ],
+        "extras": [
+            "<sup>(1)</sup>Requiere adicionales no incluidos en con el producto – consulte compatibilidad de su vehículo.",
+            "<sup>(2)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales",
+            "<sup>(3)</sup>Requiere relay adicional no incluido con el producto"
+        ],
+        "price": "$18.000",
+        "manual": "../uploads/pdf/manual-kl-360.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-680229358-alarma-auto-pst-positron-keyless-360-impacto-_JM"
+    },
+    {
+        "pn": "12873001",
+        "name": "Keyless KL360 volumétrica",
+        "description": "Alarma para autos Keyless KL360 volumétrica - Utilice el comando a distancia en la llave original del vehículo para comandar la alarma. Incluye control remoto de presencia",
+        "images": [
+            "../img/alarmas/kl360us.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/keyless.svg",
+                "texto": "Activa o desactiva con control original del vehículo"
+            },
+            {
+                "imagen": "../img/iconos/volumetrica.svg",
+                "texto": "Detecta movimientos dentro del habitáculo"
+            },
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            },
+            {
+                "imagen": "../img/iconos/cierres-vidrios.svg",
+                "texto": "Permite comandar cierres y vidrios<sup>(1)</sup>"
+            }
+        ],
+        "specs": [
+            "La alarma puede ser activada y desactivada a través del comando original del vehículo y/o el control remoto DPN72",
+            "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
+            "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del mismo), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje.",
+            "Encendido automático de luces bajas y de posición al encender el vehículo.",
+            "Sirena SI700: Más potente, de tamaño reducido.",
+            "1 control remoto de presencia DPN72.",
+            "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
+            "Control de sonido: Permite apagar/encender el equipo de sonido.",
+            "Salida Auxiliar para apertura de baúl: Permite la apertura del baúl desde el control remoto.",
+            "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
+            "4 Modos asalto programables.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(2)</sup>.",
+            "Bloqueo del motor<sup>(3)</sup>.",
+            "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
+        ],
+        "extras": [
+            "<sup>(1)</sup>Requiere adicionales no incluidos en con el producto – consulte compatibilidad de su vehículo.",
+            "<sup>(2)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales",
+            "<sup>(3)</sup>Requiere relay adicional no incluido con el producto"
+        ],
+        "price": "$19.278",
+        "manual": "../uploads/pdf/manual-kl-360.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-680229381-alarma-auto-pst-positron-keyless-360-control-original-_JM"
+    },
+    {
+        "pn": "12642001",
+        "name": "Cyber TX360 Bivolt",
+        "description": "Alarma para autos Cyber TX360 Bivolt - Alarma Bivolt (12V o 24V) para autos y camiones, con batería de respaldo",
+        "images": [
+            "../img/alarmas/tx360.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/bivolt.svg",
+                "texto": "12V o 24V"
+            },
+            {
+                "imagen": "../img/iconos/bateria-backup.svg",
+                "texto": "Batería de respaldo"
+            },
+            {
+                "imagen": "../img/iconos/volumetrica.svg",
+                "texto": "Detecta movimientos dentro del habitáculo"
+            },
+            {
+                "imagen": "../img/iconos/anticlonage.svg",
+                "texto": "Sistema anticlonaje"
+            }
+        ],
+        "specs": [
+            "Sistema Bivolt: Compatible con vehículos 12V y 24V",
+            "Batería de respaldo: Mantiene el sistema activo luego de desconectar la batería del vehículo",
+            "Protección volumétrica: Sensores volumétricos de tamaño pequeño y alta tecnología detectan los movimientos dentro del habitáculo.",
+            "Módulo de tamaño muy reducido, permitiendo su instalación en lugares de difícil acceso, brindando mayor seguridad y con nuevas protecciones en los circuitos de salida.",
+            "Controles remoto, con nueva tecnología de inyección plástica (mejor terminación y durabilidad del mismo), mejoras en el consumo de la batería (aumento de la vida útil de la misma en hasta 6 veces).",
+            "Controles remoto con tecnología Flex Code 3 anticlonaje.",
+            "Encendido automático de luces bajas y de posición al encender el vehículo.",
+            "Sirena SI700: Más potente, de tamaño reducido.",
+            "1 control simple PXN74",
+            "1 control remoto de presencia DPN74.",
+            "Auto lock: Traba y destraba del cierre eléctrico a través del accionamiento del contacto.",
+            "Modo Asalto por presencia",
+            "Control de sonido: Permite apagar/encender el equipo de sonido.",
+            "Salida Auxiliar para apertura de baúl: Permite la apertura del baúl desde el control remoto.",
+            "Reactivación automática: Reactiva de manera automática la alarma en caso que haya ocurrido una desactivación accidental.",
+            "4 Modos asalto programables.",
+            "Permite monitorear puertas, capot, baúl e ignición<sup>(1)</sup>.",
+            "Bloqueo del motor.",
+            "Tecnología PAN: compatibilidad con todos los productos de la línea: cierres alza cristales y módulos eléctricos."
+        ],
+        "extras": [
+            "<sup>(1)</sup>Requiere pulsadores (no incluidos con el producto). Depende de la configuración del vehículo y/o de pulsadores opcionales"
+        ],
+        "price": "$31.700",
+        "manual": "../uploads/pdf/manual-tx360.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-749566389-alarma-auto-pst-positron-tx360-autoalimentada-presencia-_JM"
     }
 ]
