@@ -118,5 +118,11 @@
         "email": "ventas@motion.ec",
         "telefono":"(+593 2) 457506 / (+593 3) 316831",
         "bandera":"flag-for-ecuador.svg"
+    },
+    {
+        "nombre": "Tecnion",
+        "email": "info@tecnionltda.com",
+        "telefono":"(+591 -3) 3537750 / (+591) 69051040",
+        "bandera":"flag-for-bolivia.svg"
     }
 ]
