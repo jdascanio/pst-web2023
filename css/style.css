@@ -6,7 +6,10 @@
     text-decoration: none;
     vertical-align: middle;
 }
-
+i span{
+    font-size: 10px;
+    margin-left: 4px;
+}
 a {
     color: #fafafa;
 }
@@ -23,6 +26,11 @@ main {
 img {
     pointer-events: none;
 }
+
+#icono-auto, #icono-moto, #icono-casa, #icono-audio, #icono-acc, #icono-rep{
+    cursor: pointer;
+}
+
 .banner-comparativa{
     box-sizing: border-box;
     display: flex;
