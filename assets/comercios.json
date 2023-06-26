@@ -15,7 +15,7 @@
         "audio": "no",
         "home": "no",
         "rev": "si",
-        "prov":"CABA"
+        "prov": "CABA"
     },
     {
         "id": "00002",
@@ -33,7 +33,7 @@
         "audio": "si",
         "home": "no",
         "rev": "no",
-        "prov":"CABA"
+        "prov": "CABA"
     },
     {
         "id": "00003",
@@ -51,7 +51,7 @@
         "audio": "no",
         "home": "no",
         "rev": "si",
-        "prov":"Córdoba"
+        "prov": "Córdoba"
     },
     {
         "id": "00004",
@@ -69,7 +69,7 @@
         "audio": "si",
         "home": "no",
         "rev": "si",
-        "prov":"Buenos Aires"
+        "prov": "Buenos Aires"
     },
     {
         "id": "00005",
@@ -87,7 +87,7 @@
         "audio": "no",
         "home": "no",
         "rev": "si",
-        "prov":"CABA"
+        "prov": "CABA"
     },
     {
         "id": "00006",
@@ -105,6 +105,149 @@
         "audio": "si",
         "home": "no",
         "rev": "no",
-        "prov":"CABA"
+        "prov": "CABA"
+    },
+    {
+        "id": "00007",
+        "nombre": "SOLO AUTOCAR",
+        "direccion": "Av Monseñor R. Bufano 2783, San Justo<br>Buenos Aires",
+        "tel": "(011) 4441-0942",
+        "cel": "(011) 15-3567-0993",
+        "obs": "Toda la línea de productos, menos home.",
+        "email": "mariafernandaponce@hotmail.com",
+        "lat": "-34.682629",
+        "lon": "-58.571205",
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "si",
+        "home": "no",
+        "rev": "si",
+        "prov": "Buenos Aires"
+    },
+    {
+        "id": "00008",
+        "nombre": "CLAXON",
+        "direccion": "Moliere 2903, Villa Devoto<br>Capital Federal",
+        "tel": "(011) 4567-0333",
+        "cel": "(011) 15-3567-0993",
+        "obs": "Toda la línea de productos, menos home.",
+        "email": "claxonautoradio@yahoo.com.ar",
+        "lat": "-34.615409",
+        "lon": "-58.527689",
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "no",
+        "home": "no",
+        "rev": "si",
+        "prov": "CABA"
+    },
+    {
+        "id": "00009",
+        "nombre": "AUTO FILMS",
+        "direccion": "Av Bartolomé Mitre 148, Villa Martelli<br> Buenos Aires",
+        "tel": "(011) 4730-0636",
+        "cel": "(229)15-47462",
+        "obs": "Audio y sensor de estacionamiento no",
+        "email": "giannicuf@gmail.com",
+        "lat": -34.54787,
+        "lon": -58.500223,
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "no",
+        "home": "no",
+        "rev": "no",
+        "prov": "Buenos Aires"
+    },
+    {
+        "id": "00010",
+        "nombre": "REPETTO CRISTALES",
+        "direccion": "Av Pres. Teniente General Juan Domingo Perón 3555, Victoria<br> Buenos Aires",
+        "tel": "(011) 4744-2698",
+        "cel": "",
+        "obs": "Toda la línea de productos, menos moto,home y audio",
+        "email": "repettocristales@hotmailcom.ar",
+        "lat": -34.455651,
+        "lon": -58.535929,
+        "autos": "si",
+        "motos": "no",
+        "acc": "si",
+        "audio": "no",
+        "home": "no",
+        "rev": "si",
+        "prov": "Buenos Aires"
+    },
+    {
+        "id": "00011",
+        "nombre": "GH ALARMAS",
+        "direccion": "ROCA 2156, NEUQUEN CAPITAL<br>Neuquen",
+        "tel": "(0299) 448-0097",
+        "cel": "(299) 15-532-8787",
+        "obs": "Toda la línea de productos.",
+        "email": "alarmas.gh@gmail.com",
+        "lat": -38.9517837,
+        "lon": -68.0894055,
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "si",
+        "home": "si",
+        "rev": "si",
+        "prov": "Neuquen"
+    },{
+        "id": "00012",
+        "nombre": "TECNOALARMA",
+        "direccion": "Brandsen 561, Bahía Blanca<br> Buenos Aires",
+        "tel": "(0291) 453-4581",
+        "cel": "(0291) 15-477-6765",
+        "obs": "Toda la línea de productos menos audio y home",
+        "email": "ferchu_shell@hotmail.com",
+        "lat": -38.711233,
+        "lon": -62.263641,
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "no",
+        "home": "no",
+        "rev": "si",
+        "prov": "Buenos Aires"
+    },
+    {
+        "id": "00013",
+        "nombre": "MELLY MEGA CARS",
+        "direccion": "Bv. Gesell 456, Villa Gesell<br> Buenos Aires",
+        "tel": "(02255) 453717",
+        "cel": "(2267) 15-404500",
+        "obs": "Toda la línea de productos, menos home",
+        "email": "mellymegacars@hotmail.com",
+        "lat": -37.256839,
+        "lon": -56.968231,
+        "autos": "si",
+        "motos": "si",
+        "acc": "si",
+        "audio": "si",
+        "home": "no",
+        "rev": "si",
+        "prov": "Buenos Aires"
+    },
+    {
+        "id": "00014",
+        "nombre": "HOLZER",
+        "direccion": "9 de Julio 427, Villa Mercedes<br> San Luis",
+        "tel": "02657) 429850",
+        "cel": "(02657) 15-642498",
+        "obs": "Toda la línea de productos menos moto y home",
+        "email": "estebanhierholzer@yahoo.com",
+        "lat": -33.674069,
+        "lon": -65.440063,
+        "autos": "si",
+        "motos": "no",
+        "acc": "si",
+        "audio": "si",
+        "home": "no",
+        "rev": "si",
+        "prov": "San Luis"
     }
 ]

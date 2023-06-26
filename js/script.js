@@ -23,7 +23,7 @@ alarmMenu.addEventListener('click', () => {
                                 <li class="prodMenuDetail"><a href="productos/alarma-px360.html"><img class="imgSmallMenu" src="../img/alarmas/PX360-Starter.webp" alt="alarma PX360" /></a><a href="../productos/alarma-px360.html">PX360 Starter</a></li>
                                 <li class="prodMenuDetail"><a href="productos/alarma-fx360.html"><img class="imgSmallMenu" src="../img/alarmas/fx360dpn.webp" alt="alarma FX360" /></a><a href="../productos/alarma-fx360.html">FX360 DPN</a></li>
                                 <li class="prodMenuDetail"><a href="productos/alarma-keyless360-volumetrica.html"><img class="imgSmallMenu" src="../img/alarmas/kl360us.webp" alt="alarma keyless 360" /></a><a href="../productos/alarma-keyless360-volumetrica.html">Keyless 360 US</a></li>
-                                <li class="masMenuDetail"><a href="../alarmas.html"><i class="fa-solid fa-circle-plus"></i></a><p>Ver Mas</p></li>
+                                <li class="masMenuDetail"><a href="../alarmas.html"><i class="fa-solid fa-circle-plus"></i></a><p>Ver Todas</p></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
@@ -31,6 +31,7 @@ alarmMenu.addEventListener('click', () => {
                                 <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-px350.html"><img class="imgSmallMenu" src="../img/alarmas/dbpx350g8.webp" alt="alarma PX350" /></a><a href="../productos/alarma-moto-duoblock-px350.html">Duoblock PX350</a></li>
                                 <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-fx350.html"><img class="imgSmallMenu" src="../img/alarmas/dbfx350g8.webp" alt="alarma FX350" /></a><a href="../productos/alarma-moto-duoblock-fx350.html">Duoblock FX350</a></li>
                                 <li class="prodMenuDetail"><a href="productos/alarma-moto-duoblock-pro350.html"><img class="imgSmallMenu" src="../img/alarmas/dbpro350g8.webp" alt="alarma PRO350" /></a><a href="../productos/alarma-moto-duoblock-pro350.html">Duoblock PX350</a></li>
+                                <li class="masMenuDetail"><a href="../alarmas-moto.html"><i class="fa-solid fa-circle-plus"></i></a><p>Ver Todas</p></li>
                             </ul>
                         </div>`
 

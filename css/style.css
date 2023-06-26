@@ -57,6 +57,9 @@ img {
     align-items: center;
     justify-content: center;
 }
+/* .even{
+    justify-content: space-evenly;
+} */
 .reverse{
     flex-direction: row-reverse;
 }
@@ -71,15 +74,31 @@ img {
     display: flex;
     justify-content: space-between;
 }
+.middle{
+    justify-content: center;
+}
+.product-list-buttons a{
+    width: 48%;
+}
+.in-dash{
+    height: 600px !important;
+}
+.one-din{
+    height: 300px !important;
+}
 .productListImage{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 45vw;
 }
+
 .productListImage img{
  height: 450px;
  width: auto;
+}
+.media img{
+    height: 350px;
 }
 
 .productListText{height: 450px;
@@ -96,6 +115,12 @@ img {
     color: #C42D32;
     border-bottom: 2px solid #FCB800;
 }
+.audio-text h2{
+    color: #0CB6D1;
+}
+/* .audio-img{
+    filter: invert(73%) sepia(67%) saturate(4885%) hue-rotate(148deg) brightness(96%) contrast(91%)
+} */
 .brown h2{
     color: #763B3D !important;
 }
@@ -109,7 +134,7 @@ img {
 }
 
 .green {
-    color: green
+    color: green;
 }
 
 .turquoise {
@@ -420,6 +445,10 @@ button {
     flex-direction: column;
     align-items: center;
 }
+.mapa{
+    padding: 25px 0;
+    background-color: #F1F1F1;
+}
 
 .masMenuDetail {
     height: 150px;
@@ -690,6 +719,106 @@ table.table-feature{
     flex-direction: column;
 
 }
+.container-main-contacto{
+    box-sizing: border-box;
+    padding: 0px 15px 30px 15px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #F1F1F1;
+}
+.container-main-contacto h2{
+    color: #111111;
+    text-transform: uppercase;
+}
+.container-main-contacto p{
+    font-size: 14px;
+}
+.container-form-contacto{
+    width: 70%;
+}
+
+.container-form-contacto input, .container-form-contacto textarea {
+    border: 1px #005E9A solid;
+}
+.formulario-contacto{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.container-inputs-contacto{
+
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+.cont-inputs-one{
+    box-sizing: border-box;
+    padding: 10px;    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.cont-inputs-one input{
+    width: 27%;
+}
+.cont-inputs-two{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    
+} 
+.cont-inputs-two textarea{
+    box-sizing: border-box;
+    height: 200px;
+    padding: 10px;
+    /* margin:0 -2px ; */
+    width: 100%;
+    resize: none
+}
+
+.cont-boton-contacto{
+    box-sizing: border-box;
+    padding-left: 15px;
+}
+
+.lista-contacto{
+    list-style: none;
+}
+.contact-icon{
+    font-size: 15px !important;
+    margin-right: 15px;
+    color: #005E9A;
+}
+
+.contact-icon-social{
+    font-size: 26px !important;
+    margin-right: 15px;
+    /* color: #111111 */
+}
+.link-social-contact{ 
+    color: #005E9A !important;
+    transition: 200ms ease-in-out;
+}
+.link-social-contact:hover{
+    color: orange !important;
+}
+.lista-contacto li{
+    margin: 15px 0px;
+    display: flex;
+}
+.lista-contacto p{
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+.lista-contacto a{
+    color: blue
+}
 
 .formOne {
     display: flex;
@@ -826,14 +955,30 @@ textarea {
 .products-grey{
     font-size: 12px !important;
     height: 40px !important;
-    width: 48%;
+    width: 100%;
     color: #111111;
     font-weight: 400;
+}
+.productButton.red-fade a, .productButton.blue-fade a, .productButton.brown-fade a{
+    color: #111111;
+}
+.productButton.red-fade:hover a, .productButton.blue-fade:hover a, .productButton.brown-fade:hover a {
+    color: #fafafa;
 }
 .productButton.red-fade:hover{
     color: #fafafa;
     background: transparent linear-gradient(180deg,#f6444a 0%, #920004 100%);
 }
+.productButton.blue-fade:hover{
+    color: #fafafa;
+    background: transparent linear-gradient(180deg,#00B3C0 0%, #002F4D 100%);
+}
+
+.productButton.brown-fade:hover{
+    color: #fafafa;
+    background: transparent linear-gradient(180deg,rgba(118,59,61,1) 0%, rgba(97,22,25,1) 100%);
+}
+
 .productButton.green-fade{
     color: #fafafa;
     background: transparent linear-gradient(0deg, #0A8F1B 0%, #00C31A 100%)
@@ -867,7 +1012,17 @@ textarea {
     flex-direction: column;
     align-items: center;
 }
-.alarmSection h3, .alarmTitle h3{
+.audio-section{
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url('../img/bf-central-multimedia.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.alarmSection h3, .alarmTitle h3, .audio-section h3{
     margin-top: 50px;
     font-size: 25px;
     color: #707070;
@@ -886,6 +1041,12 @@ textarea {
     text-transform: uppercase;
     font-style: italic;
     margin-bottom: 50px;
+}
+.audio-section h1{
+    font-size: 70px;
+    color: #0CB6D1;
+    font-weight: 800;
+    font-style: italic;
 }
 .alarmTitle{
     display: flex;
@@ -920,7 +1081,39 @@ textarea {
     font-style: italic;
     border-bottom: 0px solid gray !important;
 }
-
+.search-holder{
+    width: 84vw;    
+    background-color: transparent !important;
+}
+.search-shop{
+    display: flex;
+    justify-content: end;
+    text-align: end;
+}
+.search-shop i{
+    box-sizing: border-box;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-top: 1px solid #d3d3d3;
+    border-bottom: 1px solid #d3d3d3;
+    border-left: 1px solid #d3d3d3;
+    border-radius: 5px 0px 0px 5px;
+    background-color: rgb(221, 221, 221);
+    justify-content: center;
+    align-items: center;    
+}
+.select-province{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border:1px solid #d3d3d3;
+    border-radius: 0px 5px 5px 0px;
+}
+.select-province:focus{
+    border: none;
+    outline: 1px solid blue;
+}
 .comAsist p {
     font-size: 12px;
     font-weight: 400;
@@ -1147,9 +1340,20 @@ sup{
     justify-content: center;
     color: #fafafa;
 }
+.img-contacto {
+    box-sizing: border-box;
+    width: 100%;
+    height: calc(70vh - 170px);
+    background-image: url('../img/banner_contacto.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fafafa;
+}
 
 .img-distributor h2,
-.img-comercio h2 {
+.img-comercio h2, .img-contacto h2 {
     font-size: 40px;
     font-style: italic;
     text-transform: uppercase;
@@ -1157,13 +1361,23 @@ sup{
 }
 
 .img-distributor h3,
-.img-comercio h3 {
+.img-comercio h3, .img-contacto h3 {
     font-weight: 400;
     font-size: 24px;
     margin-left: 16%;
 }
+.img-contacto h3{
+    color: #fafafa;
+}
+
+.light-blue-boton{
+    cursor: pointer;
+    width: 180px;
+    height: 40px;
+}
 
 .light-blue-btn {
+    border: none;
     cursor: pointer;
     display: flex;
     justify-content: center;

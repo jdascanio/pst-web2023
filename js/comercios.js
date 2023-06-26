@@ -6,7 +6,6 @@ fetch('../assets/comercios.json')
     .then((res) => res.json())
     .then((comercios) => {
         const data = comercios.sort((a,b) => a.prov.localeCompare(b.prov))
-        console.log(data)
         let anchor = valorY()
         let tabla = constTabla()
         let mainTable = document.getElementById('listContainer');
@@ -20,6 +19,7 @@ fetch('../assets/comercios.json')
             const iconAcc = document.getElementById('icono-acc')
             const iconRep = document.getElementById('icono-rep')
             const seccion = document.getElementById('tbody')
+            const provincia = document.getElementById('selector')
             for (let n of data) {
                 let elemento = document.createElement('tr')
                 elemento.innerHTML = `
@@ -50,7 +50,7 @@ fetch('../assets/comercios.json')
                     iconoRev(n.id)
                 }
             }
-            filtroIconos(data, seccion, iconCar, iconAudio, iconMoto, iconCasa, iconAcc, iconRep)
+            filtroIconos(data, seccion, iconCar, iconAudio, iconMoto, iconCasa, iconAcc, iconRep, provincia)
 
 
         } else {
@@ -204,8 +204,39 @@ function constTabla() {
                         </thead>                         
                         </table>
                         <thead>                         
-                        <tr id="comTitle">
-                            <th colspan="2" class="comAsist"><h2>COMERCIOS INSTALADORES</h2></th>                            
+                        <tr class="shops" id="comTitle">
+                            <th colspan="2" class="comAsist"><h2>COMERCIOS INSTALADORES</h2></th>
+                            <th colspan="4" class="search-holder">
+                                <div class="search-shop">
+                                    <i class="fa-solid fa-magnifying-glass"></i>
+                                    <select id="selector"class="select-province">
+                                        <option value="Buenos Aires">Buenos Aires</option>
+                                        <option value="CABA">CABA</option>
+                                        <option value="Catamarca">Catamarca</option>
+                                        <option value="Chaco">Chaco</option>
+                                        <option value="Chubut">Chubut</option>
+                                        <option value="Córdoba">Córdoba</option>
+                                        <option value="Corrientes">Corrientes</option>
+                                        <option value="Entre Rios">Entre Rios</option>
+                                        <option value="Formosa">Formosa</option>
+                                        <option value="Jujuy">Jujuy</option>
+                                        <option value="La Pampa">La Pampa</option>
+                                        <option value="La Rioja">La Rioja</option>
+                                        <option value="Mendoza">Mendoza</option>
+                                        <option value="Misiones">Misiones</option>
+                                        <option value="Neuquén">Neuquén</option>
+                                        <option value="Rio Negro">Rio Negro</option>
+                                        <option value="Salta">Salta</option>
+                                        <option value="San Juan">San Juan</option>
+                                        <option value="San Luis">San Luis</option>
+                                        <option value="Santa Cruz">Santa Cruz</option>
+                                        <option value="Santa Fe">Santa Fe</option>
+                                        <option value="S. del Estero.">S. del Estero.</option>
+                                        <option value="T. del Fuego.">T. del Fuego.</option>
+                                        <option value="Tucuman">Tucuman</option>
+                                    </select>
+                                </div>
+                            </th>                            
                         </tr>
                         <tr>
                             <th>Nombre</th>
@@ -222,7 +253,7 @@ function constTabla() {
 }
 
 
-function filtroIconos(data, seccion, iconCar, iconAudio, iconMoto, iconCasa, iconAcc, iconRep) {
+function filtroIconos(data, seccion, iconCar, iconAudio, iconMoto, iconCasa, iconAcc, iconRep, provincia) {
     iconCar.addEventListener('click', () => {
         const newTable = data.filter((comercios) => comercios.autos == 'si')
         seccion.innerHTML = ""
@@ -433,6 +464,43 @@ function filtroIconos(data, seccion, iconCar, iconAudio, iconMoto, iconCasa, ico
             }
         }
     })
+    provincia.addEventListener('change', () => {
+        let valProvincia = provincia.value
+        const newTable = data.filter((comercios) => comercios.prov == valProvincia)
+        seccion.innerHTML = ""
+
+        for (let n of newTable) {
+            let elemento = document.createElement('tr')
+            elemento.innerHTML = `
+            <td>${n.nombre}<br><span class="iconCont" id="iconCont${n.id}"></span></td>
+        <td>${n.direccion} <a target="_blank" href="http://www.google.com/maps/search/?api=1&query=${n.lat},${n.lon}" rel="noopener noreferrer"><i class="fa fa-map-marker" aria-hidden="true"></i></a></td>
+        <td>${n.tel}</td>
+        <td><a href="mailto:${n.email}">${n.email}</a></td>
+        <td>${n.obs}</td>
+        <td>${n.prov}</td>
+            `
+            seccion.append(elemento)
+            if (n.autos == "si") {
+                iconoAuto(n.id)
+            }
+            if (n.motos == "si") {
+                iconoMoto(n.id)
+            }
+            if (n.acc == "si") {
+                iconoAcc(n.id)
+            }
+            if (n.home == "si") {
+                iconoHome(n.id)
+            }
+            if (n.audio == "si") {
+                iconoAudio(n.id)
+            }
+            if (n.rev == "si") {
+                iconoRev(n.id)
+            }
+        }
+    })
+
 }
 
 // function filtroIconos2 (data,seccion,iconAudio){
