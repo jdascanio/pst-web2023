@@ -89,7 +89,7 @@ audioMenu.addEventListener('click', () => {
                                 <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9010.html"><img class="imgSmallMenu" src="../img/audio/sp9010.webp" alt="SP9010" /></a><a href="../productos/estereo-para-auto-sp9010.html">SP9010</a></li>
                                 <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp9090.html"><img class="imgSmallMenu" src="../img/audio/sp9090.webp" alt="SP9090" /></a><a href="../productos/estereo-para-auto-sp9090.html">SP9090</a></li>
                                 <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp8340.html"><img class="imgSmallMenu" src="../img/audio/sp8340.webp" alt="SP8340" /></a><a href="../productos/estereo-para-auto-sp8340.html">SP8340</a></li>
-                                <li class="masMenuDetail"><i class="fa-solid fa-circle-plus"></i><p>Ver Mas</p></li>
+                                <li class="masMenuDetail"><a href="../audio.html"><i class="fa-solid fa-circle-plus"></i></a><p>Ver todos</p></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
@@ -111,6 +111,7 @@ audioMenu.addEventListener('click', () => {
                             <li class="prodMenuDetail"><a href="productos/parlante-5-pulgadas-atp5030.html"><img class="imgSmallMenu" src="../img/audio/5-pulgadas-atp5030.webp" alt="parlante 5 pulgadas" /></a><a href="../productos/parlante-5-pulgadas-atp5030.html">Parlante 5 pulgadas</a></li>
                             <li class="prodMenuDetail"><a href="productos/parlante-6-pulgadas-atp6030.html"><img class="imgSmallMenu" src="../img/audio/6-pulgadas-atp6030.webp" alt="parlante 6 pulgadas" /></a><a href="../productos/parlante-6-pulgadas-atp6030.html">Parlante 6 pulgadas</a></li>
                             <li class="prodMenuDetail"><a href="productos/parlante-6x9-pulgadas-acp6940.html"><img class="imgSmallMenu extra" src="../img/audio/6x9-pulgadas-acp6940.webp" alt="Parlante 6x9 pulgadas" /></a><a href="productos/parlante-6x9-pulgadas-acp6940.html">Parlante 6x9 pulgadas</a></li>
+                            <li class="masMenuDetail"><a href="../parlantes.html"><i class="fa-solid fa-circle-plus"></i></a><p>Ver Mas</p></li>
                             </ul>
                         </div>`
 

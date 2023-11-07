@@ -22,12 +22,14 @@ fetch('../assets/productos.json')
         name.innerText = `${product.name}`
         description.innerText = `${product.description}`
 
-        let linkOnline = document.createElement('a')
-        linkOnline.href = `${product.linkOnline}`
-        linkOnline.rel = 'noopener noreferrer'
-        linkOnline.target = '_blank'
-        linkOnline.innerText = 'Comprar Online'
-        online.append(linkOnline)
+        if (online){
+            let linkOnline = document.createElement('a')
+            linkOnline.href = `${product.linkOnline}`
+            linkOnline.rel = 'noopener noreferrer'
+            linkOnline.target = '_blank'
+            linkOnline.innerText = 'Comprar Online'
+            online.append(linkOnline)
+        }
 
         let linkManual = document.createElement('a')
         linkManual.href = `${product.manual}`

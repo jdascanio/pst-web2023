@@ -509,8 +509,472 @@
         ],
         "price": "$18.533",
         "manual": "../uploads/pdf/manual-duoblock-fx-px.pdf",
-        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-792102183-alarma-para-moto-positron-pro-350-presencia-_JM"
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-792102183-alarma-para-moto-positron-pro-350-presencia-_JM"   
     
-    
+    },
+    {
+        "pn": "13180000",
+        "name": "SP9090",
+        "description": "Central multimedia con pantalla de 9 pulgadas",
+        "images": [
+            "../img/audio/sp9090.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/Mirror-Connect.svg",
+                "texto": "Espejamiento sin cables (wifi)"
+            },
+            {
+                "imagen": "../img/iconos/Android.svg",
+                "texto": "Sistema operativo Android 10"
+            },
+            {
+                "imagen": "../img/iconos/Touchscreen.svg",
+                "texto": "Pantalla táctil 9''"
+            },
+            {
+                "imagen": "../img/iconos/Entrada-USB.svg",
+                "texto": "2 entradas USB traseras"
+            },
+            {
+                "imagen": "../img/iconos/Processador-Quad-Core.svg",
+                "texto": "Processador Quad-Core"
+            }
+        ],
+        "specs": [            
+            "Doble DIN con pantalla táctil full color LCD de 9'' pulgadas con alta resolución de 1024x600 pixeles.",
+            "Conexión Bluetooth: Manos Libres y audio streaming (permite la reproducción de la música almacenada en dispositivos móviles sin la necesidad de cables)",
+            "Sintonizador de TV Digital ISDB-TB (One Seg)",
+            "Conexión Wi-Fi",
+            "Conexión USB trasera x 2 (Hasta 128GB)",
+            "Entrada para cámara de retroceso - cámara incluída",
+            "Entrada para cámara frontal - RCA (no incluída)",
+            "Conexión SWC: Permite comandar el equipo por medio del control remoto integrado al volante de su vehículo – consulte compatibilidad",
+            "Reproducción de archivos MP3, WMA, MPEG-2, AVI (XVid) y JPG",
+            "Entrada Auxiliar trasera RCA (Audio y Vídeo)",
+            "Salidas preamplificadas (subwoofer y RCA)",
+            "2 salidas vídeo - monitor externo RCA (no incluído)",
+            "Sintonizador de AM/FM", 
+            "Memoria para grabar hasta 18 FM y 12 FM",
+            "Módulo GPS integrado: Permite bajar aplicativos de navegación",
+            "Micrófono interno - opcional externo (accesorio no incluido)",
+            "Control de ganancia y corte de frecuencia para Subwoofer",
+            "Potencia de salida: 4x25 RMS (4 OHMS - 10% THD)",
+            "12 meses de garantía"
+        ],
+        "extras": [
+            "Alimentación: 12V (batería del vehículo)",
+            "Potencia de salida: 4X25 Watts RMS (4 ohm, 10% THD; 14,4 V)",
+            "Bluetooth 2.1 + EDR, Clase II - Frecuencia: 2,402 GHz a 2,480 GHz",
+            "Tipo de conector: Estándar ISO"
+        ],
+        "manual": "../uploads/pdf/sp9090p.pdf"
+    },
+    {
+        "pn": "13076000",
+        "name": "SP9010",
+        "description": "Central Multimedia SP9010AC Apple CarPlay y Android Auto Bluetooth + USB",
+        "images": [
+            "../img/audio/sp9010.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/apple-android.svg",
+                "texto": "Conectividad Apple Car Play y Android Auto"
+            },
+            {
+                "imagen": "../img/iconos/Bluetooth.svg",
+                "texto": "Conexión Bluetooth - Manos libres y Audio streaming"
+            },
+            {
+                "imagen": "../img/iconos/comando-volante.svg",
+                "texto": "Comando de volante - SWC"
+            },
+            {
+                "imagen": "../img/iconos/microfono-externo.svg",
+                "texto": "Micrófono externo incluido"
+            }
+        ],
+        "specs": [            
+            "Conectividad Apple CarPlay y Android Auto",
+            "Doble DIN con pantalla táctil full color LCD de 7'' pulgadas con alta resolución de 1024x600 pixeles",
+            "Conexión Bluetooth: Manos Libres y audio streaming (permite la reproducción de la música almacenada en dispositivos móviles sin la necesidad de cables)",
+            "Conexión USB trasera (Hasta 32GB)",
+            "Entrada para cámara de retroceso",
+            "Conexión SWC: Permite comandar el equipo por medio del control remoto integrado al volante de su vehículo – consulte compatibilidad",
+            "Reproducción de archivos MP3, WMA, MPEG-2, AVI (XVid) y JPG",
+            "Salidas preamplificadas (subwoofer y RCA)",
+            "1 Salida vídeo - monitor externo RCA (no incluído)",
+            "Sintonizador de AM/FM",
+            "Memoria para grabar hasta 18 FM y 12 FM",
+            "Micrófono externo (accesorio incluido)",
+            "Control de ganancia y corte de frecuencia para Subwoofer",
+            "Potencia de salida: 4x26 RMS (4 OHMS - 10% THD)",
+            "12 meses de garantía"
+        ],
+        "extras": [
+            "Alimentación: 12V (batería del vehículo)",
+            "Potencia de salida: 4X25 Watts RMS (4 ohm, 10% THD; 14,4 V)",
+            "Bluetooth 4.2",
+            "Tipo de conector: Estándar ISO"
+        ],
+        "manual": "../uploads/pdf/sp9010ac.pdf"
+    },
+    {
+        "pn": "13074000",
+        "name": "SP8340TH",
+        "description": "Central Multimedia SP8340TH Mirror Connect Bluetooth USB SD Aux",
+        "images": [
+            "../img/audio/sp8340.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/App-Positron.svg",
+                "texto": "App Pósitron"
+            },
+            {
+                "imagen": "../img/iconos/Bluetooth.svg",
+                "texto": "Conexión Bluetooth - Manos libres y Audio streaming"
+            },
+            {
+                "imagen": "../img/iconos/Mirror-Connect.svg",
+                "texto": "Espejamiento con smartphone Android e iOS vía cable usb<sup>1</sup>"
+            },
+            {
+                "imagen": "../img/iconos/camera-de-Re.svg",
+                "texto": "Entrada para cámara de retroceso"
+            }
+        ],
+        "specs": [            
+            "Conexión Bluetooth: Manos libres (permite realizar y atender llamados telefónicos<sup>2</sup>) y audio streaming (permite la reproducción de música y audio del dispositivo vinculado sin la necesidad de cables)",
+            "Función Mirror Connect: Permite visualizar y comandar las aplicaciones del celular vinculado desde la pantalla del equipo<sup>1</sup>",
+            "Pantalla LCD de 7 pulgadas táctil color",
+            "Resolución – 1024x600",
+            "Entrada para cámara de retroceso",
+            "Conexión SWC: Permite comandar el equipo a través del comando al volante del vehículo<sup>3</sup>",
+            "Conexión USB frontal (Hasta 128GB)",
+            "Ranura frontal para tarjeta Micro SD (hasta 128 GB)",
+            "Reproducción de archivos MP3, WMA, MPEG-4 (XVid), AVI (XVid) y JPG",
+            "Entrada Auxiliar frontal P2 (Audio)",
+            "Función Auto Memo: Grabado automático de memorias de las estaciones de radio con mayor potencia de señal",
+            "Salidas preamplificadas (subwoofer y salida estereo RCA (Izq./Der. trasera))",
+            "Salida para monitor externo",
+            "Sintonizador de FM",
+            "Memoria para grabar hasta 18 FM",
+            "RDS: permite visualizar información de texto en el display del equipo sobre la radio sintonizada, como nombre de la estación y de la canción – función sujeta a la disponibilidad del servicio de la estación de radio",
+            "Full color: mayor nitidez en los colores",
+            "Iluminación de las teclas: Personalizable en 8 colores",
+            "Reproducción continua o aleatoria de las canciones",
+            "12 meses de garantía"
+        ],
+        "extras": [
+            "<sup>1</sup> Deberá tener conectado un celular con Android compatible. Compatible con versiones de Android 5 a 12.<br>Compatible hasta Iphone 8. Versiones posteriores no son compatibles",
+            "<sup>2</sup>Deberá contar con un celular compatible vinculado",
+            "<sup>3</sup>Consulte compatibilidad",
+            "Alimentación: 12V (batería del vehículo)",
+            "Potencia de salida: 4X25 Watts RMS (4 ohm, 10% THD; 14,4 V)",
+            "Banda de sintonía FM: 76.1 MHz a 107,9 MHz",
+            "Bluetooth 2.1 + EDR, Clase II - Frecuencia: 2,402 GHz a 2,480 GHz",
+            "Tipo de conector: Estándar ISO"
+        ],
+        "price": "$126.200",
+        "manual": "../uploads/pdf/sp8340th.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-1273977968-stereo-pantalla-sp8340-positron-bluetooth-usb-mirror-connect-_JM" 
+        
+    },
+    {
+        "pn": "13026000",
+        "name": "SP6330BT",
+        "description": "DVD Player vehicular SP6330BT Pósitron 7'' Mirror Connect Bluetooth USB SB Aux",
+        "images": [
+            "../img/audio/sp6330-b.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/Mirror-Connect.svg",
+                "texto": "Espejamiento con smartphone Android<sup>1</sup>"
+            },
+            {
+                "imagen": "../img/iconos/Bluetooth.svg",
+                "texto": "Conexión Bluetooth - Manos libres y Audio streaming"
+            },
+            {
+                "imagen": "../img/iconos/Entrada-USB.svg",
+                "texto": "Entrada USB delantera"
+            },
+            {
+                "imagen": "../img/iconos/camera-de-Re.svg",
+                "texto": "Entrada para cámara de retroceso"
+            }
+        ],
+        "specs": [            
+            "Conexión Bluetooth: Manos libres (permite realizar y atender llamados telefónicos<sup>2</sup>) y audio streaming (permite la reproducción de música y audio del dispositivo vinculado sin la necesidad de cables)",
+            "Función Mirror Connect: Permite visualizar y comandar las aplicaciones del celular vinculado desde la pantalla del equipo<sup>1</sup>",
+            "Pantalla LCD de 7 pulgadas táctil y retráctil color Resolución – 800x480",
+            "Ajuste de la inclinación de la pantalla",
+            "Reproduce CD, CD-R, CD-RW, DVD, DVD-R y DVD-RW",
+            "Entrada para cámara de retroceso",
+            "Conexión SWC: Permite comandar el equipo a través del comando al volante del vehículo<sup>3</sup>",
+            "Conexión USB frontal (Hasta 32GB)",
+            "Ranura frontal para tarjeta Micro SD (hasta 32 GB)",
+            "Reproducción de archivos MP3, WMA, MPEG-4 (XVid), AVI (XVid) y JPG",
+            "Entrada Auxiliar frontal P2 (Audio y Video)",
+            "Función Auto Memo: Grabado automático de memorias de las estaciones de radio con mayor potencia de señal",
+            "Salidas preamplificadas (RCA)",
+            "Salida para monitor externo",
+            "Sintonizador de AM/FM",
+            "Memoria para grabar hasta 18 FM y 12 AM",
+            "RDS: permite visualizar información de texto en el display del equipo sobre la radio sintonizada, como nombre de la estación y de la canción – función sujeta a la disponibilidad del servicio de la estación de radio",
+            "Función Loudness: Refuerzo de las frecuencias altas y bajas de las canciones (sonidos graves y agudos)",
+            "Función Bass: Ajuste de frecuencias bajas (torna al sonido más grave o menos grave)",
+            "Función Treble: Ajuste de frecuencias altas (torna al sonido más o menos agudo)",
+            "Sistema anti-impacto que garantiza la reproducción de los CDs y DVDs sin interrupciones",
+            "Full color: mayor nitidez en los colores",
+            "Iluminación de las teclas: Azul",
+            "Control remoto",
+            "Reproducción continua o aleatoria de las canciones",
+            "Dos años de garantía"
+        ],
+        "extras": [
+            "<sup>1</sup> Deberá tener conectado un celular con Android compatible. Compatible con versiones de Android hasta 10.0.0. Versiones posteriores no son compatibles",
+            "<sup>2</sup>Deberá contar con un celular compatible vinculado",
+            "<sup>3</sup>Consulte compatibilidad",
+            "Alimentación: 12V (batería del vehículo)",
+            "Potencia de salida: 4X20 Watts RMS (4 ohm, 10% THD; 14,4 V)",
+            "Banda de sintonía FM: 76.1 MHz a 107,9 MHz",
+            "Banda de sintonía AM: 530 kHz a 1710 kHz",
+            "Bluetooth 2.1 + EDR, Clase II - Frecuencia: 2,402 GHz a 2,480 GHz",
+            "Tipo de conector: Estándar ISO"
+        ],
+        "price": "$212.777",
+        "manual": "../uploads/pdf/sp6330-sp6730.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-762253350-stereo-positron-auto-pst-sp6330-bluetooth-usb-dvd-pantalla-_JM"
+    },
+    {
+        "pn": "13034000",
+        "name": "SP2240BT",
+        "description": "MP3 Player SP2240 Pósitron USB BT AM/FM",
+        "images": [
+            "../img/audio/sp2240.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/Bluetooth.svg",
+                "texto": "Conexión Bluetooth - Manos libres y Audio streaming"
+            },            
+            {
+                "imagen": "../img/iconos/Entrada-USB.svg",
+                "texto": "Entrada USB delantera"
+            },
+            {
+                "imagen": "../img/iconos/AM-FM.svg",
+                "texto": "Sintonizador AM y FM"
+            }
+        ],
+        "specs": [            
+            "Conexión Bluetooth: Manos libres (permite realizar y atender llamados telefónicos1) y audio streaming (permite la reproducción de música y audio del dispositivo vinculado sin la necesidad de cables)<sup>1</sup>",
+            "Conexión USB frontal (Hasta 32GB)",
+            "Reproducción de archivos MP3/WMA",
+            "Función Auto Memo: Grabado automático de memorias de las estaciones de radio con mayor potencia de señal",
+            "Sintonizador de AM/FM",
+            "Memoria para grabar - 18 FM y 12 AM",
+            "Función Loudness: Refuerzo de las frecuencias altas y bajas de las canciones (sonidos",
+            "Función Bass: Ajuste de frecuencias bajas (torna al sonido más grave o menos grave)",
+            "Función Treble: Ajuste de frecuencias altas (torna al sonido más o menos agudo)",
+            "Iluminación de las teclas: Azul",
+            "Reproducción continua o aleatoria de las canciones",
+            "Dos años de garantía"
+        ],
+        "extras": [
+            "<sup>1</sup>Deberá contar con un celular compatible vinculado",
+            "Alimentación: 12V (batería del vehículo)",
+            "Potencia de salida: 4X7 Watts RMS (4 ohm, 10% THD; 14,4 V)",
+            "Banda de sintonía FM: 76.1 MHz a 107,9 MHz",
+            "Banda de sintonía AM: 530 kHz a 1710 kHz",
+            "Bluetooth 2.1 + EDR, Clase II - Frecuencia: 2,402 GHz a 2,480 GHz",
+            "Amplificador de Audio Clase D",
+            "Tipo de conector: Estándar ISO"
+        ],
+        "price": "$51.705",
+        "manual": "../uploads/pdf/sp2230bt-sp2240bt.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-766740434-stereo-bluetooth-positron-sp2240-usb-am-fm-mp3-_JM"
+    },
+    {
+        "pn": "13139000",
+        "name": "SP2250BT",
+        "description": "MP3 Player SP2250 Pósitron USB BT FM",
+        "images": [
+            "../img/audio/sp2250.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/Bluetooth.svg",
+                "texto": "Conexión Bluetooth - Manos libres y Audio streaming"
+            },            
+            {
+                "imagen": "../img/iconos/Entrada-USB.svg",
+                "texto": "Entrada USB delantera"
+            },
+            {
+                "imagen": "../img/iconos/AM-FM.svg",
+                "texto": "Sintonizador FM"
+            }
+        ],
+        "specs": [            
+            "Conexión Bluetooth: Manos libres (permite realizar y atender llamados telefónicos1) y audio streaming (permite la reproducción de música y audio del dispositivo vinculado sin la necesidad de cables)<sup>1</sup>",
+            "Conexión USB frontal (Hasta 128GB)",
+            "Puerto de carga USB frontal 1,5A",
+            "Entrada MicroSD Frontal (hasta 128GB)",
+            "Reproducción de archivos MP3/WMA",
+            "Función Auto Memo: Grabado automático de memorias de las estaciones de radio con mayor potencia de señal",
+            "Sintonizador de FM",
+            "Memoria para grabar - 18 FM",
+            "Función Loudness: Refuerzo de las frecuencias altas y bajas de las canciones (sonidos",
+            "Función Bass: Ajuste de frecuencias bajas (torna al sonido más grave o menos grave)",
+            "Función Treble: Ajuste de frecuencias altas (torna al sonido más o menos agudo)",
+            "Iluminación de las teclas: Azul",
+            "Reproducción continua o aleatoria de las canciones",
+            "12 meses de garantía"
+        ],
+        "extras": [
+            "<sup>1</sup>Deberá contar con un celular compatible vinculado",
+            "Alimentación: 12V (batería del vehículo)",
+            "Potencia de salida: 4X6 Watts RMS (4 ohm, 10% THD; 14,4 V)",
+            "Banda de sintonía FM: 76.1 MHz a 107,9 MHz",
+            "Bluetooth 5.0",
+            "Tipo de conector: Estándar ISO"
+        ],
+        "price": "$36.000",
+        "manual": "../uploads/pdf/sp2250bt.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-1369289525-stereo-bluetooth-positron-sp2250bt-usb-fm-mp3-_JM"
+    },
+    {
+        "pn": "13136000",
+        "name": "ACP6940",
+        "description": "Parlante vehicular cuatriaxial 6x9 pulgadas",
+        "images": [
+            "../img/audio/acp6940-parlante-b.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/potencia.svg",
+                "texto": "60W RMS max"
+            },            
+            {
+                "imagen": "../img/iconos/tweeter.svg",
+                "texto": "tweeter de 3 vías"
+            }
+        ],
+        "specs": [            
+            "Parlante 6x9 pulgadas cuatriaxial",
+            "Tweeter de 3 vías",
+            "Potencia máxima 60W RMS",
+            "Impedancia de 4 ohm",
+            "Incluye Rejas",
+            "Medidas: 6x9 estandar / altura 92 mm"
+
+        ],
+        "extras": [
+        ],
+        "price": "$22.186",
+        "manual": "../uploads/pdf/manual_acp6940.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-935961886-positron-parlantes-cuatriaxiales-6x9-pulgadas-_JM"
+    },
+    {
+        "pn": "13135000",
+        "name": "ATP6030",
+        "description": "Parlante vehicular triaxial 6 pulgadas",
+        "images": [
+            "../img/audio/atp6030-parlante.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/potencia.svg",
+                "texto": "50W RMS max"
+            },            
+            {
+                "imagen": "../img/iconos/tweeter.svg",
+                "texto": "tweeter de 2 vías"
+            }
+        ],
+        "specs": [            
+            "Parlante 6 pulgadas triaxial",
+            "Tweeter de 2 vías",
+            "Potencia máxima 50W RMS",
+            "Impedancia de 4 ohm",
+            "Incluye Rejas",
+            "Medidas: Diagonal tornillos 15,5 cm / altura 64 mm"
+
+        ],
+        "extras": [
+        ],
+        "price": "$14.900",
+        "manual": "../uploads/pdf/manual_atp6030.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-670773198-positron-parlantes-triaxiales-6-pulgadas-pst-_JM"
+    },
+    {
+        "pn": "13134000",
+        "name": "ATP5030",
+        "description": "Parlante vehicular triaxial 5 pulgadas",
+        "images": [
+            "../img/audio/atp5030-parlante.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/potencia.svg",
+                "texto": "50W RMS max"
+            },            
+            {
+                "imagen": "../img/iconos/tweeter.svg",
+                "texto": "tweeter de 2 vías"
+            }
+        ],
+        "specs": [            
+            "Parlante 5 pulgadas triaxial",
+            "Tweeter de 2 vías",
+            "Potencia máxima 50W RMS",
+            "Impedancia de 4 ohm",
+            "Sin Rejas",
+            "Medidas: Diagonal tornillos 13,3 cm / altura 64 mm"
+
+        ],
+        "extras": [
+        ],
+        "price": "$13.300",
+        "manual": "../uploads/pdf/manual_atp5030.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-659239222-positron-parlantes-triaxiales-5-pulgadas-pst-_JM"
+    },
+    {
+        "pn": "13133000",
+        "name": "ATP4030",
+        "description": "Parlante vehicular triaxial 4 pulgadas",
+        "images": [
+            "../img/audio/atp4030-parlante.webp"
+        ],
+        "icons": [
+            {
+                "imagen": "../img/iconos/potencia.svg",
+                "texto": "40W RMS max"
+            },            
+            {
+                "imagen": "../img/iconos/tweeter.svg",
+                "texto": "tweeter de 2 vías"
+            }
+        ],
+        "specs": [            
+            "Parlante 4 pulgadas triaxial",
+            "Tweeter de 2 vías",
+            "Potencia máxima 40W RMS",
+            "Impedancia de 4 ohm",
+            "Sin Rejas",
+            "Medidas: Diagonal tornillos 11,5 cm / altura 64 mm"
+
+        ],
+        "extras": [
+        ],
+        "price": "$13.245",
+        "manual": "../uploads/pdf/manual_atp4030.pdf",
+        "linkOnline": "https://positronargentina.mercadoshops.com.ar/MLA-659238965-positron-parlantes-triaxiales-4-pulgadas-pst-_JM"
     }
+
 ]
