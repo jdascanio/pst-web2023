@@ -184,7 +184,7 @@ img {
     background: #fafafa;
     height: 200px;
     width: 100vw;
-    opacity: 95%;
+    opacity: 99%;
 }
 
 .bannerDinamico {
@@ -430,7 +430,8 @@ button {
 }
 
 .imgSmallMenu {
-    width: 100px;
+    /* width: 100px; */
+    max-height: 100px;
 }
 
 .extra {

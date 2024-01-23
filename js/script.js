@@ -190,12 +190,16 @@ accMenu.addEventListener('click', () => {
             banner.append(elemento)
             cars()
             motos()
+            item3()
+            item4()
         } else if (!banner.classList.contains('visible') && banner.classList.contains('accesorios')) {
             banner.classList.add('visible')
             banner.innerHTML = ""
             banner.append(elemento)
             cars()
             motos()
+            item3()
+            item4()
 
         } else {
             banner.classList.add = 'visible'
@@ -203,6 +207,8 @@ accMenu.addEventListener('click', () => {
             banner.append(elemento)
             cars()
             motos()
+            item3()
+            item4()
         }
     }
 
@@ -223,22 +229,31 @@ resMenu.addEventListener('click', () => {
                         </div>
                         <div class="banAlmRight" id="banAlmRight">
                             <ul class="listProducts">
-                                <li class="listItems" id="item1">Central</li>
-                                <li class="listItems" id="item2">Accesorios</li>
-                                <li>Aplicaciones</li>
+                                <li class="listItems" id="item1">Central<i class="fa fa-chevron-right"></i></li>
+                                <li class="listItems" id="item2">Accesorios<i class="fa fa-chevron-right"></i></li>
+                                <li class="listItems" id="item3">Aplicaciones<i class="fa fa-chevron-right"></i></li>
                             </ul>
                         </div>
                         <div class="itemList1 oculto" id="itemList1">
                             <ul class="lista">
-                                <li>HM264RF</li>
-                                <li>Teclado</li>
+                            <li class="prodMenuDetail"><a href="productos/alarma-hm264rf.html"><img class="imgSmallMenu" src="../img/home/HM264RF.webp" alt="HM264RF" /></a><a href="../productos/alarma-hm264rf.html">HM264RF</a></li>
+                            <li class="prodMenuDetail"><a href="productos/alarma-hm224rf.html"><img class="imgSmallMenu" src="../img/home/HM224RFN.webp" alt="HM224RFN" /></a><a href="../productos/alarma-hm264rf.html">HM224RFN</a></li>
+                            <li class="prodMenuDetail"><a href="productos/teclado-ht101.html"><img class="imgSmallMenu" src="../img/home/teclado-ht101.webp" alt="HT101" /></a><a href="../productos/teclado-ht101.html">Teclado</a></li>
                             </ul>
                         </div>
                         <div class="motoList oculto" id="motoList">
                             <ul class="lista">
-                                <li>PIR</li>
-                                <li>Sensores magnéticos</li>
-                                <li>Otros</li>
+                            <li class="prodMenuDetail"><a href="productos/pir-hs222.html"><img class="imgSmallMenu" src="../img/home/pir-hs222.webp" alt="HS222" /></a><a href="../productos/pir-hs222.html">Sensor de movimiento</a></li>
+                            <li class="prodMenuDetail"><a href="productos/magnetico-ms121.html"><img class="imgSmallMenu" src="../img/home/magnetico-ms121.webp" alt="MS121" /></a><a href="../productos/magnetico-ms121.html">Sensor Magnético</a></li>
+                            <li class="prodMenuDetail"><a href="productos/modulo-comunicador.html"><img class="imgSmallMenu" src="../img/home/HEG264.webp" alt="Módulo comunicador" /></a><a href="../productos/modulo-comunicador.html">Módulos Comunicadores</a></li>
+                            <li class="prodMenuDetail"><a href="productos/control-hc47.html"><img class="imgSmallMenu" src="../img/home/control-hc47.webp" alt="Control HC47" /></a><a href="../productos/control-hc47.html">Control HC47</a></li>
+                            </ul>
+                        </div>
+                        <div class="itemList3 oculto" id="itemList3">
+                            <ul class="lista">
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2230.html"><img class="imgSmallMenu" src="../img/audio/sp2230.webp" alt="SP2230" /></a><a href="../productos/estereo-para-auto-sp2230.html">SP2230</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2240.html"><img class="imgSmallMenu" src="../img/audio/sp2240.webp" alt="SP2240" /></a><a href="../productos/estereo-para-auto-sp2240.html">SP2240</a></li>
+                                <li class="prodMenuDetail"><a href="productos/estereo-para-auto-sp2250.html"><img class="imgSmallMenu" src="../img/audio/sp2250.webp" alt="SP2250" /></a><a href="../productos/estereo-para-auto-sp2250.html">SP2250</a></li>
                             </ul>
                         </div>`
 
@@ -250,12 +265,16 @@ resMenu.addEventListener('click', () => {
             banner.append(elemento)
             cars()
             motos()
+            item3()
+            item4()
         } else if (!banner.classList.contains('visible') && banner.classList.contains('residencial')) {
             banner.classList.add('visible')
             banner.innerHTML = ""
             banner.append(elemento)
             cars()
             motos()
+            item3()
+            item4()
 
         } else {
             banner.classList.add = 'visible'
@@ -263,6 +282,8 @@ resMenu.addEventListener('click', () => {
             banner.append(elemento)
             cars()
             motos()
+            item3()
+            item4()
         }
     }
 
@@ -325,7 +346,7 @@ function cars() {
             autos.classList.remove('oculto')
             motos.classList.add('oculto')
             itemlist3.classList.add('oculto')
-            itemlist4.classList.add('oculto')            
+            itemlist4.classList.add('oculto')
         } else {
             autos.classList.add('oculto')
         }
@@ -365,8 +386,10 @@ function item3() {
             itemlist4.classList.add('oculto')
             autos.classList.add('oculto')
             motos.classList.add('oculto')
+            console.log('btn clicked')
         } else {
             itemlist3.classList.add('oculto')
+            console.log('btn oculto clicked')
         }
 
     })
